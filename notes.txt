@@ -1,0 +1,14 @@
+player names could be the same between teams, so need both first and last names or other solution
+some players have longer names which throws off the parsing,  (ex. Jacob Evans III) gonna include code for 3 part name, but thats the limit
+  are three name player recorded in lineup with all three names or just two - do we need to record the third name
+does each team have a finite number of lineups (can they be defined beforehand)
+  if they do, can create lineup files that we feed into the parser, one for each Team
+    lineup would need to include relevant stats like player names, number of bigs, maybe classification of lineup, etc.
+do you want to keep lineup stats, or player and lineup stats for each lineup?
+  player stats per lineup might be pretty hard, total lineup stats would probably be all you need to analyze lineup performance
+  per lineup stats are easier to maintain, just keep running totals for each lineup type
+
+Weird parsing lines:
+- dunks
+- official timeout, team and TV
+- 
