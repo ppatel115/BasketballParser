@@ -1,27 +1,35 @@
-#trying to create a lineup object
-class lineups(object):
-    def __init__(self, lineup, lname1, lname2, lname3, lname4, lname5):
-        self.lineup = lineup
-        self.lname1 = lname1
-        self.lname2 = lname2
-        self.lname3 = lname3
-        self.lname4 = lname4
-        self.lname5 = lname5
+# Gator Lineups for Cincinatti Game
 
-#The lineups used in the first half of the Cincinatti Game, the "lineup" is just a 10 digit code with the players numbers in numerical order
+lineup1 = ["Chris Chiozza", "Kevaughn Allen", "Jalen Hudson", "Egor Koulechov", "Keith Stone", 0]
+lineup2 = ["Chris Chiozza", "Kevaughn Allen", "Deaundrae Ballard", "Egor Koulechov", "Kevarrius Hayes", 1]
+lineup3 = ["Kevaughn Allen", "Jalen Hudson", "Deaundrae Ballard", "Keith Stone", "Kevarrius Hayes",  1]
+lineup4 = ["Chris Chiozza", "Jalen Hudson", "Deaundrae Ballard", "Keith Stone", "Gorjok Gak",  1]
+lineup5 = ["Chris Chiozza", "Jalen Hudson", "Egor Koulechov", "Keith Stone", "Gorjok Gak",  1]
+lineup6 = ["Chris Chiozza", "Jalen Hudson", "Egor Koulechov", "Keith Stone", "Kevarrius Hayes",  1]
+lineup7 = ["Kevaughn Allen", "Jalen Hudson", "Egor Koulechov", "Keith Stone", "Kevarrius Hayes",  1]
+lineup8 = ["Chris Chiozza", "Kevaughn Allen", "Jalen Hudson", "Egor Koulechov",  "Kevarrius Hayes",  1]
+lineup9 = ["Chris Chiozza", "Kevaughn Allen","Deaundrae Ballard", "Egor Koulechov",  "Gorjok Gak",  1]
+lineup10 = ["Chris Chiozza", "Kevaughn Allen", "Deaundrae Ballard", "Egor Koulechov", "Keith Stone", 0]
+lineup11 = ["Chris Chiozza", "Kevaughn Allen", "Deaundrae Ballard", "Keith Stone",  "Kevarrius Hayes",  1]
+lineup12 = ["Mike Okauru", "Kevaughn Allen", "Jalen Hudson", "Kevarrius Hayes","Gorjok Gak",  2]
+lineup13 = ["Chris Chiozza", "Mike Okauru", "Jalen Hudson", "Kevarrius Hayes","Gorjok Gak",  2]
+lineup14 = ["Chris Chiozza", "Mike Okauru", "Jalen Hudson", "Egor Koulechov","Gorjok Gak",  1]
+lineup15 = ["Chris Chiozza", "Deaundrae Ballard", "Egor Koulechov", "Keith Stone", "Kevarrius Hayes",  1]
 
-Gators_lineups = [lineups("0304051125", "Hudson", "Koulechov", "Allen", "Chiozza", "Stone"),
-                  lineups("0405111324", "Koulechov", "Allen", "Chiozza", "Hayes", "Ballard"),
-                  lineups("0305132425", "Hudson", "Allen", "Hayes", "Ballard", "Stone"),
-                  lineups("0311122425", "Hudson", "Chiozza", "Gak", "Ballard", "Stone"),
-                  lineups("0304111225", "Hudson", "Koulechov", "Chiozza", "Gak", "Stone"),
-                  lineups("0304111325", "Hudson", "Koulechov", "Chiozza", "Hayes", "Stone"),
-                  lineups("0304051325", "Hudson", "Koulechov", "Allen", "Hayes", "Stone"),
-                  lineups("0304051113", "Hudson", "Koulechov", "Allen", "Chiozza", "Hayes"),
-                  lineups("0405111224", "Koulechov", "Allen", "Chiozza", "Gak", "Ballard")]
 
-#not sure if this will help either but here it is :^)
-Gators = [("Mike", "Okauru", "00"),("Chase", "Johnson", "01"), ("Jalen", "Hudson", "03"),
-            ("Egor", "Koulechov", "04"), ("Kevaughn", "Allen", "05"), ("Chris", "Chiozza", "11"),
-            ("Gorjok", "Gak", "12"), ("Kevarrius", "Hayes", "13"), ("John", "Egbunu", "15"),
-            ("Dontay", "Bassett", "21"), ("Deaundrae", "Ballard", "24"), ("Keith", "Stone", "25")]
+all_lineups = []
+all_lineups.append(lineup1)
+all_lineups.append(lineup2)
+all_lineups.append(lineup3)
+all_lineups.append(lineup4)
+all_lineups.append(lineup5)
+all_lineups.append(lineup6)
+all_lineups.append(lineup7)
+all_lineups.append(lineup8)
+all_lineups.append(lineup9)
+all_lineups.append(lineup10)
+all_lineups.append(lineup11)
+all_lineups.append(lineup12)
+all_lineups.append(lineup13)
+all_lineups.append(lineup14)
+all_lineups.append(lineup15)
