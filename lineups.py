@@ -33,3 +33,39 @@ all_lineups.append(lineup12)
 all_lineups.append(lineup13)
 all_lineups.append(lineup14)
 all_lineups.append(lineup15)
+
+#cincinnati Lineups used in game
+cin_lineup1 = ["Jacob Evans", "Justin Jenifer", "Gary Clark", "Kyle Washington", "Jarron Cumberland", 2]
+cin_lineup2 = ["Keith Williams","Cane Broome", "Justin Jenifer", "Kyle Washington", "Jarron Cumberland", 2]
+cin_lineup3 = ["Jacob Evans", "Justin Jenifer", "Gary Clark", "Nysier Brooks", "Jarron Cumberland", 2]
+cin_lineup4 = ["Jacob Evans", "Gary Clark", "Tre Scott", "Nysier Brooks", "Jarron Cumberland", 2]
+cin_lineup5 = ["Jacob Evans", "Justin Jenifer", "Tre Scott", "Kyle Washington", "Jarron Cumberland", 1]
+cin_lineup6 = ["Jacob Evans", "Justin Jenifer", "Gary Clark","Cane Broome", "Kyle Washington",  2]
+cin_lineup7 = ["Jacob Evans", "Justin Jenifer", "Gary Clark","Cane Broome", "Eliel Nsoseme",  2]
+cin_lineup8 = ["Jacob Evans", "Justin Jenifer", "Gary Clark","Tre Scott", "Cane Broome",  1]
+cin_lineup9 = ["Jacob Evans", "Gary Clark", "Cane Broome", "Kyle Washington","Jarron Cumberland", 2]
+cin_lineup10 = ["Jacob Evans", "Gary Clark", "Tre Scott", "Cane Broome","Jarron Cumberland", 1]
+cin_lineup11 = ["Jacob Evans", "Gary Clark", "Cane Broome","Nysier Brooks", "Jarron Cumberland", 2]
+cin_lineup12 = ["Jacob Evans", "Justin Jenifer", "Gary Clark", "Tre Scott", "Jarron Cumberland", 1]
+cin_lineup13 = ["Jacob Evans", "Justin Jenifer", "Gary Clark", "Tre Scott", "Jarron Cumberland", 1]
+cin_lineup14 = ["Jacob Evans", "Justin Jenifer", "Tre Scott", "Cane Broome",  "Kyle Washington", 1]
+cin_lineup15 = ["Jacob Evans", "Tre Scott", "Cane Broome",  "Kyle Washington","Jarron Cumberland", 1]
+
+cin_lineups = []
+cin_lineups.append(cin_lineup1)
+cin_lineups.append(cin_lineup2)
+cin_lineups.append(cin_lineup3)
+cin_lineups.append(cin_lineup4)
+cin_lineups.append(cin_lineup5)
+cin_lineups.append(cin_lineup6)
+cin_lineups.append(cin_lineup7)
+cin_lineups.append(cin_lineup8)
+cin_lineups.append(cin_lineup9)
+cin_lineups.append(cin_lineup10)
+cin_lineups.append(cin_lineup11)
+cin_lineups.append(cin_lineup12)
+cin_lineups.append(cin_lineup13)
+cin_lineups.append(cin_lineup14)
+cin_lineups.append(cin_lineup15)
+
+
