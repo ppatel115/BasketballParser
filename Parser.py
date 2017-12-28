@@ -1,6 +1,9 @@
 #!/usr/bin/python2.7
 
 # create text file by pasting SI link into textise.net, and then copy into .txt file
+def SubstitutePlayers( playerIn, playerOut):
+    return;
+
 
 filepath = 'sample_input.txt'                       #TODO: Take filename from stdin
 with open(filepath) as fp:
