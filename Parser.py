@@ -1,24 +1,40 @@
 #!/usr/bin/python2.7
 
 # create text file by pasting SI link into textise.net, and then copy into .txt
+from lineups import fl_lineups
+from lineups import cin_lineups
+
+homeLineups = fl_lineups
+awayLineups = cin_lineups
 
 
-def IdentifyLineup(team, currentLineup, allLineups):
+def IdentifyLineup(currentLineup, teamLineups):
     """Check currentLineup names against allLineups to determine number."""
-    return
+    if currentLineup in teamLineups:
+        # TODO:Once lineup is identified, need to set up matchup
+        return
 
 
-def SubstitutePlayers(playerIn, playerOut, currentLineup):
-    """Substitute player into currentLineup, call IdentifyLineup."""
-    return
+def SubstitutePlayers(playerIn, playerOut, homeLineup, awayLineup):
+    """Substitute player into lineup, call IdentifyLineup."""
+    if playerOut in homeLineup:
+        homeLineup.remove(playerOut)
+        homeLineup.append(playerIn)
+        homeLineup = IdentifyLineup(homeLineup, homeLineups)
+        return homeLineup
+    elif playerOut in awayLineup:
+        awayLineup.remove(playerOut)
+        awayLineup.append(playerIn)
+        awayLineup = IdentifyLineup(awayLineup, awayLineups)
+        return awayLineup
 
 
-def ConverTimeToSeconds(gameTime):
+def ConvertTimeToSeconds(gameTime):
     """Take in gametime, convert to seconds."""
     return
 
 
-def ConverSecondsToTime(gameSeconds):
+def ConvertSecondsToTime(gameSeconds):
     """Take in seconds, convert to gameTime."""
     return
 
@@ -26,13 +42,13 @@ def ConverSecondsToTime(gameSeconds):
 filepath = 'sample_input.txt'                  # TODO: Take filename from stdin
 with open(filepath) as fp:
     line = fp.readline()
-    while line:
-        splitline = line.split(" ")        # do stuff based on single line data
-        p1fname = ""        # generally p1 is offensive player,
-        p1lname = ""        # p2 is defensive player in 2 player plays
-        p2fname = ""
-        p2lname = ""
-        # (fname and lname)substitute player name for player name in new lineup
+while line:
+    splitline = line.split(" ")        # do stuff based on single line data
+    p1fname = ""        # generally p1 is offensive player,
+    p1lname = ""        # p2 is defensive player in 2 player plays
+    p2fname = ""
+    p2lname = ""
+    # (fname and lname)substitute player name for player name in new lineup
 if (splitline[2] == "misses" and splitline[3] == "a" and splitline[4] == "jump"):
     print ("Miss 2 pointer")           # missed 2 point shot (FGA incremented)
     p1fname = splitline[0]
@@ -77,7 +93,7 @@ elif (splitline[3] == "misses" and splitline[4] == "a" and splitline[5] == "dunk
     print ("Three name miss paint shot")
     p1fname = splitline[0]
     p1lname = splitline[1]
-elif (splitline[2] == "makes" and splitline[3] == "a" and splitline[4] == "jump"):             # made 2 pointer (FGA++, FGM++)            TODO: Add functionality for two vs three pointer
+elif (splitline[2] == "makes" and splitline[3] == "a" and splitline[4] == "jump"):             # made 2 pointer (FGA++, FGM++)
     print ("Make 2 pointer")
     p1fname = splitline[0]
     p1lname = splitline[1]

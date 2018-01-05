@@ -17,22 +17,27 @@ lineup14 = ["Chris Chiozza", "Mike Okauru", "Jalen Hudson", "Egor Koulechov","Go
 lineup15 = ["Chris Chiozza", "Deaundrae Ballard", "Egor Koulechov", "Keith Stone", "Kevarrius Hayes",  1]
 
 
-all_lineups = []
-all_lineups.append(lineup1)
-all_lineups.append(lineup2)
-all_lineups.append(lineup3)
-all_lineups.append(lineup4)
-all_lineups.append(lineup5)
-all_lineups.append(lineup6)
-all_lineups.append(lineup7)
-all_lineups.append(lineup8)
-all_lineups.append(lineup9)
-all_lineups.append(lineup10)
-all_lineups.append(lineup11)
-all_lineups.append(lineup12)
-all_lineups.append(lineup13)
-all_lineups.append(lineup14)
-all_lineups.append(lineup15)
+fl_lineups = []
+fl_lineups.append(lineup1)
+fl_lineups.append(lineup2)
+fl_lineups.append(lineup3)
+fl_lineups.append(lineup4)
+fl_lineups.append(lineup5)
+fl_lineups.append(lineup6)
+fl_lineups.append(lineup7)
+fl_lineups.append(lineup8)
+fl_lineups.append(lineup9)
+fl_lineups.append(lineup10)
+fl_lineups.append(lineup11)
+fl_lineups.append(lineup12)
+fl_lineups.append(lineup13)
+fl_lineups.append(lineup14)
+fl_lineups.append(lineup15)
+fl_lineups.append("Florida")
+# After checking if player is in a team's lineup
+# can determine which team by checking last item in list
+
+
 
 #cincinnati Lineups used in game
 cin_lineup1 = ["Jacob Evans", "Justin Jenifer", "Gary Clark", "Kyle Washington", "Jarron Cumberland", 2]
@@ -67,5 +72,4 @@ cin_lineups.append(cin_lineup12)
 cin_lineups.append(cin_lineup13)
 cin_lineups.append(cin_lineup14)
 cin_lineups.append(cin_lineup15)
-
-
+cin_lineups.append("Cincinatti")
