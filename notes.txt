@@ -11,4 +11,6 @@ do you want to keep lineup stats, or player and lineup stats for each lineup?
 Weird parsing lines:
 - dunks
 - official timeout, team and TV
-- 
+-
+
+Home team score is 2nd number in text, Away Team is first. Check for who's home in neutral sites

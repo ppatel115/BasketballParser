@@ -15,7 +15,8 @@ class Matchup(object):
     team1stats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     team2stats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 # team1stats[0]=2PFGM [1]=2PFGA  [2]=PFGM [3]=PFGA  [4]=3PFGM [5]=3PFGA
-# [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB
+# [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB  [11]=Initial Time  [12]=Final time
+# [13]=Total Time
 # how to track minutes?
 
 # TODO
