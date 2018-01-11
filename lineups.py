@@ -1,6 +1,6 @@
 # Gator Lineups for Cincinatti Game
 
-lineup1 = ["Chris Chiozza", "Kevaughn Allen", "Jalen Hudson", "Egor Koulechov", "Keith Stone", 0]
+lineup1 = ["Chris Chiozza", "Kevaughn Allen", "Jalen Hudson","Egor Koulechov", "Keith Stone", 0]
 lineup2 = ["Chris Chiozza", "Kevaughn Allen", "Deaundrae Ballard", "Egor Koulechov", "Kevarrius Hayes", 1]
 lineup3 = ["Kevaughn Allen", "Jalen Hudson", "Deaundrae Ballard", "Keith Stone", "Kevarrius Hayes",  1]
 lineup4 = ["Chris Chiozza", "Jalen Hudson", "Deaundrae Ballard", "Keith Stone", "Gorjok Gak",  1]
