@@ -13,13 +13,9 @@ class Matchup(object):
     floridaLineupStats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     opponentLineupStats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 # team1stats[0]=2PFGM [1]=2PFGA  [2]=PFGM [3]=PFGA  [4]=3PFGM [5]=3PFGA
-<<<<<<< HEAD
 # [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB  [11]=Initial Time  [12]=Final time
 # [13]=Total Time
-=======
-# [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB [12]=Initial time
-# [13]=Final time [14]=Total time in play
->>>>>>> b562a3a8ba33f65bfe1f5f71f8a17df4f09b52ae
+
 # how to track minutes?
 
 # TODO
