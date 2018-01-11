@@ -5,9 +5,18 @@ from lineups import fl_lineups
 from lineups import cin_lineups
 import Matchup
 
+isFloridaHome = True
 floridaLineups = fl_lineups
 opponentLineups = cin_lineups
 allMatchups = []
+
+
+def IdentifyPlayer(playerName, currentMatchup):
+    """Check playerName against currentMatchup lineups to find stat earner."""
+    if playerName in floridaLineups[currentMatchup.floridaLineupIndex]:
+        return "florida"
+    elif playerName in opponentLineups[currentMatchup.opponentLineupIndex]:
+        return "opponent"
 
 
 def IdentifyLineup(newLineup, teamLineups):
@@ -25,26 +34,28 @@ def SubstitutePlayers(playerIn, playerOut, floridaLineup, opponentLineup):
         opponentIndex = opponentLineups.index(opponentLineup)
         floridaIndex = IdentifyLineup(floridaLineup, floridaLineups)
         matchup = Matchup.make_matchup(floridaIndex, opponentIndex)
-        allMatchups.append(matchup)
-        return allMatchups.index(matchup)
+        if matchup in allMatchups:
+            return allMatchups.index(matchup)
+        else:
+            allMatchups.append(matchup)
+            return allMatchups.index(matchup)
     elif playerOut in opponentLineup:
         opponentLineup.remove(playerOut)
         opponentLineup.append(playerIn)
         floridaIndex = floridaLineups.index(floridaLineup)
         opponentIndex = IdentifyLineup(opponentLineup, opponentLineups)
         matchup = Matchup.make_matchup(floridaIndex, opponentIndex)
-        allMatchups.append(matchup)
-        return allMatchups.index(matchup)
+        if matchup in allMatchups:
+            return allMatchups.index(matchup)
+        else:
+            allMatchups.append(matchup)
+            return allMatchups.index(matchup)
 
 
-def ConvertTimeToSeconds(gameTime):
+def ConvertTimeToSeconds(gameTimeMinutes, gameTimeSeconds):
     """Take in gametime, convert to seconds."""
-    return
-
-
-def ConvertSecondsToTime(gameSeconds):
-    """Take in seconds, convert to gameTime."""
-    return
+    totalSeconds = (gameTimeMinutes*60) + gameTimeSeconds
+    return totalSeconds
 
 
 filepath = 'sample_input.txt'                  # TODO: Take filename from stdin
@@ -73,7 +84,7 @@ elif (splitline[2] == "misses" and splitline[3] == "a" and splitline[4] == "3-po
     print ("Miss 3PA")              # missed 3PA (FGA++, 3PA++)
     p1fname = splitline[0]
     p1lname = splitline[1]
-elif (splitline[3] == "misses" and splitline[4] == "a" and splitline[5]=="3-point"):
+elif (splitline[3] == "misses" and splitline[4] == "a" and splitline[5]== "3-point"):
     print ("Three name miss 3PA")
     p1fname = splitline[0]
     p1lname = splitline[1]
