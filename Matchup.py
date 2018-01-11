@@ -12,8 +12,8 @@ class Matchup(object):
     t1lineup = 1000     # 0-15ish probably used per team
     team2 = ""
     t2lineup = 1000
-    team1stats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-    team2stats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    team1stats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    team2stats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 # team1stats[0]=2PFGM [1]=2PFGA  [2]=PFGM [3]=PFGA  [4]=3PFGM [5]=3PFGA
 # [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB
 # how to track minutes?
