@@ -3,30 +3,38 @@
 # create text file by pasting SI link into textise.net, and then copy into .txt
 from lineups import fl_lineups
 from lineups import cin_lineups
+import Matchup
 
-homeLineups = fl_lineups
-awayLineups = cin_lineups
+floridaLineups = fl_lineups
+opponentLineups = cin_lineups
+allMatchups = []
 
 
-def IdentifyLineup(currentLineup, teamLineups):
+def IdentifyLineup(newLineup, teamLineups):
     """Check currentLineup names against allLineups to determine number."""
-    if currentLineup in teamLineups:
-        # TODO:Once lineup is identified, need to set up matchup
-        return
+    if newLineup in teamLineups:
+        teamIndex = teamLineups.index(newLineup)
+        return teamIndex
 
 
-def SubstitutePlayers(playerIn, playerOut, homeLineup, awayLineup):
+def SubstitutePlayers(playerIn, playerOut, floridaLineup, opponentLineup):
     """Substitute player into lineup, call IdentifyLineup."""
-    if playerOut in homeLineup:
-        homeLineup.remove(playerOut)
-        homeLineup.append(playerIn)
-        homeLineup = IdentifyLineup(homeLineup, homeLineups)
-        return homeLineup
-    elif playerOut in awayLineup:
-        awayLineup.remove(playerOut)
-        awayLineup.append(playerIn)
-        awayLineup = IdentifyLineup(awayLineup, awayLineups)
-        return awayLineup
+    if playerOut in floridaLineup:
+        floridaLineup.remove(playerOut)
+        floridaLineup.append(playerIn)
+        opponentIndex = opponentLineups.index(opponentLineup)
+        floridaIndex = IdentifyLineup(floridaLineup, floridaLineups)
+        matchup = Matchup.make_matchup(floridaIndex, opponentIndex)
+        allMatchups.append(matchup)
+        return allMatchups.index(matchup)
+    elif playerOut in opponentLineup:
+        opponentLineup.remove(playerOut)
+        opponentLineup.append(playerIn)
+        floridaIndex = floridaLineups.index(floridaLineup)
+        opponentIndex = IdentifyLineup(opponentLineup, opponentLineups)
+        matchup = Matchup.make_matchup(floridaIndex, opponentIndex)
+        allMatchups.append(matchup)
+        return allMatchups.index(matchup)
 
 
 def ConvertTimeToSeconds(gameTime):

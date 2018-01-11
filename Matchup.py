@@ -8,15 +8,18 @@
 class Matchup(object):
     """Main class for forming a matchup."""
 
-    team1 = ""
-    t1lineup = 1000     # 0-15ish probably used per team
-    team2 = ""
-    t2lineup = 1000
-    team1stats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-    team2stats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    floridaLineupIndex = 1000     # 0-15ish probably used per team
+    opponentLineupIndex = 1000
+    floridaLineupStats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    opponentLineupStats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 # team1stats[0]=2PFGM [1]=2PFGA  [2]=PFGM [3]=PFGA  [4]=3PFGM [5]=3PFGA
+<<<<<<< HEAD
 # [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB  [11]=Initial Time  [12]=Final time
 # [13]=Total Time
+=======
+# [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB [12]=Initial time
+# [13]=Final time [14]=Total time in play
+>>>>>>> b562a3a8ba33f65bfe1f5f71f8a17df4f09b52ae
 # how to track minutes?
 
 # TODO
@@ -37,15 +40,16 @@ class Matchup(object):
 # Maybe after parsing whole game, go back and convert total seconds to actual
 # minutes?
 
-    def __init__(self, team1, t1lineup, team2, t2lineup):
+    def __init__(self, floridaLineupIndex, opponentLineupIndex,
+                 floridaLineupStats, opponentLineupStats):
         """Init matchup with team names and lineup numbers."""
-        self.team1 = team1
-        self.t1lineup = t1lineup
-        self.team2 = team2
-        self.t2lineup = t2lineup
+        self.floridaLineupIndex = floridaLineupIndex
+        self.opponentLineupIndex = opponentLineupIndex
+        self.floridaLineupStats = floridaLineupStats
+        self.opponentLineupStats = opponentLineupStats
 
 
-def make_matchup(team1, t1lineup, team2, t2lineup):
+def make_matchup(floridaLineup, opponentLineup):
     """Create a matchup."""
-    matchup = Matchup(team1, t1lineup, team2, t2lineup)
+    matchup = Matchup(floridaLineup, opponentLineup)
     return matchup
