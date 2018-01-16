@@ -14,3 +14,4 @@ Weird parsing lines:
 -
 
 Home team score is 2nd number in text, Away Team is first. Check for who's home in neutral sites
+Need to handle player names ending with period at the end of sentence
