@@ -10,6 +10,11 @@ floridaLineups = fl_lineups
 opponentLineups = cin_lineups
 allMatchups = []
 
+matchupsList = []
+
+currentHomeLineup
+currentAwayLineup
+
 
 def IdentifyPlayer(playerName, currentMatchup):
     """Check playerName against currentMatchup lineups to find stat earner."""

@@ -16,6 +16,8 @@ lineup13 = ["Chris Chiozza", "Mike Okauru", "Jalen Hudson", "Kevarrius Hayes", "
 lineup14 = ["Chris Chiozza", "Mike Okauru", "Jalen Hudson", "Egor Koulechov", "Gorjok Gak",  1]
 lineup15 = ["Chris Chiozza", "Deaundrae Ballard", "Egor Koulechov", "Keith Stone", "Kevarrius Hayes",  1]
 
+# TODO: If we track number of bigs here, need to track if each player is a big
+# for substitutions, right? 
 
 fl_lineups = []
 fl_lineups.append(lineup1)
