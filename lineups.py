@@ -48,6 +48,8 @@ lineup44 = ["Mike Okauru", "Deaundrae Ballard", "Chase Johnson", "Dontay Basset"
 
 
 
+# TODO: If we track number of bigs here, need to track if each player is a big
+# for substitutions, right? 
 
 fl_lineups = []
 fl_lineups.append(lineup1)

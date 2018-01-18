@@ -11,10 +11,12 @@ class Matchup(object):
     floridaLineupIndex = 1000     # 0-15ish probably used per team
     opponentLineupIndex = 1000
     floridaLineupStats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-    opponentLineupStats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    opponentLineupStats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                           0]
 # team1stats[0]=2PFGM [1]=2PFGA  [2]=PFGM [3]=PFGA  [4]=3PFGM [5]=3PFGA
 # [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB  [11]=Initial Time  [12]=Final time
 # [13]=Total Time [14]=Initial Points [15]=Final Points [16]=Total Points
+# [17]= PF
 
 # how to track minutes?
 

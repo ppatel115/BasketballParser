@@ -1,0 +1,2161 @@
+{
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Florida vs Cincinnati",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "718",
+				"seoName": "cincinnati",
+				"sixCharAbbr": "CINCY",
+				"shortName": "Cincinnati",	
+				"nickName": "Bearcats",		
+				"color": "#141414"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Kyle Washington vs. Keith Stone (Justin Jenifer gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:45",
+							 "visitorText":"Kyle Washington turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:15",
+							 "visitorText":"",
+							 "homeText":"Jarron Cumberland blocks Keith Stone's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:14",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:14",
+							 "visitorText":"",
+							 "homeText":"Gators turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:54",
+							 "visitorText":"Kyle Washington offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:54",
+							 "visitorText":"Kyle Washington turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:35",
+							 "visitorText":"Gary Clark shooting foul (Keith Stone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-1",
+							 "time":"18:35",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"18:35",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"18:15",
+							 "visitorText":"Kyle Washington makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:56",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (traveling)"
+							 },
+							 {
+							 "score":"5-2",
+							 "time":"17:36",
+							 "visitorText":"Kyle Washington makes three point jump shot (Jacob Evans III assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:16",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:14",
+							 "visitorText":"Gary Clark defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:53",
+							 "visitorText":"Jacob Evans III misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:51",
+							 "visitorText":"Jarron Cumberland offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-2",
+							 "time":"16:45",
+							 "visitorText":"Jarron Cumberland makes three point jump shot (Justin Jenifer assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (lost ball) (Kyle Washington steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:10",
+							 "visitorText":"Jacob Evans III turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:10",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Kevarrius Hayes, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"8-4",
+							 "time":"15:55",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"Jacob Evans III misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"Gary Clark offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:27",
+							 "visitorText":"Justin Jenifer misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:25",
+							 "visitorText":"Gary Clark offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-4",
+							 "time":"15:22",
+							 "visitorText":"Gary Clark makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:07",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:05",
+							 "visitorText":"Kyle Washington defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza kicked ball violation"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"Bearcats lineup change (Keith Williams, Cane Broome, Gary Clark, Kyle Washington, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:39",
+							 "visitorText":"Gary Clark misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:37",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:15",
+							 "visitorText":"",
+							 "homeText":"Kyle Washington blocks Egor Koulechov's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:13",
+							 "visitorText":"Keith Williams defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:02",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:01",
+							 "visitorText":"Bearcats turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"10-6",
+							 "time":"13:31",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"Gary Clark misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"10-8",
+							 "time":"13:01",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"Keith Williams turnover (lost ball) (Deaundrae Ballard steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-10",
+							 "time":"12:40",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:21",
+							 "visitorText":"Kyle Washington turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:21",
+							 "visitorText":"Bearcats lineup change (Justin Jenifer, Gary Clark, Nysier Brooks, Jacob Evans III, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes turnover (lost ball) (Jarron Cumberland steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:53",
+							 "visitorText":"Jarron Cumberland misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:51",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"Justin Jenifer personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Justin Jenifer, Tre Scott, Nysier Brooks, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Keith Stone, KeVaughn Allen, Jalen Hudson, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:32",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:30",
+							 "visitorText":"Nysier Brooks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-10",
+							 "time":"11:12",
+							 "visitorText":"Nysier Brooks makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-12",
+							 "time":"10:51",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"Jacob Evans III misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"Nysier Brooks personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"Jarron Cumberland personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:57",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:55",
+							 "visitorText":"Nysier Brooks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:45",
+							 "visitorText":"Jarron Cumberland misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:43",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:42",
+							 "visitorText":"Nysier Brooks personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:42",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Justin Jenifer, Tre Scott, Kyle Washington, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:42",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Gorjok Gak, Egor Koulechov, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:40",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (bad pass) (Jacob Evans III steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:38",
+							 "visitorText":"Keith Stone blocks Jacob Evans III's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"Jacob Evans III offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:32",
+							 "visitorText":"Jacob Evans III turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:25",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:23",
+							 "visitorText":"Jacob Evans III defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:12",
+							 "visitorText":"Kyle Washington misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:10",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"12-15",
+							 "time":"9:05",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"Jarron Cumberland turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Justin Jenifer, Gary Clark, Kyle Washington, Cane Broome)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-18",
+							 "time":"8:29",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot"
+							 },
+							 {
+							 "score":"14-18",
+							 "time":"8:15",
+							 "visitorText":"Cane Broome makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson shooting foul (Cane Broome draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"Cane Broome misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"Gary Clark offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:11",
+							 "visitorText":"Kevarrius Hayes blocks Gary Clark's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:10",
+							 "visitorText":"Gary Clark offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:01",
+							 "visitorText":"Kyle Washington turnover (lost ball) (Keith Stone steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:01",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Justin Jenifer, Gary Clark, Cane Broome, Eliel Nsoseme)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:51",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:49",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"Jacob Evans III defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"Eliel Nsoseme offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"Eliel Nsoseme turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Justin Jenifer, Gary Clark, Cane Broome, Tre Scott)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:19",
+							 "visitorText":"Cane Broome personal foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"14-19",
+							 "time":"7:19",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"14-20",
+							 "time":"7:19",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"Justin Jenifer offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"Justin Jenifer turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Jarron Cumberland, Gary Clark, Tre Scott, Cane Broome)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"14-22",
+							 "time":"6:42",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:22",
+							 "visitorText":"Cane Broome misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:49",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:47",
+							 "visitorText":"Cane Broome defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-22",
+							 "time":"5:26",
+							 "visitorText":"Jarron Cumberland makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-24",
+							 "time":"5:16",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Gary Clark, Kyle Washington, Cane Broome, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Chris Chiozza)"
+							 },
+							 {
+							 "score":"18-24",
+							 "time":"4:51",
+							 "visitorText":"Kyle Washington makes two point dunk (Jarron Cumberland assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (lost ball) (Cane Broome steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Keith Stone, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"20-24",
+							 "time":"4:26",
+							 "visitorText":"Jacob Evans III makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul (Jacob Evans III draws the foul)"
+							 },
+							 {
+							 "score":"21-24",
+							 "time":"4:26",
+							 "visitorText":"Jacob Evans III makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"",
+							 "homeText":"Jacob Evans III blocks Egor Koulechov's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:14",
+							 "visitorText":"Gary Clark defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:03",
+							 "visitorText":"Kyle Washington misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (bad pass) (Gary Clark steals)"
+							 },
+							 {
+							 "score":"24-24",
+							 "time":"3:27",
+							 "visitorText":"Cane Broome makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-27",
+							 "time":"2:58",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes three point jump shot (Egor Koulechov assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:31",
+							 "visitorText":"Jarron Cumberland misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:29",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"24-30",
+							 "time":"2:24",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Bearcats 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Gary Clark, Cane Broome, Tre Scott, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:05",
+							 "visitorText":"Gary Clark turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:52",
+							 "visitorText":"Gary Clark defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-30",
+							 "time":"1:41",
+							 "visitorText":"Cane Broome makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:41",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:41",
+							 "visitorText":"Cane Broome misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:41",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard defensive rebound"
+							 },
+							 {
+							 "score":"26-32",
+							 "time":"1:12",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"Gorjok Gak blocks Tre Scott's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:41",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:34",
+							 "visitorText":"Cane Broome turnover (bad pass) (Egor Koulechov steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"Tre Scott shooting foul (Deaundrae Ballard draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"26-33",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Gary Clark, Nysier Brooks, Cane Broome, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"26-34",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"28-34",
+							 "time":"00:05",
+							 "visitorText":"Cane Broome makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Jalen Hudson, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Gary Clark, Jarron Cumberland, Tre Scott, Justin Jenifer)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Bearcats",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:49",
+							 "visitorText":"Jacob Evans III misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:47",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:37",
+							 "visitorText":"Jarron Cumberland shooting foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-35",
+							 "time":"19:37",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"28-36",
+							 "time":"19:37",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:37",
+							 "visitorText":"Jacob Evans III misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:35",
+							 "visitorText":"Gary Clark offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-36",
+							 "time":"19:35",
+							 "visitorText":"Gary Clark makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:54",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:54",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:32",
+							 "visitorText":"Tre Scott turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:25",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:23",
+							 "visitorText":"Gary Clark defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:14",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"Justin Jenifer misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:05",
+							 "visitorText":"Gary Clark offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-36",
+							 "time":"17:48",
+							 "visitorText":"Jarron Cumberland makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"Jarron Cumberland personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:37",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Justin Jenifer, Gary Clark, Tre Scott, Cane Broome)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-38",
+							 "time":"17:31",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"Jacob Evans III misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:19",
+							 "visitorText":"Gary Clark offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:19",
+							 "visitorText":"Gary Clark misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:18",
+							 "visitorText":"Gary Clark offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:16",
+							 "visitorText":"Gary Clark turnover (lost ball) (Keith Stone steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:03",
+							 "visitorText":"Tre Scott defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:57",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza shooting foul"
+							 },
+							 {
+							 "score":"34-38",
+							 "time":"16:57",
+							 "visitorText":"Jacob Evans III makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:57",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"35-38",
+							 "time":"16:57",
+							 "visitorText":"Jacob Evans III makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:50",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"Jacob Evans III defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"Jacob Evans III misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"35-40",
+							 "time":"16:20",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"Jacob Evans III misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"Bearcats rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"36-40",
+							 "time":"16:07",
+							 "visitorText":"Jacob Evans III makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard turnover (Cane Broome steals)"
+							 },
+							 {
+							 "score":"38-40",
+							 "time":"15:48",
+							 "visitorText":"Cane Broome makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:23",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"Jacob Evans III shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:03",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Justin Jenifer misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"Tre Scott offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-40",
+							 "time":"14:43",
+							 "visitorText":"Jacob Evans III makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:23",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:23",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Keith Stone, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:06",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:06",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Jalen Hudson, Kevarrius Hayes, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:01",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:01",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Kevarrius Hayes, Mike Okauru, Gorjok Gak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:59",
+							 "visitorText":"Jacob Evans III turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Cane Broome blocks KeVaughn Allen's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Chris Chiozza, Gorjok Gak, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:34",
+							 "visitorText":"Cane Broome defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-40",
+							 "time":"13:21",
+							 "visitorText":"Gary Clark makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:57",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:55",
+							 "visitorText":"Jacob Evans III defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"Jacob Evans III turnover (Jalen Hudson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-43",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot"
+							 },
+							 {
+							 "score":"44-43",
+							 "time":"12:43",
+							 "visitorText":"Cane Broome makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-45",
+							 "time":"12:19",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak shooting foul (Jacob Evans III draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Jacob Evans III misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Bearcats rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Justin Jenifer, Gary Clark, Kyle Washington, Cane Broome)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-45",
+							 "time":"12:02",
+							 "visitorText":"Jacob Evans III makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:44",
+							 "visitorText":"Jacob Evans III personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:44",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Chris Chiozza, Gorjok Gak, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"Jacob Evans III defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"Kyle Washington misses two point hook shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:05",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru defensive rebound"
+							 },
+							 {
+							 "score":"45-47",
+							 "time":"10:58",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak personal foul"
+							 },
+							 {
+							 "score":"46-47",
+							 "time":"10:40",
+							 "visitorText":"Kyle Washington makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Kevarrius Hayes, Jalen Hudson, Egor Koulechov, Chris Chiozza, KeVaughn Allen)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Justin Jenifer, Tre Scott, Cane Broome, Kyle Washington)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-47",
+							 "time":"10:40",
+							 "visitorText":"Kyle Washington makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-49",
+							 "time":"10:21",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point floating jump shot (Egor Koulechov assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:21",
+							 "visitorText":"Jacob Evans III shooting foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:21",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Jarron Cumberland, Tre Scott, Cane Broome, Kyle Washington)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:21",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:21",
+							 "visitorText":"Kyle Washington defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:51",
+							 "visitorText":"Jarron Cumberland misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:49",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:40",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (bad pass) (Jacob Evans III steals)"
+							 },
+							 {
+							 "score":"49-49",
+							 "time":"9:16",
+							 "visitorText":"Jacob Evans III makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:53",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"Kyle Washington defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-49",
+							 "time":"8:45",
+							 "visitorText":"Jacob Evans III makes two point alley-oop layup (Jarron Cumberland assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Cane Broome personal foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Gary Clark, Cane Broome, Kyle Washington, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"",
+							 "homeText":"Gators turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"53-49",
+							 "time":"7:53",
+							 "visitorText":"Jarron Cumberland makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson shooting foul (Jarron Cumberland draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, Keith Stone, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"Jarron Cumberland misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:42",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"53-51",
+							 "time":"7:32",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:06",
+							 "visitorText":"Cane Broome misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"Kyle Washington personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-52",
+							 "time":"7:04",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"53-53",
+							 "time":"7:04",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"Jarron Cumberland misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:44",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:32",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"Keith Stone blocks Kyle Washington's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:04",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:02",
+							 "visitorText":"Jarron Cumberland defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:39",
+							 "visitorText":"Jarron Cumberland offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:39",
+							 "visitorText":"Jarron Cumberland turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:39",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Gary Clark, Cane Broome, Tre Scott, Justin Jenifer)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:30",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"53-55",
+							 "time":"5:18",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"Bearcats 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Kyle Washington, Gary Clark, Jarron Cumberland, Cane Broome)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:59",
+							 "visitorText":"Kevarrius Hayes blocks Jarron Cumberland's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"Bearcats offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-55",
+							 "time":"4:55",
+							 "visitorText":"Gary Clark makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:39",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:37",
+							 "visitorText":"Gary Clark defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"Jarron Cumberland misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"Bearcats offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"Bearcats turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Jalen Hudson, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Gary Clark, Cane Broome, Kyle Washington, Justin Jenifer)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-58",
+							 "time":"3:52",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"57-58",
+							 "time":"3:23",
+							 "visitorText":"Kyle Washington makes two point driving hook shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"",
+							 "homeText":"Jarron Cumberland blocks Keith Stone's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:02",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:58",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"Gary Clark personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Jarron Cumberland, Gary Clark, Cane Broome, Kyle Washington)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"Kyle Washington defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"Jarron Cumberland misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:15",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:13",
+							 "visitorText":"Cane Broome defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza shooting foul (Cane Broome draws the foul)"
+							 },
+							 {
+							 "score":"58-58",
+							 "time":"2:09",
+							 "visitorText":"Cane Broome makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-58",
+							 "time":"2:09",
+							 "visitorText":"Cane Broome makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:55",
+							 "visitorText":"Kyle Washington personal foul (Kevarrius Hayes draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-59",
+							 "time":"1:55",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"59-60",
+							 "time":"1:55",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:31",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul (Gary Clark draws the foul)"
+							 },
+							 {
+							 "score":"60-60",
+							 "time":"1:31",
+							 "visitorText":"Gary Clark makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:31",
+							 "visitorText":"Gary Clark misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:31",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"",
+							 "homeText":"Gators 60 second timeout"
+							 },
+							 {
+							 "score":"60-62",
+							 "time":"1:12",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:01",
+							 "visitorText":"Bearcats 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"Jalen Hudson blocks Jacob Evans III's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Gary Clark, Tre Scott, Justin Jenifer, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:19",
+							 "visitorText":"Jacob Evans III personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-63",
+							 "time":"00:19",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:19",
+							 "visitorText":"Bearcats lineup change (Jacob Evans III, Kyle Washington, Gary Clark, Cane Broome, Jarron Cumberland)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-64",
+							 "time":"00:19",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:19",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:13",
+							 "visitorText":"Cane Broome turnover (bad pass) (Kevarrius Hayes steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-66",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Jacob Evans III turnover (bad pass) (Jalen Hudson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		}
