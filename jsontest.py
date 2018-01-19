@@ -3,6 +3,9 @@ from pprint import pprint
 
 data = json.load(open('pbp_cincinnati.json'))
 
+florida_bigs = ["Kevarrius Hayes", "Gorjok Gak", "John Egbunu", "Isaiah Stokes"]
+opp_bigs = ["Gary Clark", "Kyle Washington", "Nysier Brooks", "Eliel Nsoseme"]
+
 
 def IdentifyPlayFlorida(play):
     """Take in play, identify which kind of play it is to increment proper stats."""
