@@ -15,3 +15,6 @@ Weird parsing lines:
 
 Home team score is 2nd number in text, Away Team is first. Check for who's home in neutral sites
 Need to handle player names ending with period at the end of sentence
+
+
+TODO: Add a BigChecker (add a place to count number of bigs in lineups), add a StartingLineup handler, and fix lineups/matchups so that it fits the new stuff

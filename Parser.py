@@ -4,7 +4,6 @@
 from lineups import fl_lineups
 from lineups import cin_lineups
 import Matchup
-
 isFloridaHome = True
 floridaLineups = fl_lineups
 opponentLineups = cin_lineups

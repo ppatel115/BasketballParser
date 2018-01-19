@@ -122,11 +122,28 @@ def IdentifyPlayOpponent(play):
         # matchupsList[-1].opponentLineupStats[8]++
         return
 
-for i in range(0, 100):
+
+for i in range(len(data['periods'][0]['playStats'])):
     if (data['periods'][0]['playStats'][i]['homeText']):
         IdentifyPlayFlorida((data['periods'][0]['playStats'][i]['homeText']))
     else:
         IdentifyPlayOpponent((data['periods'][0]['playStats'][i]['visitorText']))
+
+
+for j in range(len(data['periods'][1]['playStats'])):
+    if (data['periods'][1]['playStats'][j]['homeText']):
+        IdentifyPlayFlorida((data['periods'][1]['playStats'][j]['homeText']))
+    else:
+        IdentifyPlayOpponent((data['periods'][1]['playStats'][j]['visitorText']))
+
+if (int(data['meta']['period']) >= 3):
+    for o in range (3, int(data['meta']['period'])):
+        for k in range(len(data['periods'][o]['playStats'])):
+            if (data['periods'][o]['playStats'][k]['homeText']):
+                IdentifyPlayFlorida((data['periods'][o]['playStats'][k]['homeText']))
+            else:
+                IdentifyPlayOpponent((data['periods'][o]['playStats'][k]['visitorText']))
+
 
 # team1stats[0]=2PFGM [1]=2PFGA  [2]=PFGM [3]=PFGA  [4]=3PFGM [5]=3PFGA
 # [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB  [11]=Initial Time  [12]=Final time
