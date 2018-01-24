@@ -39,7 +39,7 @@ class Matchup(object):
         self.floridaBigs = floridaBigs
         self.opponentBigs = opponentBigs
         self.startTime = startTime
-        self.finishTime = 1000
+        self.finishTime = 0
         self.floridaStartScore = floridaStartScore
         self.opponentStartScore = opponentStartScore
         self.floridaEndScore = 1000

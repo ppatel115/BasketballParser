@@ -350,8 +350,8 @@ Florida two point make
 Opponent turnover
 End of 2nd Half.
 Matchup: Florida  0  vs. Cincinatti  0
-Start time  20:00
-Finish time  1000
+Start time:  20:00
+Finish time:  0
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  0
@@ -359,36 +359,36 @@ Florida ending score:  1000
 Opponent starting score:  0
 Opponent starting score:  1000
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  0  vs. Cincinatti  0
-Start time  20:00
-Finish time  970
+Start time:  20:00
+Finish time:  970
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  0
@@ -396,36 +396,36 @@ Florida ending score:  8
 Opponent starting score:  0
 Opponent starting score:  2
 Florida Stats: 
-0
-1
-0
-0
-0
-0
-2
-2
-3
-1
-0
-0
-1
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  2
+Free throws attempted:  2
+Turnovers commited:  3
+Offensive rebounds:  1
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  1
 Opponent Stats: 
-1
-1
-0
-0
-2
-3
-0
-0
-3
-1
-1
-2
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  2
+Three point field goals attempted:  3
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  3
+Offensive rebounds:  1
+Defensive rebounds:  1
+Personal fouls:  2
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  0
-Start time  970
-Finish time  889
+Start time:  970
+Finish time:  889
 Florida bigs:  0
 Opponent bigs:  2
 Florida starting score:  8
@@ -433,36 +433,36 @@ Florida ending score:  10
 Opponent starting score:  2
 Opponent starting score:  4
 Florida Stats: 
-1
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-1
-2
-0
-0
-0
-1
-0
-0
-0
-2
-1
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  2
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  889
-Finish time  741
+Start time:  889
+Finish time:  741
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  10
@@ -470,36 +470,36 @@ Florida ending score:  10
 Opponent starting score:  4
 Opponent starting score:  10
 Florida Stats: 
-3
-3
-0
-0
-0
-1
-0
-0
-0
-1
-2
-1
-1
+Two point field goals made:  3
+Two point field goals attempted:  3
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  1
+Defensive rebounds:  2
+Personal fouls:  1
+Blocks:  1
 Opponent Stats: 
-0
-2
-0
-0
-0
-0
-0
-0
-3
-0
-1
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  3
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  741
-Finish time  705
+Start time:  741
+Finish time:  705
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  10
@@ -507,36 +507,36 @@ Florida ending score:  10
 Opponent starting score:  10
 Opponent starting score:  10
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
-1
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
-0
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  705
-Finish time  705
+Start time:  705
+Finish time:  705
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  10
@@ -544,36 +544,36 @@ Florida ending score:  10
 Opponent starting score:  10
 Opponent starting score:  10
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  705
-Finish time  631
+Start time:  705
+Finish time:  631
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  10
@@ -581,36 +581,36 @@ Florida ending score:  12
 Opponent starting score:  10
 Opponent starting score:  12
 Florida Stats: 
-1
-2
-0
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
+Two point field goals made:  1
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-1
-1
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  631
-Finish time  582
+Start time:  631
+Finish time:  582
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  12
@@ -618,36 +618,36 @@ Florida ending score:  12
 Opponent starting score:  12
 Opponent starting score:  12
 Florida Stats: 
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-2
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  2
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-1
-0
-0
-0
-1
-0
-0
-0
-0
-1
-3
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  3
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  582
-Finish time  582
+Start time:  582
+Finish time:  582
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  12
@@ -655,36 +655,36 @@ Florida ending score:  12
 Opponent starting score:  12
 Opponent starting score:  12
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  582
-Finish time  522
+Start time:  582
+Finish time:  522
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  12
@@ -692,36 +692,36 @@ Florida ending score:  12
 Opponent starting score:  12
 Opponent starting score:  15
 Florida Stats: 
-0
-0
-0
-0
-1
-2
-0
-0
-1
-0
-1
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  1
+Three point field goals attempted:  2
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-1
-0
-0
-0
-0
-0
-0
-2
-1
-1
-0
-1
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  2
+Offensive rebounds:  1
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  1
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  522
-Finish time  495
+Start time:  522
+Finish time:  495
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  12
@@ -729,36 +729,36 @@ Florida ending score:  14
 Opponent starting score:  15
 Opponent starting score:  18
 Florida Stats: 
-0
-0
-0
-0
-1
-1
-0
-0
-0
-0
-0
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  1
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-1
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  495
-Finish time  481
+Start time:  495
+Finish time:  481
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  14
@@ -766,36 +766,36 @@ Florida ending score:  14
 Opponent starting score:  18
 Opponent starting score:  18
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-1
-1
-2
-0
-0
-1
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  1
+Turnovers commited:  1
+Offensive rebounds:  2
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  1
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  481
-Finish time  452
+Start time:  481
+Finish time:  452
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  14
@@ -803,36 +803,36 @@ Florida ending score:  14
 Opponent starting score:  18
 Opponent starting score:  18
 Florida Stats: 
-0
-2
-0
-0
-0
-0
-0
-0
-0
-1
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  1
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
-1
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  1
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  452
-Finish time  413
+Start time:  452
+Finish time:  413
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  14
@@ -840,36 +840,36 @@ Florida ending score:  14
 Opponent starting score:  18
 Opponent starting score:  20
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-2
-2
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  2
+Free throws attempted:  2
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
-0
-2
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  2
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  413
-Finish time  413
+Start time:  413
+Finish time:  413
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  14
@@ -877,36 +877,36 @@ Florida ending score:  14
 Opponent starting score:  20
 Opponent starting score:  20
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  413
-Finish time  298
+Start time:  413
+Finish time:  298
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  14
@@ -914,36 +914,36 @@ Florida ending score:  16
 Opponent starting score:  20
 Opponent starting score:  24
 Florida Stats: 
-2
-2
-0
-0
-0
-1
-0
-0
-0
-0
-1
-1
-0
+Two point field goals made:  2
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-1
-1
-0
-0
-0
-1
-0
-0
-0
-0
-1
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  298
-Finish time  298
+Start time:  298
+Finish time:  298
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  16
@@ -951,36 +951,36 @@ Florida ending score:  16
 Opponent starting score:  24
 Opponent starting score:  24
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  298
-Finish time  278
+Start time:  298
+Finish time:  278
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  16
@@ -988,36 +988,36 @@ Florida ending score:  18
 Opponent starting score:  24
 Opponent starting score:  24
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-1
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  278
-Finish time  141
+Start time:  278
+Finish time:  141
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  18
@@ -1025,36 +1025,36 @@ Florida ending score:  24
 Opponent starting score:  24
 Opponent starting score:  30
 Florida Stats: 
-0
-0
-0
-0
-2
-2
-0
-0
-1
-0
-2
-1
-1
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  2
+Three point field goals attempted:  2
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  2
+Personal fouls:  1
+Blocks:  1
 Opponent Stats: 
-1
-3
-0
-0
-1
-1
-1
-1
-0
-0
-1
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  3
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  1
+Three point field goals attempted:  1
+Free throws made:  1
+Free throws attempted:  1
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  141
-Finish time  141
+Start time:  141
+Finish time:  141
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  24
@@ -1062,36 +1062,36 @@ Florida ending score:  24
 Opponent starting score:  30
 Opponent starting score:  30
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  141
-Finish time  40
+Start time:  141
+Finish time:  40
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  24
@@ -1099,36 +1099,36 @@ Florida ending score:  26
 Opponent starting score:  30
 Opponent starting score:  32
 Florida Stats: 
-1
-2
-0
-0
-0
-0
-0
-0
-1
-0
-2
-1
-0
+Two point field goals made:  1
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  2
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-1
-1
-0
-0
-0
-0
-0
-1
-1
-0
-1
-0
-1
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  1
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  1
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  40
-Finish time  25
+Start time:  40
+Finish time:  25
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  26
@@ -1136,36 +1136,36 @@ Florida ending score:  26
 Opponent starting score:  32
 Opponent starting score:  33
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-1
-2
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  1
+Free throws attempted:  2
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
-0
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  25
-Finish time  25
+Start time:  25
+Finish time:  25
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  26
@@ -1173,36 +1173,36 @@ Florida ending score:  26
 Opponent starting score:  33
 Opponent starting score:  33
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  25
-Finish time  1200
+Start time:  25
+Finish time:  1200
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  26
@@ -1210,36 +1210,36 @@ Florida ending score:  28
 Opponent starting score:  33
 Opponent starting score:  34
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-1
-1
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  1
+Free throws attempted:  1
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-1
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  1200
-Finish time  1200
+Start time:  1200
+Finish time:  1200
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  28
@@ -1247,36 +1247,36 @@ Florida ending score:  28
 Opponent starting score:  34
 Opponent starting score:  34
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  1200
-Finish time  1057
+Start time:  1200
+Finish time:  1057
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  28
@@ -1284,36 +1284,36 @@ Florida ending score:  33
 Opponent starting score:  34
 Opponent starting score:  36
 Florida Stats: 
-0
-1
-0
-0
-0
-0
-2
-2
-1
-0
-1
-2
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  2
+Free throws attempted:  2
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  2
+Blocks:  0
 Opponent Stats: 
-1
-2
-0
-0
-1
-3
-0
-0
-1
-2
-1
-2
-0
+Two point field goals made:  1
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  1
+Three point field goals attempted:  3
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  2
+Defensive rebounds:  1
+Personal fouls:  2
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  1057
-Finish time  1017
+Start time:  1057
+Finish time:  1017
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  33
@@ -1321,36 +1321,36 @@ Florida ending score:  34
 Opponent starting score:  36
 Opponent starting score:  38
 Florida Stats: 
-1
-1
-0
-0
-0
-1
-0
-0
-0
-0
-0
-1
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-0
-1
-0
-0
-0
-1
-1
-1
-1
-2
-1
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  1
+Free throws attempted:  1
+Turnovers commited:  1
+Offensive rebounds:  2
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  1017
-Finish time  967
+Start time:  1017
+Finish time:  967
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  34
@@ -1358,36 +1358,36 @@ Florida ending score:  35
 Opponent starting score:  38
 Opponent starting score:  40
 Florida Stats: 
-1
-2
-0
-0
-0
-0
-0
-0
-0
-0
-1
-1
-0
+Two point field goals made:  1
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-1
-1
-2
-0
-0
-1
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  1
+Free throws attempted:  2
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  967
-Finish time  863
+Start time:  967
+Finish time:  863
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  35
@@ -1395,36 +1395,36 @@ Florida ending score:  40
 Opponent starting score:  40
 Opponent starting score:  40
 Florida Stats: 
-0
-1
-0
-0
-0
-0
-0
-0
-3
-1
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  3
+Offensive rebounds:  1
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-2
-3
-0
-0
-0
-0
-1
-1
-0
-1
-0
-1
-0
+Two point field goals made:  2
+Two point field goals attempted:  3
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  1
+Free throws attempted:  1
+Turnovers commited:  0
+Offensive rebounds:  1
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  863
-Finish time  846
+Start time:  863
+Finish time:  846
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  40
@@ -1432,36 +1432,36 @@ Florida ending score:  40
 Opponent starting score:  40
 Opponent starting score:  40
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  846
-Finish time  841
+Start time:  846
+Finish time:  841
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  40
@@ -1469,36 +1469,36 @@ Florida ending score:  40
 Opponent starting score:  40
 Opponent starting score:  40
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  841
-Finish time  816
+Start time:  841
+Finish time:  816
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  40
@@ -1506,36 +1506,36 @@ Florida ending score:  40
 Opponent starting score:  40
 Opponent starting score:  40
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
-0
-1
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  1
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  1
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  816
-Finish time  722
+Start time:  816
+Finish time:  722
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  40
@@ -1543,36 +1543,36 @@ Florida ending score:  44
 Opponent starting score:  40
 Opponent starting score:  45
 Florida Stats: 
-1
-3
-0
-0
-1
-1
-0
-0
-0
-0
-0
-1
-0
+Two point field goals made:  1
+Two point field goals attempted:  3
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  1
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-2
-2
-0
-0
-0
-0
-0
-1
-1
-0
-2
-0
-0
+Two point field goals made:  2
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  1
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  2
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  722
-Finish time  704
+Start time:  722
+Finish time:  704
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  44
@@ -1580,36 +1580,36 @@ Florida ending score:  45
 Opponent starting score:  45
 Opponent starting score:  45
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-1
-1
-0
-0
-0
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  1
+Free throws attempted:  1
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  704
-Finish time  640
+Start time:  704
+Finish time:  640
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  45
@@ -1617,36 +1617,36 @@ Florida ending score:  46
 Opponent starting score:  45
 Opponent starting score:  47
 Florida Stats: 
-1
-1
-0
-0
-0
-1
-0
-0
-0
-0
-1
-1
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-0
-1
-0
-0
-0
-0
-1
-1
-0
-0
-1
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  1
+Free throws attempted:  1
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  640
-Finish time  640
+Start time:  640
+Finish time:  640
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  46
@@ -1654,36 +1654,36 @@ Florida ending score:  46
 Opponent starting score:  47
 Opponent starting score:  47
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  640
-Finish time  621
+Start time:  640
+Finish time:  621
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  46
@@ -1691,36 +1691,36 @@ Florida ending score:  47
 Opponent starting score:  47
 Opponent starting score:  49
 Florida Stats: 
-1
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-1
-1
-0
-0
-0
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  1
+Free throws attempted:  1
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  621
-Finish time  514
+Start time:  621
+Finish time:  514
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  47
@@ -1728,36 +1728,36 @@ Florida ending score:  51
 Opponent starting score:  49
 Opponent starting score:  49
 Florida Stats: 
-0
-1
-0
-0
-0
-0
-0
-1
-1
-0
-1
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  1
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-2
-2
-0
-0
-0
-1
-0
-0
-0
-0
-2
-1
-0
+Two point field goals made:  2
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  2
+Personal fouls:  1
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  514
-Finish time  473
+Start time:  514
+Finish time:  473
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  51
@@ -1765,36 +1765,36 @@ Florida ending score:  53
 Opponent starting score:  49
 Opponent starting score:  49
 Florida Stats: 
-0
-1
-0
-0
-0
-0
-0
-0
-1
-1
-0
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  1
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Opponent Stats: 
-1
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  473
-Finish time  339
+Start time:  473
+Finish time:  339
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  53
@@ -1802,36 +1802,36 @@ Florida ending score:  53
 Opponent starting score:  49
 Opponent starting score:  53
 Florida Stats: 
-1
-2
-0
-0
-0
-1
-2
-2
-1
-1
-4
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  2
+Free throws attempted:  2
+Turnovers commited:  1
+Offensive rebounds:  1
+Defensive rebounds:  4
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-2
-0
-0
-0
-0
-0
-1
-1
-0
-1
-2
-1
+Two point field goals made:  0
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  1
+Turnovers commited:  1
+Offensive rebounds:  0
+Defensive rebounds:  1
+Personal fouls:  2
+Blocks:  1
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  339
-Finish time  309
+Start time:  339
+Finish time:  309
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  53
@@ -1839,36 +1839,36 @@ Florida ending score:  53
 Opponent starting score:  53
 Opponent starting score:  55
 Florida Stats: 
-1
-1
-0
-0
-0
-1
-0
-0
-0
-1
-0
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  1
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  309
-Finish time  248
+Start time:  309
+Finish time:  248
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  53
@@ -1876,36 +1876,36 @@ Florida ending score:  55
 Opponent starting score:  55
 Opponent starting score:  55
 Florida Stats: 
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-1
-2
-0
-0
-0
-0
-0
-0
-1
-2
-1
-0
-1
+Two point field goals made:  1
+Two point field goals attempted:  2
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  1
+Offensive rebounds:  2
+Defensive rebounds:  1
+Personal fouls:  0
+Blocks:  1
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  248
-Finish time  248
+Start time:  248
+Finish time:  248
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  55
@@ -1913,36 +1913,36 @@ Florida ending score:  55
 Opponent starting score:  55
 Opponent starting score:  55
 Florida Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  248
-Finish time  176
+Start time:  248
+Finish time:  176
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  55
@@ -1950,36 +1950,36 @@ Florida ending score:  57
 Opponent starting score:  55
 Opponent starting score:  58
 Florida Stats: 
-0
-0
-0
-0
-1
-2
-0
-0
-0
-2
-0
-0
-1
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  1
+Three point field goals attempted:  2
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  2
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  1
 Opponent Stats: 
-1
-1
-0
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  176
-Finish time  53
+Start time:  176
+Finish time:  53
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  57
@@ -1987,36 +1987,36 @@ Florida ending score:  60
 Opponent starting score:  58
 Opponent starting score:  62
 Florida Stats: 
-1
-1
-0
-0
-0
-1
-2
-3
-0
-0
-3
-2
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  2
+Free throws attempted:  3
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  3
+Personal fouls:  2
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-1
-3
-4
-0
-0
-2
-1
-1
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  1
+Free throws made:  3
+Free throws attempted:  4
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  2
+Personal fouls:  1
+Blocks:  1
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  53
-Finish time  19
+Start time:  53
+Finish time:  19
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  60
@@ -2024,36 +2024,36 @@ Florida ending score:  60
 Opponent starting score:  62
 Opponent starting score:  63
 Florida Stats: 
-0
-1
-0
-0
-0
-0
-1
-1
-0
-1
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  1
+Free throws attempted:  1
+Turnovers commited:  0
+Offensive rebounds:  1
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  1
+Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
-Start time  19
-Finish time  1000
+Start time:  19
+Finish time:  0
 Florida bigs:  0
 Opponent bigs:  0
 Florida starting score:  60
@@ -2061,30 +2061,30 @@ Florida ending score:  1000
 Opponent starting score:  63
 Opponent starting score:  1000
 Florida Stats: 
-1
-1
-0
-0
-0
-0
-1
-1
-0
-0
-0
-0
-0
+Two point field goals made:  1
+Two point field goals attempted:  1
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  1
+Free throws attempted:  1
+Turnovers commited:  0
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
 Opponent Stats: 
-0
-0
-0
-0
-0
-0
-0
-0
-2
-0
-0
-0
-0
+Two point field goals made:  0
+Two point field goals attempted:  0
+Paint field goals made:  0
+Paint field goals attempted:  0
+Three point field goals made:  0
+Three point field goals attempted:  0
+Free throws made:  0
+Free throws attempted:  0
+Turnovers commited:  2
+Offensive rebounds:  0
+Defensive rebounds:  0
+Personal fouls:  0
+Blocks:  0
