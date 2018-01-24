@@ -7,16 +7,8 @@
 
 class Matchup(object):
     """Main class for forming a matchup."""
-
-    floridaLineupIndex = 1000     # 0-15ish probably used per team
-    opponentLineupIndex = 1000
-    floridaLineupStats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-    opponentLineupStats = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                           0]
 # team1stats[0]=2PFGM [1]=2PFGA  [2]=PFGM [3]=PFGA  [4]=3PFGM [5]=3PFGA
-# [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB  [11]=Initial Time  [12]=Final time
-# [13]=Total Time [14]=Initial Points [15]=Final Points [16]=Total Points
-# [17]= PF
+# [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB # [11]= PF [12]=BLK
 
 # how to track minutes?
 
@@ -38,16 +30,45 @@ class Matchup(object):
 # Maybe after parsing whole game, go back and convert total seconds to actual
 # minutes?
 
-    def __init__(self, floridaLineupIndex, opponentLineupIndex,
-                 floridaLineupStats, opponentLineupStats):
+    def __init__(self, floridaIndexNumber, floridaBigs, opponentLineupIndex,
+                 opponentBigs, startTime, floridaStartScore,
+                 opponentStartScore):
         """Init matchup with team names and lineup numbers."""
-        self.floridaLineupIndex = floridaLineupIndex
+        self.floridaLineupIndex = floridaIndexNumber
         self.opponentLineupIndex = opponentLineupIndex
-        self.floridaLineupStats = floridaLineupStats
-        self.opponentLineupStats = opponentLineupStats
+        self.floridaBigs = floridaBigs
+        self.opponentBigs = opponentBigs
+        self.startTime = startTime
+        self.finishTime = 1000
+        self.floridaStartScore = floridaStartScore
+        self.opponentStartScore = opponentStartScore
+        self.floridaEndScore = 1000
+        self.opponentEndScore = 1000
 
+        self.florida2PFGM = 0
+        self.florida2PFGA = 0
+        self.floridaPFGM = 0
+        self.floridaPFGA = 0
+        self.florida3PFGM = 0
+        self.florida3PFGA = 0
+        self.floridaFTM = 0
+        self.floridaFTA = 0
+        self.floridaTO = 0
+        self.floridaORB = 0
+        self.floridaDRB = 0
+        self.floridaPF = 0
+        self.floridaBLK = 0
 
-def make_matchup(floridaLineup, opponentLineup):
-    """Create a matchup."""
-    matchup = Matchup(floridaLineup, opponentLineup)
-    return matchup
+        self.opponent2PFGM = 0
+        self.opponent2PFGA = 0
+        self.opponentPFGM = 0
+        self.opponentPFGA = 0
+        self.opponent3PFGM = 0
+        self.opponent3PFGA = 0
+        self.opponentFTM = 0
+        self.opponentFTA = 0
+        self.opponentTO = 0
+        self.opponentORB = 0
+        self.opponentDRB = 0
+        self.opponentPF = 0
+        self.opponentBLK = 0
