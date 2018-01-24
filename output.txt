@@ -359,7 +359,7 @@ Opponent bigs:  0
 Florida starting score:  0
 Florida ending score:  1000
 Opponent starting score:  0
-Opponent starting score:  1000
+Opponent ending score:  1000
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -398,7 +398,7 @@ Opponent bigs:  0
 Florida starting score:  0
 Florida ending score:  8
 Opponent starting score:  0
-Opponent starting score:  2
+Opponent ending score:  2
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  1
@@ -437,7 +437,7 @@ Opponent bigs:  2
 Florida starting score:  8
 Florida ending score:  10
 Opponent starting score:  2
-Opponent starting score:  4
+Opponent ending score:  4
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  2
@@ -476,7 +476,7 @@ Opponent bigs:  2
 Florida starting score:  10
 Florida ending score:  10
 Opponent starting score:  4
-Opponent starting score:  10
+Opponent ending score:  10
 Florida Stats: 
 Two point field goals made:  3
 Two point field goals attempted:  3
@@ -515,7 +515,7 @@ Opponent bigs:  2
 Florida starting score:  10
 Florida ending score:  10
 Opponent starting score:  10
-Opponent starting score:  10
+Opponent ending score:  10
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -554,7 +554,7 @@ Opponent bigs:  1
 Florida starting score:  10
 Florida ending score:  10
 Opponent starting score:  10
-Opponent starting score:  10
+Opponent ending score:  10
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -593,7 +593,7 @@ Opponent bigs:  1
 Florida starting score:  10
 Florida ending score:  12
 Opponent starting score:  10
-Opponent starting score:  12
+Opponent ending score:  12
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  2
@@ -632,7 +632,7 @@ Opponent bigs:  1
 Florida starting score:  12
 Florida ending score:  12
 Opponent starting score:  12
-Opponent starting score:  12
+Opponent ending score:  12
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  1
@@ -671,7 +671,7 @@ Opponent bigs:  1
 Florida starting score:  12
 Florida ending score:  12
 Opponent starting score:  12
-Opponent starting score:  12
+Opponent ending score:  12
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -710,7 +710,7 @@ Opponent bigs:  1
 Florida starting score:  12
 Florida ending score:  12
 Opponent starting score:  12
-Opponent starting score:  15
+Opponent ending score:  15
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -749,7 +749,7 @@ Opponent bigs:  2
 Florida starting score:  12
 Florida ending score:  14
 Opponent starting score:  15
-Opponent starting score:  18
+Opponent ending score:  18
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -788,7 +788,7 @@ Opponent bigs:  2
 Florida starting score:  14
 Florida ending score:  14
 Opponent starting score:  18
-Opponent starting score:  18
+Opponent ending score:  18
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -827,7 +827,7 @@ Opponent bigs:  2
 Florida starting score:  14
 Florida ending score:  14
 Opponent starting score:  18
-Opponent starting score:  18
+Opponent ending score:  18
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  2
@@ -866,7 +866,7 @@ Opponent bigs:  1
 Florida starting score:  14
 Florida ending score:  14
 Opponent starting score:  18
-Opponent starting score:  20
+Opponent ending score:  20
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -905,7 +905,7 @@ Opponent bigs:  1
 Florida starting score:  14
 Florida ending score:  14
 Opponent starting score:  20
-Opponent starting score:  20
+Opponent ending score:  20
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -944,7 +944,7 @@ Opponent bigs:  1
 Florida starting score:  14
 Florida ending score:  16
 Opponent starting score:  20
-Opponent starting score:  24
+Opponent ending score:  24
 Florida Stats: 
 Two point field goals made:  2
 Two point field goals attempted:  2
@@ -983,7 +983,7 @@ Opponent bigs:  2
 Florida starting score:  16
 Florida ending score:  16
 Opponent starting score:  24
-Opponent starting score:  24
+Opponent ending score:  24
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1022,7 +1022,7 @@ Opponent bigs:  2
 Florida starting score:  16
 Florida ending score:  18
 Opponent starting score:  24
-Opponent starting score:  24
+Opponent ending score:  24
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1061,7 +1061,7 @@ Opponent bigs:  2
 Florida starting score:  18
 Florida ending score:  24
 Opponent starting score:  24
-Opponent starting score:  30
+Opponent ending score:  30
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1100,7 +1100,7 @@ Opponent bigs:  1
 Florida starting score:  24
 Florida ending score:  24
 Opponent starting score:  30
-Opponent starting score:  30
+Opponent ending score:  30
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1139,7 +1139,7 @@ Opponent bigs:  1
 Florida starting score:  24
 Florida ending score:  26
 Opponent starting score:  30
-Opponent starting score:  32
+Opponent ending score:  32
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  2
@@ -1178,7 +1178,7 @@ Opponent bigs:  1
 Florida starting score:  26
 Florida ending score:  26
 Opponent starting score:  32
-Opponent starting score:  33
+Opponent ending score:  33
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1217,7 +1217,7 @@ Opponent bigs:  2
 Florida starting score:  26
 Florida ending score:  26
 Opponent starting score:  33
-Opponent starting score:  33
+Opponent ending score:  33
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1256,7 +1256,7 @@ Opponent bigs:  2
 Florida starting score:  26
 Florida ending score:  28
 Opponent starting score:  33
-Opponent starting score:  34
+Opponent ending score:  34
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1295,7 +1295,7 @@ Opponent bigs:  2
 Florida starting score:  28
 Florida ending score:  28
 Opponent starting score:  34
-Opponent starting score:  34
+Opponent ending score:  34
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1334,7 +1334,7 @@ Opponent bigs:  1
 Florida starting score:  28
 Florida ending score:  33
 Opponent starting score:  34
-Opponent starting score:  36
+Opponent ending score:  36
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  1
@@ -1373,7 +1373,7 @@ Opponent bigs:  1
 Florida starting score:  33
 Florida ending score:  34
 Opponent starting score:  36
-Opponent starting score:  38
+Opponent ending score:  38
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  1
@@ -1412,7 +1412,7 @@ Opponent bigs:  1
 Florida starting score:  34
 Florida ending score:  35
 Opponent starting score:  38
-Opponent starting score:  40
+Opponent ending score:  40
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  2
@@ -1451,7 +1451,7 @@ Opponent bigs:  1
 Florida starting score:  35
 Florida ending score:  40
 Opponent starting score:  40
-Opponent starting score:  40
+Opponent ending score:  40
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  1
@@ -1490,7 +1490,7 @@ Opponent bigs:  1
 Florida starting score:  40
 Florida ending score:  40
 Opponent starting score:  40
-Opponent starting score:  40
+Opponent ending score:  40
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1529,7 +1529,7 @@ Opponent bigs:  1
 Florida starting score:  40
 Florida ending score:  40
 Opponent starting score:  40
-Opponent starting score:  40
+Opponent ending score:  40
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1568,7 +1568,7 @@ Opponent bigs:  1
 Florida starting score:  40
 Florida ending score:  40
 Opponent starting score:  40
-Opponent starting score:  40
+Opponent ending score:  40
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1607,7 +1607,7 @@ Opponent bigs:  1
 Florida starting score:  40
 Florida ending score:  44
 Opponent starting score:  40
-Opponent starting score:  45
+Opponent ending score:  45
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  3
@@ -1646,7 +1646,7 @@ Opponent bigs:  2
 Florida starting score:  44
 Florida ending score:  45
 Opponent starting score:  45
-Opponent starting score:  45
+Opponent ending score:  45
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1685,7 +1685,7 @@ Opponent bigs:  2
 Florida starting score:  45
 Florida ending score:  46
 Opponent starting score:  45
-Opponent starting score:  47
+Opponent ending score:  47
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  1
@@ -1724,7 +1724,7 @@ Opponent bigs:  2
 Florida starting score:  46
 Florida ending score:  46
 Opponent starting score:  47
-Opponent starting score:  47
+Opponent ending score:  47
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -1763,7 +1763,7 @@ Opponent bigs:  1
 Florida starting score:  46
 Florida ending score:  47
 Opponent starting score:  47
-Opponent starting score:  49
+Opponent ending score:  49
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  1
@@ -1802,7 +1802,7 @@ Opponent bigs:  1
 Florida starting score:  47
 Florida ending score:  51
 Opponent starting score:  49
-Opponent starting score:  49
+Opponent ending score:  49
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  1
@@ -1841,7 +1841,7 @@ Opponent bigs:  2
 Florida starting score:  51
 Florida ending score:  53
 Opponent starting score:  49
-Opponent starting score:  49
+Opponent ending score:  49
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  1
@@ -1880,7 +1880,7 @@ Opponent bigs:  2
 Florida starting score:  53
 Florida ending score:  53
 Opponent starting score:  49
-Opponent starting score:  53
+Opponent ending score:  53
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  2
@@ -1919,7 +1919,7 @@ Opponent bigs:  1
 Florida starting score:  53
 Florida ending score:  53
 Opponent starting score:  53
-Opponent starting score:  55
+Opponent ending score:  55
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  1
@@ -1958,7 +1958,7 @@ Opponent bigs:  2
 Florida starting score:  53
 Florida ending score:  55
 Opponent starting score:  55
-Opponent starting score:  55
+Opponent ending score:  55
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  1
@@ -1997,7 +1997,7 @@ Opponent bigs:  2
 Florida starting score:  55
 Florida ending score:  55
 Opponent starting score:  55
-Opponent starting score:  55
+Opponent ending score:  55
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -2036,7 +2036,7 @@ Opponent bigs:  2
 Florida starting score:  55
 Florida ending score:  57
 Opponent starting score:  55
-Opponent starting score:  58
+Opponent ending score:  58
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  0
@@ -2075,7 +2075,7 @@ Opponent bigs:  2
 Florida starting score:  57
 Florida ending score:  60
 Opponent starting score:  58
-Opponent starting score:  62
+Opponent ending score:  62
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  1
@@ -2114,7 +2114,7 @@ Opponent bigs:  1
 Florida starting score:  60
 Florida ending score:  60
 Opponent starting score:  62
-Opponent starting score:  63
+Opponent ending score:  63
 Florida Stats: 
 Two point field goals made:  0
 Two point field goals attempted:  1
@@ -2153,7 +2153,7 @@ Opponent bigs:  2
 Florida starting score:  60
 Florida ending score:  1000
 Opponent starting score:  63
-Opponent starting score:  1000
+Opponent ending score:  1000
 Florida Stats: 
 Two point field goals made:  1
 Two point field goals attempted:  1

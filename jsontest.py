@@ -384,7 +384,7 @@ for x in matchupsList:
     print("Florida starting score: ", x.floridaStartScore)
     print("Florida ending score: ", x.floridaEndScore)
     print("Opponent starting score: ", x.opponentStartScore)
-    print("Opponent starting score: ", x.opponentEndScore)
+    print("Opponent ending score: ", x.opponentEndScore)
     print("Florida Stats: ")
     print("Two point field goals made: ", x.florida2PFGM)
     print("Two point field goals attempted: ", x.florida2PFGA)
