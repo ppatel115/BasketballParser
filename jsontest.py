@@ -107,12 +107,13 @@ def CreateFloridaLineup(lineup, time, floridaScore, opponentScore):
         floridaLineupNum = floridaLineups.index(lineup)
         opponentLineupNum = opponentLineups.index(currentOpponentLineup)
         CreateMatchup(floridaLineupNum, opponentLineupNum, time, floridaScore, opponentScore)
+        return 0
     else:
         floridaLineups.append(lineup)
         floridaLineupNum = floridaLineups.index(lineup)
         opponentLineupNum = opponentLineups.index(currentOpponentLineup)
         CreateMatchup(floridaLineupNum, opponentLineupNum, time, floridaScore, opponentScore)
-    return 0
+        return 0
 
 
 def CreateOpponentLineup(lineup, time, floridaScore, opponentScore):
@@ -125,13 +126,14 @@ def CreateOpponentLineup(lineup, time, floridaScore, opponentScore):
         floridaLineupNum = floridaLineups.index(currentFloridaLineup)
         CreateMatchup(floridaLineupNum, opponentLineupNum, time, floridaScore,
                       opponentScore)
+        return 0
     else:
         opponentLineups.append(lineup)
         opponentLineupNum = opponentLineups.index(lineup)
         floridaLineupNum = floridaLineups.index(currentFloridaLineup)
         CreateMatchup(floridaLineupNum, opponentLineupNum, time, floridaScore,
                       opponentScore)
-    return 0
+        return 0
 
 
 def IdentifyPlayFlorida(play, time, score):
@@ -139,70 +141,69 @@ def IdentifyPlayFlorida(play, time, score):
     if ("misses" in play) and ("two" in play):
         print("Florida two point miss")
         matchupsList[-1].florida2PFGA += 1
-        return
+        return 0
     elif ("misses" in play) and ("three" in play):
         print("Florida three point miss")
         matchupsList[-1].florida3PFGA += 1
-        return
+        return 0
     elif ("misses" in play) and ("free" in play):
         print("Florida free point miss")
         matchupsList[-1].floridaFTA += 1
-        return
+        return 0
     elif ("misses" in play) and (("layup" in play) or
                                  ("hook" in play) or ("dunk" in play)):
         print("Florida paint miss")
         matchupsList[-1].floridaPFGA += 1
-        return
+        return 0
     elif ("makes" in play) and ("two" in play):
         print("Florida two point make")
         matchupsList[-1].florida2PFGA += 1
         matchupsList[-1].florida2PFGM += 1
-        return
+        return 0
     elif ("makes" in play) and ("three" in play):
         print("Florida three point make")
         matchupsList[-1].florida3PFGA += 1
         matchupsList[-1].florida3PFGM += 1
-        return
+        return 0
     elif ("makes" in play) and ("free" in play):
         print("Florida free point make")
         matchupsList[-1].floridaFTA += 1
         matchupsList[-1].floridaFTM += 1
-        return
+        return 0
     elif ("makes" in play) and (("layup" in play) or
                                 ("hook" in play) or ("dunk" in play)):
         print("Florida paint make")
         matchupsList[-1].floridaPFGA += 1
         matchupsList[-1].floridaPFGM += 1
-        return
+        return 0
     elif ("foul" in play):
         print("Florida foul")
         matchupsList[-1].floridaPF += 1
-        return
+        return 0
     elif ("defensive" in play):
         print("Florida defensive rebound")
         matchupsList[-1].floridaDRB += 1
-        return
+        return 0
     elif ("offensive" in play):
         print("Florida offensive rebound")
         matchupsList[-1].floridaORB += 1
-        return
+        return 0
     elif ("turnover" in play):
         print("Florida turnover")
         matchupsList[-1].floridaTO += 1
-        return
+        return 0
     elif ("blocks" in play):
         print("Florida block")
         matchupsList[-1].floridaBLK += 1
-        return
+        return 0
     elif ("lineup" in play):
         print("Florida substitution")
         splitstring = play.split(" ")
         pieces = splitstring[3:]
         lineupstring = " "
-        lineupstring.join(pieces)
+        lineupstring = lineupstring.join(pieces)
         lineupstring = lineupstring[1:-1]
         lineuptime = ConvertTimeToSeconds(time)
-
         splitScores = score.split("-")
         if (HOME):
             floridaScore = int(splitScores[0])
@@ -210,13 +211,12 @@ def IdentifyPlayFlorida(play, time, score):
         else:
             opponentScore = int(splitScores[0])
             floridaScore = int(splitScores[1])
-
         CreateFloridaLineup(lineupstring, lineuptime, floridaScore,
                             opponentScore)
-        return
+        return 0
     else:
         print(play)
-        return
+        return 0
 
 
 def IdentifyPlayOpponent(play, time, score):
@@ -224,67 +224,67 @@ def IdentifyPlayOpponent(play, time, score):
     if ("misses" in play) and ("two" in play):
         print("Opponent two point miss")
         matchupsList[-1].opponent2PFGA += 1
-        return
+        return 0
     elif ("misses" in play) and ("three" in play):
         print("Opponent three point miss")
         matchupsList[-1].opponent3PFGA += 1
-        return
+        return 0
     elif ("misses" in play) and ("free" in play):
         print("Opponent free point miss")
         matchupsList[-1].opponentFTA += 1
-        return
+        return 0
     elif ("misses" in play) and (("layup" in play) or
                                  ("hook" in play) or ("dunk" in play)):
         print("Opponent paint miss")
         matchupsList[-1].opponentPFGA += 1
-        return
+        return 0
     elif ("makes" in play) and ("two" in play):
         print("Opponent two point make")
         matchupsList[-1].opponent2PFGA += 1
         matchupsList[-1].opponent2PFGM += 1
-        return
+        return 0
     elif ("makes" in play) and ("three" in play):
         print("Opponent three point make")
         matchupsList[-1].opponent3PFGA += 1
         matchupsList[-1].opponent3PFGM += 1
-        return
+        return 0
     elif ("makes" in play) and ("free" in play):
         print("Opponent free point make")
         matchupsList[-1].opponentFTA += 1
         matchupsList[-1].opponentFTM += 1
-        return
+        return 0
     elif ("makes" in play) and (("layup" in play) or
                                 ("hook" in play) or ("dunk" in play)):
         print("Opponent paint make")
         matchupsList[-1].opponentPFGA += 1
         matchupsList[-1].opponentPFGM += 1
-        return
+        return 0
     elif ("foul" in play):
         print("Opponent foul")
         matchupsList[-1].opponentPF += 1
-        return
+        return 0
     elif ("defensive" in play):
         print("Opponent defensive rebound")
         matchupsList[-1].opponentDRB += 1
-        return
+        return 0
     elif ("offensive" in play):
         print("Opponent offensive rebound")
         matchupsList[-1].opponentORB += 1
-        return
+        return 0
     elif ("turnover" in play):
         print("Opponent turnover")
         matchupsList[-1].opponentTO += 1
-        return
+        return 0
     elif ("blocks" in play):
         print("Opponent block")
         matchupsList[-1].opponentBLK += 1
-        return
+        return 0
     elif ("lineup" in play):
         print("Opponent substitution")
         splitstring = play.split(" ")
         pieces = splitstring[3:]
         lineupstring = " "
-        lineupstring.join(pieces)
+        lineupstring = lineupstring.join(pieces)
         lineupstring = lineupstring[1:-1]
         lineuptime = ConvertTimeToSeconds(time)
 
@@ -298,10 +298,10 @@ def IdentifyPlayOpponent(play, time, score):
 
         CreateOpponentLineup(lineupstring, lineuptime, floridaScore,
                              opponentScore)
-        return
+        return 0
     else:
         print(play)
-        return
+        return 0
 
 
 CreateFloridaStartingLineup(florida_starters, "20:00", 0, 0)
