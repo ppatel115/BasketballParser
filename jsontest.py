@@ -375,6 +375,8 @@ else:
 for x in matchupsList:
     print("Matchup: Florida ", x.floridaLineupIndex, " vs. Cincinatti ",
           x.opponentLineupIndex)
+    print("Florida lineup: ", floridaLineups[x.floridaLineupIndex])
+    print("Opponent lineup: ", opponentLineups[x.opponentLineupIndex])
     print("Start time: ", x.startTime)
     print("Finish time: ", x.finishTime)
     print("Florida bigs: ", x.floridaBigs)

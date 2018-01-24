@@ -350,6 +350,8 @@ Florida two point make
 Opponent turnover
 End of 2nd Half.
 Matchup: Florida  0  vs. Cincinatti  0
+Florida lineup:  Keith Stone, Egor Koulechov, Chris Chiozza, Jalen Hudson, Kevaughn Allen
+Opponent lineup:  Kyle Washington, Gary Clark, Justin Jenifer, Jacob Evans, Jarron Cumberland
 Start time:  20:00
 Finish time:  0
 Florida bigs:  0
@@ -387,6 +389,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  0  vs. Cincinatti  0
+Florida lineup:  Keith Stone, Egor Koulechov, Chris Chiozza, Jalen Hudson, Kevaughn Allen
+Opponent lineup:  Kyle Washington, Gary Clark, Justin Jenifer, Jacob Evans, Jarron Cumberland
 Start time:  20:00
 Finish time:  970
 Florida bigs:  0
@@ -424,6 +428,8 @@ Defensive rebounds:  1
 Personal fouls:  2
 Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  0
+Florida lineup:  Kevarrius Hayes, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard
+Opponent lineup:  Kyle Washington, Gary Clark, Justin Jenifer, Jacob Evans, Jarron Cumberland
 Start time:  970
 Finish time:  889
 Florida bigs:  1
@@ -461,6 +467,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  1
+Florida lineup:  Kevarrius Hayes, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard
+Opponent lineup:  Keith Williams, Cane Broome, Gary Clark, Kyle Washington, Jarron Cumberland
 Start time:  889
 Finish time:  741
 Florida bigs:  1
@@ -498,6 +506,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  2
+Florida lineup:  Kevarrius Hayes, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard
+Opponent lineup:  Justin Jenifer, Gary Clark, Nysier Brooks, Jacob Evans III, Jarron Cumberland
 Start time:  741
 Finish time:  705
 Florida bigs:  1
@@ -535,6 +545,8 @@ Defensive rebounds:  0
 Personal fouls:  1
 Blocks:  0
 Matchup: Florida  1  vs. Cincinatti  3
+Florida lineup:  Kevarrius Hayes, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Tre Scott, Nysier Brooks, Jarron Cumberland
 Start time:  705
 Finish time:  705
 Florida bigs:  1
@@ -572,6 +584,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  2  vs. Cincinatti  3
+Florida lineup:  Keith Stone, KeVaughn Allen, Jalen Hudson, Kevarrius Hayes, Deaundrae Ballard
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Tre Scott, Nysier Brooks, Jarron Cumberland
 Start time:  705
 Finish time:  631
 Florida bigs:  1
@@ -609,6 +623,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  3  vs. Cincinatti  3
+Florida lineup:  Jalen Hudson, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Tre Scott, Nysier Brooks, Jarron Cumberland
 Start time:  631
 Finish time:  582
 Florida bigs:  1
@@ -646,6 +662,8 @@ Defensive rebounds:  1
 Personal fouls:  3
 Blocks:  0
 Matchup: Florida  3  vs. Cincinatti  4
+Florida lineup:  Jalen Hudson, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Tre Scott, Kyle Washington, Jarron Cumberland
 Start time:  582
 Finish time:  582
 Florida bigs:  1
@@ -683,6 +701,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  4  vs. Cincinatti  4
+Florida lineup:  Jalen Hudson, Chris Chiozza, Gorjok Gak, Egor Koulechov, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Tre Scott, Kyle Washington, Jarron Cumberland
 Start time:  582
 Finish time:  522
 Florida bigs:  1
@@ -720,6 +740,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  1
 Matchup: Florida  4  vs. Cincinatti  5
+Florida lineup:  Jalen Hudson, Chris Chiozza, Gorjok Gak, Egor Koulechov, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Kyle Washington, Cane Broome
 Start time:  522
 Finish time:  495
 Florida bigs:  1
@@ -757,6 +779,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  5  vs. Cincinatti  5
+Florida lineup:  Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Kyle Washington, Cane Broome
 Start time:  495
 Finish time:  481
 Florida bigs:  1
@@ -794,6 +818,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  1
 Matchup: Florida  5  vs. Cincinatti  6
+Florida lineup:  Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Cane Broome, Eliel Nsoseme
 Start time:  481
 Finish time:  452
 Florida bigs:  1
@@ -831,6 +857,8 @@ Defensive rebounds:  1
 Personal fouls:  1
 Blocks:  0
 Matchup: Florida  5  vs. Cincinatti  7
+Florida lineup:  Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Cane Broome, Tre Scott
 Start time:  452
 Finish time:  413
 Florida bigs:  1
@@ -868,6 +896,8 @@ Defensive rebounds:  0
 Personal fouls:  2
 Blocks:  0
 Matchup: Florida  5  vs. Cincinatti  8
+Florida lineup:  Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone
+Opponent lineup:  Jacob Evans III, Jarron Cumberland, Gary Clark, Tre Scott, Cane Broome
 Start time:  413
 Finish time:  413
 Florida bigs:  1
@@ -905,6 +935,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  6  vs. Cincinatti  8
+Florida lineup:  Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone
+Opponent lineup:  Jacob Evans III, Jarron Cumberland, Gary Clark, Tre Scott, Cane Broome
 Start time:  413
 Finish time:  298
 Florida bigs:  1
@@ -942,6 +974,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  6  vs. Cincinatti  9
+Florida lineup:  Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone
+Opponent lineup:  Jacob Evans III, Gary Clark, Kyle Washington, Cane Broome, Jarron Cumberland
 Start time:  298
 Finish time:  298
 Florida bigs:  1
@@ -979,6 +1013,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  7  vs. Cincinatti  9
+Florida lineup:  Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Chris Chiozza
+Opponent lineup:  Jacob Evans III, Gary Clark, Kyle Washington, Cane Broome, Jarron Cumberland
 Start time:  298
 Finish time:  278
 Florida bigs:  1
@@ -1016,6 +1052,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  8  vs. Cincinatti  9
+Florida lineup:  Keith Stone, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes
+Opponent lineup:  Jacob Evans III, Gary Clark, Kyle Washington, Cane Broome, Jarron Cumberland
 Start time:  278
 Finish time:  141
 Florida bigs:  1
@@ -1053,6 +1091,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  8  vs. Cincinatti  10
+Florida lineup:  Keith Stone, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes
+Opponent lineup:  Jacob Evans III, Gary Clark, Cane Broome, Tre Scott, Jarron Cumberland
 Start time:  141
 Finish time:  141
 Florida bigs:  1
@@ -1090,6 +1130,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  9  vs. Cincinatti  10
+Florida lineup:  Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Deaundrae Ballard
+Opponent lineup:  Jacob Evans III, Gary Clark, Cane Broome, Tre Scott, Jarron Cumberland
 Start time:  141
 Finish time:  40
 Florida bigs:  1
@@ -1127,6 +1169,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  1
 Matchup: Florida  10  vs. Cincinatti  10
+Florida lineup:  Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard
+Opponent lineup:  Jacob Evans III, Gary Clark, Cane Broome, Tre Scott, Jarron Cumberland
 Start time:  40
 Finish time:  25
 Florida bigs:  1
@@ -1164,6 +1208,8 @@ Defensive rebounds:  0
 Personal fouls:  1
 Blocks:  0
 Matchup: Florida  10  vs. Cincinatti  11
+Florida lineup:  Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard
+Opponent lineup:  Jacob Evans III, Gary Clark, Nysier Brooks, Cane Broome, Jarron Cumberland
 Start time:  25
 Finish time:  25
 Florida bigs:  1
@@ -1201,6 +1247,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  11  vs. Cincinatti  11
+Florida lineup:  Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone
+Opponent lineup:  Jacob Evans III, Gary Clark, Nysier Brooks, Cane Broome, Jarron Cumberland
 Start time:  25
 Finish time:  1200
 Florida bigs:  1
@@ -1238,6 +1286,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  12  vs. Cincinatti  11
+Florida lineup:  Egor Koulechov, KeVaughn Allen, Jalen Hudson, Chris Chiozza, Keith Stone
+Opponent lineup:  Jacob Evans III, Gary Clark, Nysier Brooks, Cane Broome, Jarron Cumberland
 Start time:  1200
 Finish time:  1200
 Florida bigs:  0
@@ -1275,6 +1325,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  12  vs. Cincinatti  12
+Florida lineup:  Egor Koulechov, KeVaughn Allen, Jalen Hudson, Chris Chiozza, Keith Stone
+Opponent lineup:  Jacob Evans III, Gary Clark, Jarron Cumberland, Tre Scott, Justin Jenifer
 Start time:  1200
 Finish time:  1057
 Florida bigs:  0
@@ -1312,6 +1364,8 @@ Defensive rebounds:  1
 Personal fouls:  2
 Blocks:  0
 Matchup: Florida  12  vs. Cincinatti  13
+Florida lineup:  Egor Koulechov, KeVaughn Allen, Jalen Hudson, Chris Chiozza, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Tre Scott, Cane Broome
 Start time:  1057
 Finish time:  1017
 Florida bigs:  0
@@ -1349,6 +1403,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  13  vs. Cincinatti  13
+Florida lineup:  Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Tre Scott, Cane Broome
 Start time:  1017
 Finish time:  967
 Florida bigs:  0
@@ -1386,6 +1442,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  14  vs. Cincinatti  13
+Florida lineup:  Egor Koulechov, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard, Kevarrius Hayes
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Tre Scott, Cane Broome
 Start time:  967
 Finish time:  863
 Florida bigs:  1
@@ -1423,6 +1481,8 @@ Defensive rebounds:  0
 Personal fouls:  1
 Blocks:  0
 Matchup: Florida  15  vs. Cincinatti  13
+Florida lineup:  Keith Stone, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Tre Scott, Cane Broome
 Start time:  863
 Finish time:  846
 Florida bigs:  1
@@ -1460,6 +1520,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  16  vs. Cincinatti  13
+Florida lineup:  KeVaughn Allen, Jalen Hudson, Kevarrius Hayes, Deaundrae Ballard, Keith Stone
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Tre Scott, Cane Broome
 Start time:  846
 Finish time:  841
 Florida bigs:  1
@@ -1497,6 +1559,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  17  vs. Cincinatti  13
+Florida lineup:  Jalen Hudson, KeVaughn Allen, Kevarrius Hayes, Mike Okauru, Gorjok Gak
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Tre Scott, Cane Broome
 Start time:  841
 Finish time:  816
 Florida bigs:  2
@@ -1534,6 +1598,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  18  vs. Cincinatti  13
+Florida lineup:  Mike Okauru, Jalen Hudson, Chris Chiozza, Gorjok Gak, Kevarrius Hayes
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Tre Scott, Cane Broome
 Start time:  816
 Finish time:  722
 Florida bigs:  2
@@ -1571,6 +1637,8 @@ Defensive rebounds:  2
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  18  vs. Cincinatti  5
+Florida lineup:  Mike Okauru, Jalen Hudson, Chris Chiozza, Gorjok Gak, Kevarrius Hayes
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Kyle Washington, Cane Broome
 Start time:  722
 Finish time:  704
 Florida bigs:  2
@@ -1608,6 +1676,8 @@ Defensive rebounds:  0
 Personal fouls:  1
 Blocks:  0
 Matchup: Florida  19  vs. Cincinatti  5
+Florida lineup:  Mike Okauru, Jalen Hudson, Chris Chiozza, Gorjok Gak, Egor Koulechov
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Kyle Washington, Cane Broome
 Start time:  704
 Finish time:  640
 Florida bigs:  1
@@ -1645,6 +1715,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  20  vs. Cincinatti  5
+Florida lineup:  Kevarrius Hayes, Jalen Hudson, Egor Koulechov, Chris Chiozza, KeVaughn Allen
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Gary Clark, Kyle Washington, Cane Broome
 Start time:  640
 Finish time:  640
 Florida bigs:  1
@@ -1682,6 +1754,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  20  vs. Cincinatti  14
+Florida lineup:  Kevarrius Hayes, Jalen Hudson, Egor Koulechov, Chris Chiozza, KeVaughn Allen
+Opponent lineup:  Jacob Evans III, Justin Jenifer, Tre Scott, Cane Broome, Kyle Washington
 Start time:  640
 Finish time:  621
 Florida bigs:  1
@@ -1719,6 +1793,8 @@ Defensive rebounds:  0
 Personal fouls:  1
 Blocks:  0
 Matchup: Florida  20  vs. Cincinatti  15
+Florida lineup:  Kevarrius Hayes, Jalen Hudson, Egor Koulechov, Chris Chiozza, KeVaughn Allen
+Opponent lineup:  Jacob Evans III, Jarron Cumberland, Tre Scott, Cane Broome, Kyle Washington
 Start time:  621
 Finish time:  514
 Florida bigs:  1
@@ -1756,6 +1832,8 @@ Defensive rebounds:  2
 Personal fouls:  1
 Blocks:  0
 Matchup: Florida  20  vs. Cincinatti  16
+Florida lineup:  Kevarrius Hayes, Jalen Hudson, Egor Koulechov, Chris Chiozza, KeVaughn Allen
+Opponent lineup:  Jacob Evans III, Gary Clark, Cane Broome, Kyle Washington, Jarron Cumberland
 Start time:  514
 Finish time:  473
 Florida bigs:  1
@@ -1793,6 +1871,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  21  vs. Cincinatti  16
+Florida lineup:  Deaundrae Ballard, Egor Koulechov, Keith Stone, Chris Chiozza, Kevarrius Hayes
+Opponent lineup:  Jacob Evans III, Gary Clark, Cane Broome, Kyle Washington, Jarron Cumberland
 Start time:  473
 Finish time:  339
 Florida bigs:  1
@@ -1830,6 +1910,8 @@ Defensive rebounds:  1
 Personal fouls:  2
 Blocks:  1
 Matchup: Florida  21  vs. Cincinatti  17
+Florida lineup:  Deaundrae Ballard, Egor Koulechov, Keith Stone, Chris Chiozza, Kevarrius Hayes
+Opponent lineup:  Jacob Evans III, Gary Clark, Cane Broome, Tre Scott, Justin Jenifer
 Start time:  339
 Finish time:  309
 Florida bigs:  1
@@ -1867,6 +1949,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  21  vs. Cincinatti  18
+Florida lineup:  Deaundrae Ballard, Egor Koulechov, Keith Stone, Chris Chiozza, Kevarrius Hayes
+Opponent lineup:  Jacob Evans III, Kyle Washington, Gary Clark, Jarron Cumberland, Cane Broome
 Start time:  309
 Finish time:  248
 Florida bigs:  1
@@ -1904,6 +1988,8 @@ Defensive rebounds:  1
 Personal fouls:  0
 Blocks:  1
 Matchup: Florida  22  vs. Cincinatti  18
+Florida lineup:  Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Jalen Hudson, Keith Stone
+Opponent lineup:  Jacob Evans III, Kyle Washington, Gary Clark, Jarron Cumberland, Cane Broome
 Start time:  248
 Finish time:  248
 Florida bigs:  1
@@ -1941,6 +2027,8 @@ Defensive rebounds:  0
 Personal fouls:  0
 Blocks:  0
 Matchup: Florida  22  vs. Cincinatti  19
+Florida lineup:  Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Jalen Hudson, Keith Stone
+Opponent lineup:  Jacob Evans III, Gary Clark, Cane Broome, Kyle Washington, Justin Jenifer
 Start time:  248
 Finish time:  176
 Florida bigs:  1
@@ -1978,6 +2066,8 @@ Defensive rebounds:  0
 Personal fouls:  1
 Blocks:  0
 Matchup: Florida  22  vs. Cincinatti  20
+Florida lineup:  Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Jalen Hudson, Keith Stone
+Opponent lineup:  Jacob Evans III, Jarron Cumberland, Gary Clark, Cane Broome, Kyle Washington
 Start time:  176
 Finish time:  53
 Florida bigs:  1
@@ -2015,6 +2105,8 @@ Defensive rebounds:  2
 Personal fouls:  1
 Blocks:  1
 Matchup: Florida  22  vs. Cincinatti  21
+Florida lineup:  Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Jalen Hudson, Keith Stone
+Opponent lineup:  Jacob Evans III, Gary Clark, Tre Scott, Justin Jenifer, Jarron Cumberland
 Start time:  53
 Finish time:  19
 Florida bigs:  1
@@ -2052,6 +2144,8 @@ Defensive rebounds:  0
 Personal fouls:  1
 Blocks:  0
 Matchup: Florida  22  vs. Cincinatti  22
+Florida lineup:  Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Jalen Hudson, Keith Stone
+Opponent lineup:  Jacob Evans III, Kyle Washington, Gary Clark, Cane Broome, Jarron Cumberland
 Start time:  19
 Finish time:  0
 Florida bigs:  1
