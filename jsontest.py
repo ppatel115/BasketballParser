@@ -206,11 +206,11 @@ def IdentifyPlayFlorida(play, time, score):
         lineuptime = ConvertTimeToSeconds(time)
         splitScores = score.split("-")
         if (HOME):
-            floridaScore = int(splitScores[0])
-            opponentScore = int(splitScores[1])
-        else:
-            opponentScore = int(splitScores[0])
             floridaScore = int(splitScores[1])
+            opponentScore = int(splitScores[0])
+        else:
+            opponentScore = int(splitScores[1])
+            floridaScore = int(splitScores[0])
         CreateFloridaLineup(lineupstring, lineuptime, floridaScore,
                             opponentScore)
         return 0
@@ -290,11 +290,11 @@ def IdentifyPlayOpponent(play, time, score):
 
         splitScores = score.split("-")
         if (HOME):
-            floridaScore = int(splitScores[0])
-            opponentScore = int(splitScores[1])
-        else:
-            opponentScore = int(splitScores[0])
             floridaScore = int(splitScores[1])
+            opponentScore = int(splitScores[0])
+        else:
+            opponentScore = int(splitScores[1])
+            floridaScore = int(splitScores[0])
 
         CreateOpponentLineup(lineupstring, lineuptime, floridaScore,
                              opponentScore)
