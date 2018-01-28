@@ -313,6 +313,17 @@ def IdentifyPlayOpponent(play, time, score):
         CreateOpponentLineup(lineupstring, lineuptime, floridaScore,
                              opponentScore)
         return 0
+    elif ("End" in play):
+        print("End of half")
+        splitScores = score.split("-")
+        if (HOME):
+            floridaScore = int(splitScores[1])
+            opponentScore = int(splitScores[0])
+        else:
+            opponentScore = int(splitScores[1])
+            floridaScore = int(splitScores[0])
+        matchupsList[-1].floridaEndScore = floridaScore
+        matchupsList[-1].opponentEndScore = opponentScore
     else:
         print(play)
         return 0
