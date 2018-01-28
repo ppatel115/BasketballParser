@@ -8,8 +8,10 @@ data = json.load(open('pbp_cincinnati.json'))
 florida_bigs = ["Kevarrius Hayes", "Gorjok Gak", "John Egbunu",
                 "Isaiah Stokes"]
 opp_bigs = ["Gary Clark", "Kyle Washington", "Nysier Brooks", "Eliel Nsoseme"]
-florida_starters = ("Keith Stone, Egor Koulechov, Chris Chiozza, Jalen Hudson, Kevaughn Allen")
-opp_starters = ("Kyle Washington, Gary Clark, Justin Jenifer, Jacob Evans, Jarron Cumberland")
+florida_starters = set(["Keith Stone", "Egor Koulechov", "Chris Chiozza",
+                    "Jalen Hudson", "Kevaughn Allen"])
+opp_starters = set(["Kyle Washington", "Gary Clark", "Justin Jenifer",
+                "Jacob Evans", "Jarron Cumberland"])
 floridaLineups = []
 opponentLineups = []
 matchupsList = []
@@ -24,6 +26,14 @@ def ConvertTimeToSeconds(time):
     seconds = int(splittime[1])
     timetotal = 60*minutes + seconds
     return timetotal
+
+
+def ConvertSecondsToMinutes(time):
+    """Take in elapsed time, convert to minutes."""
+    minutes = int(time / 60)
+    seconds = time % 60
+    playTime = [minutes, seconds]
+    return playTime
 
 
 def CheckFloridaBigs(lineup):
@@ -203,6 +213,8 @@ def IdentifyPlayFlorida(play, time, score):
         lineupstring = " "
         lineupstring = lineupstring.join(pieces)
         lineupstring = lineupstring[1:-1]
+        lineupstring = lineupstring.split(", ")
+        lineupstring = set(lineupstring)
         lineuptime = ConvertTimeToSeconds(time)
         splitScores = score.split("-")
         if (HOME):
@@ -286,6 +298,8 @@ def IdentifyPlayOpponent(play, time, score):
         lineupstring = " "
         lineupstring = lineupstring.join(pieces)
         lineupstring = lineupstring[1:-1]
+        lineupstring = lineupstring.split(", ")
+        lineupstring = set(lineupstring)
         lineuptime = ConvertTimeToSeconds(time)
 
         splitScores = score.split("-")
@@ -304,8 +318,8 @@ def IdentifyPlayOpponent(play, time, score):
         return 0
 
 
-CreateFloridaStartingLineup(florida_starters, "20:00", 0, 0)
-CreateOpponentStartingLineup(opp_starters, "20:00", 0, 0)
+CreateFloridaStartingLineup(florida_starters, 1200, 0, 0)
+CreateOpponentStartingLineup(opp_starters, 1200, 0, 0)
 latestScore = ""
 if(HOME):
     for i in range(len(data['periods'][0]['playStats'])):
@@ -373,43 +387,52 @@ else:
 # [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB # [11]= PF [12]=BLK
 
 for x in matchupsList:
-    print("Matchup: Florida ", x.floridaLineupIndex, " vs. Cincinatti ",
+    print("Matchup: Florida", x.floridaLineupIndex, "vs. Cincinatti",
           x.opponentLineupIndex)
-    print("Florida lineup: ", floridaLineups[x.floridaLineupIndex])
-    print("Opponent lineup: ", opponentLineups[x.opponentLineupIndex])
-    print("Start time: ", x.startTime)
-    print("Finish time: ", x.finishTime)
-    print("Florida bigs: ", x.floridaBigs)
-    print("Opponent bigs: ", x.opponentBigs)
-    print("Florida starting score: ", x.floridaStartScore)
-    print("Florida ending score: ", x.floridaEndScore)
-    print("Opponent starting score: ", x.opponentStartScore)
-    print("Opponent ending score: ", x.opponentEndScore)
-    print("Florida Stats: ")
-    print("Two point field goals made: ", x.florida2PFGM)
-    print("Two point field goals attempted: ", x.florida2PFGA)
-    print("Paint field goals made: ", x.floridaPFGM)
-    print("Paint field goals attempted: ", x.floridaPFGA)
-    print("Three point field goals made: ", x.florida3PFGM)
-    print("Three point field goals attempted: ", x.florida3PFGA)
-    print("Free throws made: ", x.floridaFTM)
-    print("Free throws attempted: ", x.floridaFTA)
-    print("Turnovers commited: ", x.floridaTO)
-    print("Offensive rebounds: ", x.floridaORB)
-    print("Defensive rebounds: ", x.floridaDRB)
-    print("Personal fouls: ", x.floridaPF)
-    print("Blocks: ", x.floridaBLK)
-    print("Opponent Stats: ")
-    print("Two point field goals made: ", x.opponent2PFGM)
-    print("Two point field goals attempted: ", x.opponent2PFGA)
-    print("Paint field goals made: ", x.opponentPFGM)
-    print("Paint field goals attempted: ", x.opponentPFGA)
-    print("Three point field goals made: ", x.opponent3PFGM)
-    print("Three point field goals attempted: ", x.opponent3PFGA)
-    print("Free throws made: ", x.opponentFTM)
-    print("Free throws attempted: ", x.opponentFTA)
-    print("Turnovers commited: ", x.opponentTO)
-    print("Offensive rebounds: ", x.opponentORB)
-    print("Defensive rebounds: ", x.opponentDRB)
-    print("Personal fouls: ", x.opponentPF)
-    print("Blocks: ", x.opponentBLK)
+    print("Florida lineup:", floridaLineups[x.floridaLineupIndex])
+    print("Opponent lineup:", opponentLineups[x.opponentLineupIndex])
+    time = ConvertSecondsToMinutes(x.startTime)
+    print("Start time:", time[0], "minutes", time[1], "seconds")
+    time = ConvertSecondsToMinutes(x.finishTime)
+    print("Finish time:", time[0], "minutes", time[1], "seconds")
+    print("Florida bigs:", x.floridaBigs)
+    print("Opponent bigs:", x.opponentBigs)
+    print("Florida starting score:", x.floridaStartScore)
+    print("Florida ending score:", x.floridaEndScore)
+    print("Opponent starting score:", x.opponentStartScore)
+    print("Opponent ending score:", x.opponentEndScore)
+    print("Florida Stats:")
+    print("Two point field goals made:", x.florida2PFGM)
+    print("Two point field goals attempted:", x.florida2PFGA)
+    print("Paint field goals made:", x.floridaPFGM)
+    print("Paint field goals attempted:", x.floridaPFGA)
+    print("Three point field goals made:", x.florida3PFGM)
+    print("Three point field goals attempted:", x.florida3PFGA)
+    print("Free throws made:", x.floridaFTM)
+    print("Free throws attempted:", x.floridaFTA)
+    print("Turnovers committed:", x.floridaTO)
+    print("Offensive rebounds:", x.floridaORB)
+    print("Defensive rebounds:", x.floridaDRB)
+    print("Personal fouls:", x.floridaPF)
+    print("Blocks:", x.floridaBLK)
+    print("Opponent Stats:")
+    print("Two point field goals made:", x.opponent2PFGM)
+    print("Two point field goals attempted:", x.opponent2PFGA)
+    print("Paint field goals made:", x.opponentPFGM)
+    print("Paint field goals attempted:", x.opponentPFGA)
+    print("Three point field goals made:", x.opponent3PFGM)
+    print("Three point field goals attempted:", x.opponent3PFGA)
+    print("Free throws made:", x.opponentFTM)
+    print("Free throws attempted:", x.opponentFTA)
+    print("Turnovers committed:", x.opponentTO)
+    print("Offensive rebounds:", x.opponentORB)
+    print("Defensive rebounds:", x.opponentDRB)
+    print("Personal fouls:", x.opponentPF)
+    print("Blocks:", x.opponentBLK)
+
+print("Florida lineups:")
+for i in floridaLineups:
+    print (i)
+print("Opponent lineups:")
+for i in opponentLineups:
+    print (i)

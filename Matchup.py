@@ -1,34 +1,18 @@
-# Parser intializes a lineup every Substitution call, stores matchup stats in
-# Matchup
-
-
 """Class definition for Matchup of lineups."""
 
 
 class Matchup(object):
     """Main class for forming a matchup."""
-# team1stats[0]=2PFGM [1]=2PFGA  [2]=PFGM [3]=PFGA  [4]=3PFGM [5]=3PFGA
-# [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB # [11]= PF [12]=BLK
 
-# how to track minutes?
-
-# TODO
-# For minutes, can take in the current game time when sub occurs, ex: 19:33
-# Then, convert that time to seconds after parsing minutes and seconds ex: 1173
-# Store this as [11] = initial time.
-# The next sub initial time is this lineup's [12] = final time.  ex: 765
-# After getting the final time, calculate the lineup's time and add it to
-# the lineup's total time on the floor [13] ex: 1173 - 765 = 408 seconds
-
-# fakestring = " 5:99"
-# print(fakestring)
-# sliced1 = fakestring[-4:]
-# print(sliced1)
-# sliced2 = sliced1[:1]
-# print(int(sliced2))
-
-# Maybe after parsing whole game, go back and convert total seconds to actual
-# minutes?
+# TODO - Add logic to find possession changes
+# Possessions can end when:
+# (1) field goal attempt is made
+# (2) field goal attempt is missed and rebounded by the defense
+# (3) free throws where the second free throw is made
+# (4) free throws where the second free throw is missed and rebounded
+#     by the defense
+# (5) the offense turns the ball over, or
+# (6) the half ends
 
     def __init__(self, floridaIndexNumber, floridaBigs, opponentLineupIndex,
                  opponentBigs, startTime, floridaStartScore,
@@ -58,6 +42,7 @@ class Matchup(object):
         self.floridaDRB = 0
         self.floridaPF = 0
         self.floridaBLK = 0
+        self.floridaPOSS = 0
 
         self.opponent2PFGM = 0
         self.opponent2PFGA = 0
@@ -72,3 +57,4 @@ class Matchup(object):
         self.opponentDRB = 0
         self.opponentPF = 0
         self.opponentBLK = 0
+        self.opponentPOSS = 0

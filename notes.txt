@@ -17,4 +17,11 @@ Home team score is 2nd number in text, Away Team is first. Check for who's home 
 Need to handle player names ending with period at the end of sentence
 
 
-TODO: Add a BigChecker (add a place to count number of bigs in lineups), add a StartingLineup handler, and fix lineups/matchups so that it fits the new stuff
+TODO:
+
+>>> list1 = ["Keith Stone", "Egor Koulechov", "Chris Chiozza", "Jalen Hudson", "Kevaughn Allen"]
+>>> list2 = ["Chris Chiozza", "Egor Koulechov", "Keith Stone", "Jalen Hudson", "Kevaughn Allen"]
+>>> lineup1 = set(list1)
+>>> lineup2 = set(list2)
+>>> checker(lineup1,lineup2)
+YES
