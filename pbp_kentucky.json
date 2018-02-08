@@ -1,0 +1,2425 @@
+{
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Kentucky vs Florida",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1128",
+				"seoName": "kentucky",
+				"sixCharAbbr": "UK",
+				"shortName": "Kentucky",	
+				"nickName": "Wildcats",		
+				"color": "#005DAA"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes vs. Nick Richards (Wildcats gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"PJ Washington misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:46",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:26",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:24",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:55",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:53",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-0",
+							 "time":"18:44",
+							 "visitorText":"Keith Stone makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-2",
+							 "time":"18:21",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox makes two point jump shot (Shai Gilgeous-Alexander assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:51",
+							 "visitorText":"Nick Richards blocks KeVaughn Allen's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:49",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:48",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:46",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:45",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox personal foul"
+							 },
+							 {
+							 "score":"6-2",
+							 "time":"17:28",
+							 "visitorText":"Keith Stone makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-4",
+							 "time":"17:09",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox makes two point jump shot (Nick Richards assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"Chris Chiozza misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox misses two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:46",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:30",
+							 "visitorText":"Nick Richards blocks Kevarrius Hayes's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:28",
+							 "visitorText":"",
+							 "homeText":"Nick Richards defensive rebound"
+							 },
+							 {
+							 "score":"6-6",
+							 "time":"16:24",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo makes two point driving layup"
+							 },
+							 {
+							 "score":"8-6",
+							 "time":"16:00",
+							 "visitorText":"Keith Stone makes two point layup (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-8",
+							 "time":"15:37",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander makes two point driving layup"
+							 },
+							 {
+							 "score":"10-8",
+							 "time":"15:20",
+							 "visitorText":"KeVaughn Allen makes two point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:55",
+							 "visitorText":"",
+							 "homeText":"PJ Washington misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:53",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:46",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Hamidou Diallo, Sacha Killeya-Jones, Kevin Knox, Shai Gilgeous-Alexander, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"Hamidou Diallo blocks KeVaughn Allen's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:19",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox defensive rebound"
+							 },
+							 {
+							 "score":"10-10",
+							 "time":"14:06",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel makes two point layup (Kevin Knox assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:06",
+							 "visitorText":"Kevarrius Hayes shooting foul (Wenyen Gabriel draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:06",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Egor Koulechov, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-11",
+							 "time":"14:06",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"KeVaughn Allen turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Sacha Killeya-Jones, Quade Green, Jarred Vanderbilt, Shai Gilgeous-Alexander, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"10-13",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel makes two point layup"
+							 },
+							 {
+							 "score":"13-13",
+							 "time":"13:24",
+							 "visitorText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"Keith Stone personal foul (Wenyen Gabriel draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Mike Okauru, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-15",
+							 "time":"13:03",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel makes two point layup (Quade Green assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:35",
+							 "visitorText":"Keith Stone misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:33",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:20",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt offensive rebound"
+							 },
+							 {
+							 "score":"13-17",
+							 "time":"12:20",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt makes two point putback dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Quade Green personal foul"
+							 },
+							 {
+							 "score":"14-17",
+							 "time":"12:18",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, Chris Chiozza, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Sacha Killeya-Jones, Jarred Vanderbilt, Hamidou Diallo, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"Jalen Hudson misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:01",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:59",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-17",
+							 "time":"11:54",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, KeVaughn Allen, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"Jalen Hudson misses regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Nick Richards, Kevin Knox, Hamidou Diallo, PJ Washington)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-17",
+							 "time":"11:54",
+							 "visitorText":"Jalen Hudson makes regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"Jalen Hudson personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-19",
+							 "time":"11:30",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo makes two point driving layup"
+							 },
+							 {
+							 "score":"18-19",
+							 "time":"11:17",
+							 "visitorText":"Jalen Hudson makes two point dunk (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:54",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:54",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Shai Gilgeous-Alexander, Hamidou Diallo, Nick Richards, Wenyen Gabriel, PJ Washington)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:42",
+							 "visitorText":"",
+							 "homeText":"Wildcats defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:42",
+							 "visitorText":"Dontay Bassett personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:25",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:23",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:10",
+							 "visitorText":"KeVaughn Allen turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-21",
+							 "time":"9:54",
+							 "visitorText":"",
+							 "homeText":"PJ Washington makes two point layup (Shai Gilgeous-Alexander assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:34",
+							 "visitorText":"PJ Washington blocks KeVaughn Allen's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:32",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:24",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"Nick Richards offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"",
+							 "homeText":"Nick Richards turnover (out of bounds)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Hamidou Diallo, Kevin Knox, Shai Gilgeous-Alexander, PJ Washington, Sacha Killeya-Jones)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Jalen Hudson, Egor Koulechov, KeVaughn Allen, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:07",
+							 "visitorText":"Egor Koulechov misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:05",
+							 "visitorText":"Jalen Hudson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"Gators turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:33",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:31",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-21",
+							 "time":"8:26",
+							 "visitorText":"Chris Chiozza makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"Chris Chiozza personal foul (Shai Gilgeous-Alexander draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:04",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:57",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:55",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:38",
+							 "visitorText":"",
+							 "homeText":"PJ Washington offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"",
+							 "homeText":"PJ Washington misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"Jump ball. PJ Washington vs. Jalen Hudson (Gators gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Sacha Killeya-Jones, Hamidou Diallo, Jarred Vanderbilt, Quade Green, PJ Washington)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"Deaundrae Ballard misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:02",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt defensive rebound"
+							 },
+							 {
+							 "score":"20-23",
+							 "time":"6:51",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:26",
+							 "visitorText":"Chris Chiozza turnover (bad pass) (Hamidou Diallo steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-25",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Quade Green makes two point layup (Hamidou Diallo assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:51",
+							 "visitorText":"Deaundrae Ballard misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:49",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"",
+							 "homeText":"Quade Green misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:27",
+							 "visitorText":"",
+							 "homeText":"PJ Washington defensive rebound"
+							 },
+							 {
+							 "score":"20-27",
+							 "time":"5:08",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones makes two point alley-oop layup (Quade Green assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"Egor Koulechov shooting foul (Sacha Killeya-Jones draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Sacha Killeya-Jones, Wenyen Gabriel, Hamidou Diallo, Shai Gilgeous-Alexander)"
+							 },
+							 {
+							 "score":"20-28",
+							 "time":"5:08",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Nick Richards, Hamidou Diallo, Shai Gilgeous-Alexander, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"22-28",
+							 "time":"4:54",
+							 "visitorText":"Chris Chiozza makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-28",
+							 "time":"4:27",
+							 "visitorText":"Kevarrius Hayes makes two point dunk (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"Wildcats 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Kevin Knox, Hamidou Diallo, Nick Richards, Shai Gilgeous-Alexander, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:16",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Jarred Vanderbilt, PJ Washington, Shai Gilgeous-Alexander, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"Jalen Hudson misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Kevin Knox, Shai Gilgeous-Alexander, PJ Washington, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"25-28",
+							 "time":"4:01",
+							 "visitorText":"Jalen Hudson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"",
+							 "homeText":"PJ Washington turnover (traveling)"
+							 },
+							 {
+							 "score":"27-28",
+							 "time":"3:27",
+							 "visitorText":"Kevarrius Hayes makes two point alley-oop dunk (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:14",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel turnover (Keith Stone steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"Jalen Hudson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:06",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:58",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox turnover (bad pass) (KeVaughn Allen steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"Chris Chiozza misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:47",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Quade Green misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:19",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox personal foul (Chris Chiozza draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:19",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Hamidou Diallo, Shai Gilgeous-Alexander, PJ Washington, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"28-28",
+							 "time":"2:19",
+							 "visitorText":"Chris Chiozza makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:19",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Dontay Bassett, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-28",
+							 "time":"2:19",
+							 "visitorText":"Chris Chiozza makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:06",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett blocks Quade Green's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:04",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:56",
+							 "visitorText":"Dontay Bassett misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"Dontay Bassett personal foul (Hamidou Diallo draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-29",
+							 "time":"1:53",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Egor Koulechov, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel personal foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"30-29",
+							 "time":"1:53",
+							 "visitorText":"Egor Koulechov makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Hamidou Diallo, Shai Gilgeous-Alexander, PJ Washington, Nick Richards)"
+							 },
+							 {
+							 "score":"31-29",
+							 "time":"1:53",
+							 "visitorText":"Egor Koulechov makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:33",
+							 "visitorText":"",
+							 "homeText":"PJ Washington misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:31",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:28",
+							 "visitorText":"",
+							 "homeText":"Wildcats offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:25",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander misses two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:17",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"",
+							 "homeText":"Nick Richards defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo turnover (bad pass) (Keith Stone steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"",
+							 "homeText":"Nick Richards defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"Keith Stone personal foul (Nick Richards draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-30",
+							 "time":"00:36",
+							 "visitorText":"",
+							 "homeText":"Nick Richards makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-31",
+							 "time":"00:36",
+							 "visitorText":"",
+							 "homeText":"Nick Richards makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-31",
+							 "time":"00:08",
+							 "visitorText":"KeVaughn Allen makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Jarred Vanderbilt, Kevin Knox, Nick Richards, Shai Gilgeous-Alexander, Hamidou Diallo)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Keith Stone, Kevarrius Hayes, KeVaughn Allen, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Wildcats"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:49",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:47",
+							 "visitorText":"",
+							 "homeText":"Nick Richards offensive rebound"
+							 },
+							 {
+							 "score":"33-33",
+							 "time":"19:44",
+							 "visitorText":"",
+							 "homeText":"Nick Richards makes two point putback dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:25",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:23",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:23",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander turnover (traveling)"
+							 },
+							 {
+							 "score":"35-33",
+							 "time":"19:09",
+							 "visitorText":"Chris Chiozza makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-35",
+							 "time":"18:54",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander makes two point driving layup"
+							 },
+							 {
+							 "score":"37-35",
+							 "time":"18:33",
+							 "visitorText":"Keith Stone makes two point reverse layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:18",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"",
+							 "homeText":"Wildcats offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"Keith Stone personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:08",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:06",
+							 "visitorText":"",
+							 "homeText":"Nick Richards offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:02",
+							 "visitorText":"",
+							 "homeText":"Nick Richards turnover (lost ball) (Egor Koulechov steals)"
+							 },
+							 {
+							 "score":"39-35",
+							 "time":"17:57",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-37",
+							 "time":"17:43",
+							 "visitorText":"",
+							 "homeText":"Nick Richards makes two point alley-oop dunk (Shai Gilgeous-Alexander assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:22",
+							 "visitorText":"KeVaughn Allen misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:20",
+							 "visitorText":"KeVaughn Allen offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-37",
+							 "time":"17:08",
+							 "visitorText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:51",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:49",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:38",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:36",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"",
+							 "homeText":"Nick Richards misses two point hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:24",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:01",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:59",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:55",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt misses two point hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-37",
+							 "time":"15:34",
+							 "visitorText":"KeVaughn Allen makes three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"",
+							 "homeText":"Wildcats 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Wenyen Gabriel, PJ Washington, Quade Green, Sacha Killeya-Jones, Shai Gilgeous-Alexander)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Mike Okauru, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:15",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:15",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:15",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:56",
+							 "visitorText":"Kevarrius Hayes misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:54",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander defensive rebound"
+							 },
+							 {
+							 "score":"45-39",
+							 "time":"14:32",
+							 "visitorText":"",
+							 "homeText":"PJ Washington makes two point dunk (Shai Gilgeous-Alexander assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:08",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:37",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:35",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:33",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:33",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:33",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:33",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:33",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:17",
+							 "visitorText":"",
+							 "homeText":"PJ Washington misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:15",
+							 "visitorText":"",
+							 "homeText":"PJ Washington offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"",
+							 "homeText":"PJ Washington misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones offensive rebound"
+							 },
+							 {
+							 "score":"45-41",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:54",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"PJ Washington defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:45",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:27",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:10",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:08",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:08",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Wenyen Gabriel vs. Egor Koulechov (Wildcats gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:08",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Sacha Killeya-Jones, Hamidou Diallo, PJ Washington, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:58",
+							 "visitorText":"",
+							 "homeText":"Quade Green misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones offensive rebound"
+							 },
+							 {
+							 "score":"45-43",
+							 "time":"11:54",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones makes two point putback dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:46",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Keith Stone, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:30",
+							 "visitorText":"Jalen Hudson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-43",
+							 "time":"11:29",
+							 "visitorText":"Kevarrius Hayes makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:17",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones turnover (bad pass) (Kevarrius Hayes steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:54",
+							 "visitorText":"Jalen Hudson misses three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:52",
+							 "visitorText":"",
+							 "homeText":"PJ Washington defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones offensive foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"",
+							 "homeText":"Sacha Killeya-Jones turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Nick Richards, Kevin Knox, Hamidou Diallo, PJ Washington, Shai Gilgeous-Alexander)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:22",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:20",
+							 "visitorText":"",
+							 "homeText":"Nick Richards defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Keith Stone personal foul (Nick Richards draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-44",
+							 "time":"10:04",
+							 "visitorText":"",
+							 "homeText":"Nick Richards makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"",
+							 "homeText":"Nick Richards misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:40",
+							 "visitorText":"Jalen Hudson turnover (lost ball) (Kevin Knox steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:40",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Hamidou Diallo, Nick Richards, Kevin Knox, Shai Gilgeous-Alexander, Jarred Vanderbilt)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:40",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Mike Okauru, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"Jalen Hudson personal foul (Kevin Knox draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"Mike Okauru personal foul (Shai Gilgeous-Alexander draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"",
+							 "homeText":"Wildcats rebound (deadball)"
+							 },
+							 {
+							 "score":"46-45",
+							 "time":"9:21",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"48-45",
+							 "time":"9:09",
+							 "visitorText":"KeVaughn Allen makes two point layup (Jalen Hudson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-47",
+							 "time":"8:48",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox makes two point driving layup"
+							 },
+							 {
+							 "score":"50-47",
+							 "time":"8:30",
+							 "visitorText":"Jalen Hudson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:30",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"51-47",
+							 "time":"8:30",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-50",
+							 "time":"8:10",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo makes three point jump shot (Shai Gilgeous-Alexander assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:46",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:44",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:39",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:37",
+							 "visitorText":"",
+							 "homeText":"Jarred Vanderbilt offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"Gators lineup change (Keith Stone, Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Wenyen Gabriel, Hamidou Diallo, Nick Richards, Kevin Knox, Shai Gilgeous-Alexander)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:30",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:17",
+							 "visitorText":"Jalen Hudson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:15",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:58",
+							 "visitorText":"",
+							 "homeText":"Nick Richards offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"Kevarrius Hayes personal foul (Nick Richards draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-51",
+							 "time":"6:57",
+							 "visitorText":"",
+							 "homeText":"Nick Richards makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"",
+							 "homeText":"Nick Richards misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:30",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:22",
+							 "visitorText":"Kevarrius Hayes turnover (bad pass) (Shai Gilgeous-Alexander steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-53",
+							 "time":"6:19",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"KeVaughn Allen misses two point step back jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:59",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:57",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:57",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:57",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Hamidou Diallo, PJ Washington, Kevin Knox, Shai Gilgeous-Alexander, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"53-53",
+							 "time":"5:55",
+							 "visitorText":"Kevarrius Hayes makes two point alley-oop dunk (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-56",
+							 "time":"5:36",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander makes three point jump shot (Hamidou Diallo assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:15",
+							 "visitorText":"Chris Chiozza misses three point step back jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:13",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"Jump ball. Egor Koulechov vs. Kevin Knox (Gators gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"KeVaughn Allen misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:00",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"",
+							 "homeText":"PJ Washington shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"54-56",
+							 "time":"4:38",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Kevin Knox, Shai Gilgeous-Alexander, PJ Washington, Nick Richards)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-56",
+							 "time":"4:38",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:27",
+							 "visitorText":"",
+							 "homeText":"Quade Green misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:21",
+							 "visitorText":"Egor Koulechov misses three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:19",
+							 "visitorText":"",
+							 "homeText":"Nick Richards defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:50",
+							 "visitorText":"Keith Stone misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:48",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Wenyen Gabriel, Hamidou Diallo, Jarred Vanderbilt, Shai Gilgeous-Alexander, PJ Washington)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-56",
+							 "time":"3:27",
+							 "visitorText":"Chris Chiozza makes three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-58",
+							 "time":"3:07",
+							 "visitorText":"",
+							 "homeText":"PJ Washington makes two point driving layup"
+							 },
+							 {
+							 "score":"60-58",
+							 "time":"2:42",
+							 "visitorText":"Kevarrius Hayes makes two point layup (Keith Stone assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:42",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:42",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Kevin Knox, Hamidou Diallo, Shai Gilgeous-Alexander, PJ Washington, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:42",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:42",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes blocks Shai Gilgeous-Alexander's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-58",
+							 "time":"1:58",
+							 "visitorText":"Keith Stone makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:52",
+							 "visitorText":"",
+							 "homeText":"Wildcats 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:52",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Kevin Knox, Shai Gilgeous-Alexander, PJ Washington, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:32",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"Keith Stone turnover (lost ball) (PJ Washington steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"",
+							 "homeText":"Quade Green misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:54",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:54",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Hamidou Diallo, Kevin Knox, Shai Gilgeous-Alexander, PJ Washington, Nick Richards)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:54",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander personal foul (KeVaughn Allen draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Hamidou Diallo, Wenyen Gabriel, Kevin Knox, Shai Gilgeous-Alexander, PJ Washington)"
+							 },
+							 {
+							 "score":"63-58",
+							 "time":"00:46",
+							 "visitorText":"KeVaughn Allen makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-58",
+							 "time":"00:46",
+							 "visitorText":"KeVaughn Allen makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:41",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"",
+							 "homeText":"PJ Washington offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"Kevarrius Hayes personal foul (PJ Washington draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-61",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Kevin Knox makes three point jump shot (Hamidou Diallo assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"Gators 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Jarred Vanderbilt, Shai Gilgeous-Alexander, PJ Washington, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Hamidou Diallo personal foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Kevin Knox, Shai Gilgeous-Alexander, PJ Washington, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"65-61",
+							 "time":"00:32",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-61",
+							 "time":"00:32",
+							 "visitorText":"Jalen Hudson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-64",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Wenyen Gabriel makes three point jump shot (Shai Gilgeous-Alexander assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Wildcats 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Hamidou Diallo, Kevin Knox, Shai Gilgeous-Alexander, PJ Washington, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"",
+							 "homeText":"Shai Gilgeous-Alexander personal foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"",
+							 "homeText":"Wildcats lineup change (Quade Green, Kevin Knox, Shai Gilgeous-Alexander, PJ Washington, Wenyen Gabriel)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"Keith Stone misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"",
+							 "homeText":"PJ Washington defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov blocks Quade Green's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Wildcats offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Kevarrius Hayes, KeVaughn Allen, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson blocks PJ Washington's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Wildcats offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		}
