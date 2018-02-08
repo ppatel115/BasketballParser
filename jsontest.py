@@ -206,18 +206,18 @@ def IdentifyPlayFlorida(play, time, score):
     elif ("blocks" in play) and (("layup" in play) or
                                 ("hook" in play) or ("dunk" in play)):
         print("Florida block")
-        matchupsList[-1].floridaBLK += 1
-        matchupsList[-1].opponentPFGA += 1
+        matchupsList[-1].opponentBLK += 1
+        matchupsList[-1].floridaPFGA += 1
         return 0
     elif ("blocks" in play) and ("two" in play):
             print("Florida block")
-            matchupsList[-1].floridaBLK += 1
-            matchupsList[-1].opponent2PFGA += 1
+            matchupsList[-1].opponentBLK += 1
+            matchupsList[-1].florida2PFGA += 1
             return 0
     elif ("blocks" in play) and ("three" in play):
                 print("Florida block")
-                matchupsList[-1].floridaBLK += 1
-                matchupsList[-1].opponent3PFGA += 1
+                matchupsList[-1].opponentBLK += 1
+                matchupsList[-1].florida3PFGA += 1
                 return 0
     elif ("lineup" in play):
         print("Florida substitution")
@@ -303,18 +303,18 @@ def IdentifyPlayOpponent(play, time, score):
     elif ("blocks" in play) and (("layup" in play) or
                                 ("hook" in play) or ("dunk" in play)):
         print("Opponent block")
-        matchupsList[-1].opponentBLK += 1
-        matchupsList[-1].floridaPFGA += 1
+        matchupsList[-1].floridaBLK += 1
+        matchupsList[-1].opponentPFGA += 1
         return 0
     elif ("blocks" in play) and ("two" in play):
             print("Opponent block")
-            matchupsList[-1].opponentBLK += 1
-            matchupsList[-1].florida2PFGA += 1
+            matchupsList[-1].floridaBLK += 1
+            matchupsList[-1].opponent2PFGA += 1
             return 0
     elif ("blocks" in play) and ("three" in play):
                 print("Opponent block")
-                matchupsList[-1].opponentBLK += 1
-                matchupsList[-1].florida3PFGA += 1
+                matchupsList[-1].floridaBLK += 1
+                matchupsList[-1].opponent3PFGA += 1
                 return 0
     elif ("lineup" in play):
         print("Opponent substitution")
