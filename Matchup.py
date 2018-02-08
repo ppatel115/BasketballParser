@@ -26,8 +26,8 @@ class Matchup(object):
         self.finishTime = 0
         self.floridaStartScore = floridaStartScore
         self.opponentStartScore = opponentStartScore
-        self.floridaEndScore = 1000
-        self.opponentEndScore = 1000
+        self.floridaEndScore = 0
+        self.opponentEndScore = 0
 
         self.florida2PFGM = 0
         self.florida2PFGA = 0
