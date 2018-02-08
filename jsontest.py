@@ -1,5 +1,6 @@
 #!python3
 import json
+import csv
 from Matchup import Matchup
 
 HOME = True
@@ -396,54 +397,119 @@ else:
 
 # team1stats[0]=2PFGM [1]=2PFGA  [2]=PFGM [3]=PFGA  [4]=3PFGM [5]=3PFGA
 # [6]=FTM [7]=FTA  [8]=TO [9]=ORB [10]=DRB # [11]= PF [12]=BLK
+#
+# for x in matchupsList:
+#     print("Matchup: Florida", x.floridaLineupIndex, "vs. Cincinatti",
+#           x.opponentLineupIndex)
+#
+#     print("Florida lineup:",)
+#     for s in floridaLineups[x.floridaLineupIndex]:
+#         print (s)
+#     print("Opponent lineup:",)
+#     for s in opponentLineups[x.opponentLineupIndex]:
+#         print (s)
+#     time = ConvertSecondsToMinutes(x.startTime)
+#     print("Start time:", time[0], "minutes", time[1], "seconds")
+#     time = ConvertSecondsToMinutes(x.finishTime)
+#     print("Finish time:", time[0], "minutes", time[1], "seconds")
+#     print("Florida bigs:", x.floridaBigs)
+#     print("Opponent bigs:", x.opponentBigs)
+#     print("Florida starting score:", x.floridaStartScore)
+#     print("Florida ending score:", x.floridaEndScore)
+#     print("Opponent starting score:", x.opponentStartScore)
+#     print("Opponent ending score:", x.opponentEndScore)
+#     print("Florida Stats:")
+#     print("Two point field goals made:", x.florida2PFGM)
+#     print("Two point field goals attempted:", x.florida2PFGA)
+#     print("Paint field goals made:", x.floridaPFGM)
+#     print("Paint field goals attempted:", x.floridaPFGA)
+#     print("Three point field goals made:", x.florida3PFGM)
+#     print("Three point field goals attempted:", x.florida3PFGA)
+#     print("Free throws made:", x.floridaFTM)
+#     print("Free throws attempted:", x.floridaFTA)
+#     print("Turnovers committed:", x.floridaTO)
+#     print("Offensive rebounds:", x.floridaORB)
+#     print("Defensive rebounds:", x.floridaDRB)
+#     print("Personal fouls:", x.floridaPF)
+#     print("Blocks:", x.floridaBLK)
+#     print("Opponent Stats:")
+#     print("Two point field goals made:", x.opponent2PFGM)
+#     print("Two point field goals attempted:", x.opponent2PFGA)
+#     print("Paint field goals made:", x.opponentPFGM)
+#     print("Paint field goals attempted:", x.opponentPFGA)
+#     print("Three point field goals made:", x.opponent3PFGM)
+#     print("Three point field goals attempted:", x.opponent3PFGA)
+#     print("Free throws made:", x.opponentFTM)
+#     print("Free throws attempted:", x.opponentFTA)
+#     print("Turnovers committed:", x.opponentTO)
+#     print("Offensive rebounds:", x.opponentORB)
+#     print("Defensive rebounds:", x.opponentDRB)
+#     print("Personal fouls:", x.opponentPF)
+#     print("Blocks:", x.opponentBLK)
 
-for x in matchupsList:
-    print("Matchup: Florida", x.floridaLineupIndex, "vs. Cincinatti",
-          x.opponentLineupIndex)
-    print("Florida lineup:", floridaLineups[x.floridaLineupIndex])
-    print("Opponent lineup:", opponentLineups[x.opponentLineupIndex])
-    time = ConvertSecondsToMinutes(x.startTime)
-    print("Start time:", time[0], "minutes", time[1], "seconds")
-    time = ConvertSecondsToMinutes(x.finishTime)
-    print("Finish time:", time[0], "minutes", time[1], "seconds")
-    print("Florida bigs:", x.floridaBigs)
-    print("Opponent bigs:", x.opponentBigs)
-    print("Florida starting score:", x.floridaStartScore)
-    print("Florida ending score:", x.floridaEndScore)
-    print("Opponent starting score:", x.opponentStartScore)
-    print("Opponent ending score:", x.opponentEndScore)
-    print("Florida Stats:")
-    print("Two point field goals made:", x.florida2PFGM)
-    print("Two point field goals attempted:", x.florida2PFGA)
-    print("Paint field goals made:", x.floridaPFGM)
-    print("Paint field goals attempted:", x.floridaPFGA)
-    print("Three point field goals made:", x.florida3PFGM)
-    print("Three point field goals attempted:", x.florida3PFGA)
-    print("Free throws made:", x.floridaFTM)
-    print("Free throws attempted:", x.floridaFTA)
-    print("Turnovers committed:", x.floridaTO)
-    print("Offensive rebounds:", x.floridaORB)
-    print("Defensive rebounds:", x.floridaDRB)
-    print("Personal fouls:", x.floridaPF)
-    print("Blocks:", x.floridaBLK)
-    print("Opponent Stats:")
-    print("Two point field goals made:", x.opponent2PFGM)
-    print("Two point field goals attempted:", x.opponent2PFGA)
-    print("Paint field goals made:", x.opponentPFGM)
-    print("Paint field goals attempted:", x.opponentPFGA)
-    print("Three point field goals made:", x.opponent3PFGM)
-    print("Three point field goals attempted:", x.opponent3PFGA)
-    print("Free throws made:", x.opponentFTM)
-    print("Free throws attempted:", x.opponentFTA)
-    print("Turnovers committed:", x.opponentTO)
-    print("Offensive rebounds:", x.opponentORB)
-    print("Defensive rebounds:", x.opponentDRB)
-    print("Personal fouls:", x.opponentPF)
-    print("Blocks:", x.opponentBLK)
-
-print("Florida lineups:")
-for i in floridaLineups:
-    print (i)
-print("Opponent lineups:")
-for i in opponentLineups:
-    print (i)
+with open('test.csv', 'w') as csvfile:
+    fieldnames = ['Florida Player 1', 'Florida Player 2', 'Florida Player 3',
+                  'Florida Player 4', 'Florida Player 5', 'Opponent Player 1',
+                  'Opponent Player 2', 'Opponent Player 3',
+                  'Opponent Player 4', 'Opponent Player 5', 'Start Time',
+                  'Finish Time', 'Florida Bigs', 'Opponent Bigs',
+                  'Florida Starting Score', 'Florida Ending Score',
+                  'Opponent Starting Score', 'Opponent Ending Score',
+                  'Florida 2PFGM', 'Florida 2PFGA', 'Florida PFGM',
+                  'Florida PFGA', 'Florida3PFGM', 'Florida3PFGA',
+                  'Florida FTM', 'Florida FTA', 'Florida TO', 'Florida ORB',
+                  'Florida DRB', 'Florida PF', 'Florida BLK',
+                  'Opponent 2PFGM', 'Opponent 2PFGA', 'Opponent PFGM',
+                  'Opponent PFGA', 'Opponent 3PFGM', 'Opponent 3PFGA',
+                  'Opponent FTM', 'Opponent FTA', 'Opponent TO',
+                  'Opponent ORB', 'Opponent DRB', 'Opponent PF',
+                  'Opponent BLK']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
+    for x in matchupsList:
+        flLineups = list(floridaLineups[x.floridaLineupIndex])
+        oppLineups = list(opponentLineups[x.opponentLineupIndex])
+        writer.writerow({'Florida Player 1': flLineups[0],
+                         'Florida Player 2': flLineups[1],
+                         'Florida Player 3': flLineups[2],
+                         'Florida Player 4': flLineups[3],
+                         'Florida Player 5': flLineups[4],
+                         'Opponent Player 1': oppLineups[0],
+                         'Opponent Player 2': oppLineups[1],
+                         'Opponent Player 3': oppLineups[2],
+                         'Opponent Player 4': oppLineups[3],
+                         'Opponent Player 5': oppLineups[4],
+                         'Start Time': x.startTime,
+                         'Finish Time': x.finishTime,
+                         'Florida Bigs': x.floridaBigs,
+                         'Opponent Bigs': x.opponentBigs,
+                         'Florida Starting Score': x.floridaStartScore,
+                         'Florida Ending Score': x.floridaEndScore,
+                         'Opponent Starting Score': x.opponentStartScore,
+                         'Opponent Ending Score': x.opponentEndScore,
+                         'Florida 2PFGM': x.florida2PFGM,
+                         'Florida 2PFGA': x.florida2PFGA,
+                         'Florida PFGM': x.floridaPFGM,
+                         'Florida PFGA': x.floridaPFGA,
+                         'Florida3PFGM': x.florida3PFGM,
+                         'Florida3PFGA': x.florida3PFGA,
+                         'Florida FTM': x.floridaFTM,
+                         'Florida FTA': x.floridaFTA,
+                         'Florida TO': x.floridaTO,
+                         'Florida ORB': x.floridaORB,
+                         'Florida DRB': x.floridaDRB,
+                         'Florida PF': x.floridaPF,
+                         'Florida BLK': x.floridaBLK,
+                         'Opponent 2PFGM': x.opponent2PFGM,
+                         'Opponent 2PFGA': x.opponent2PFGA,
+                         'Opponent PFGM': x.opponentPFGM,
+                         'Opponent PFGA': x.opponentPFGA,
+                         'Opponent 3PFGM': x.opponent3PFGM,
+                         'Opponent 3PFGA': x.opponent3PFGA,
+                         'Opponent FTM': x.opponentFTM,
+                         'Opponent FTA': x.opponentFTA,
+                         'Opponent TO': x.opponentTO,
+                         'Opponent ORB': x.opponentORB,
+                         'Opponent DRB': x.opponentDRB,
+                         'Opponent PF': x.opponentPF,
+                         'Opponent BLK': x.opponentBLK})
