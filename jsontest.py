@@ -355,6 +355,7 @@ def IdentifyPlayOpponent(play, time, score):
 
 
 CreateFloridaStartingLineup(florida_starters, 1200, 0, 0)
+matchupsList.pop()
 CreateOpponentStartingLineup(opp_starters, 1200, 0, 0)
 latestScore = ""
 if(HOME):
