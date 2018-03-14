@@ -8,39 +8,39 @@
 		            "minutes": "00",
 		            "seconds" : "00",
 		            "teams":[
-					     {      
-					     								
+					     {
+
 				"homeTeam": "true",
 				"id": "1795",
 				"seoName": "florida",
 				"sixCharAbbr": "FLA",
-				"shortName": "Florida",	
-				"nickName": "Gators",		
-				"color": "#003488"						
-	
+				"shortName": "Florida",
+				"nickName": "Gators",
+				"color": "#003488"
+
 						},
 						{
-														
+
 				"homeTeam": "false",
 				"id": "1857",
 				"seoName": "alabama",
 				"sixCharAbbr": "ALA",
-				"shortName": "Alabama",	
-				"nickName": "Crimson Tide",		
-				"color": "#a32136"						
-	
+				"shortName": "Alabama",
+				"nickName": "Crimson Tide",
+				"color": "#a32136"
+
 						}
 		            ]
 		        },
-	    
+
     	"periods":[
-    			   
-	    		
-    	 {    
+
+
+    	 {
 		 "periodNumber":"1",
-		 "periodDisplay":"1st Half",	  
+		 "periodDisplay":"1st Half",
 			 "playStats":[
-							
+
 							 {
 							 "score":"",
 							 "time":"20:00",
@@ -997,11 +997,11 @@
 							 }
 				]
 			},
-    	 {    
+    	 {
 		 "periodNumber":"2",
-		 "periodDisplay":"2nd Half",	  
+		 "periodDisplay":"2nd Half",
 			 "playStats":[
-							
+
 							 {
 							 "score":"",
 							 "time":"20:00",
@@ -1970,6 +1970,6 @@
 							 }
 				]
 			}
-			
+
 			]
 		}

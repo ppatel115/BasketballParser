@@ -4,6 +4,14 @@ import csv
 from Matchup import Matchup
 
 HOME = True
+<<<<<<< HEAD
+data = json.load(open('pbp_arkansas1.json'))
+
+florida_bigs = ["Kevarrius Hayes", "Gorjok Gak", "Dontay Bassett"]
+opp_bigs = ["Daniel Gafford", "Trey Thompson"]
+florida_starters = set(["Keith Stone", "Chris Chiozza", "Kevarrius Hayes", "KeVaughn Allen", "Egor Koulechev"])
+opp_starters = set(["Dustin Thomas", "Daniel Gafford", "Anton Beard", "Jaylen Barford", "Daryl Macon"])
+=======
 data = json.load(open('pbp_alabama1.json'))
 
 florida_bigs = ["Kevarrius Hayes", "Gorjok Gak", "John Egbunu",
@@ -11,6 +19,7 @@ florida_bigs = ["Kevarrius Hayes", "Gorjok Gak", "John Egbunu",
 opp_bigs = ["Daniel Giddens", "Donta Hall"]
 florida_starters = set(["Keith Stone", "Chris Chiozza", "Jalen Hudson", "KeVaughn Allen", "Egor Koulechev"])
 opp_starters = set(["Donta Hall", "Daniel Giddens", "Collin Sexton", "John Petty", "Dazon Ingram"])
+>>>>>>> a91fb8b71a31df949b4fb24325c4b64bddb4d0fe
 floridaLineups = []
 opponentLineups = []
 matchupsList = []
@@ -476,7 +485,11 @@ else:
 #     print("Personal fouls:", x.opponentPF)
 #     print("Blocks:", x.opponentBLK)
 
+<<<<<<< HEAD
+with open('arkansas1.csv', 'w') as csvfile:
+=======
 with open('alabama1.csv', 'w') as csvfile:
+>>>>>>> a91fb8b71a31df949b4fb24325c4b64bddb4d0fe
     fieldnames = ['Florida Player 1', 'Florida Player 2', 'Florida Player 3',
                   'Florida Player 4', 'Florida Player 5', 'Opponent Player 1',
                   'Opponent Player 2', 'Opponent Player 3',
