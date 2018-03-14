@@ -1,4 +1,4 @@
-callbackWrapper({
+{
 	      "meta" : {
 		            "title": " Play-By-Play",
 		            "description": "Play-By-Play for Florida vs James Madison",
@@ -2212,4 +2212,4 @@ callbackWrapper({
 			}
 			
 			]
-		});
+		}
