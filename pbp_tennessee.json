@@ -1,4 +1,4 @@
-ncaaGameTabs.drawTab({
+{
 	      "meta" : {
 		            "title": " Play-By-Play",
 		            "description": "Play-By-Play for Tennessee vs Florida",
@@ -2164,4 +2164,4 @@ ncaaGameTabs.drawTab({
 			}
 			
 			]
-		});
+		}
