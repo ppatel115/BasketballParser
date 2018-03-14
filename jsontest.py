@@ -3,16 +3,14 @@ import json
 import csv
 from Matchup import Matchup
 
-HOME = False
-data = json.load(open('pbp_kentucky.json'))
+HOME = True
+data = json.load(open('pbp_alabama1.json'))
 
 florida_bigs = ["Kevarrius Hayes", "Gorjok Gak", "John Egbunu",
                 "Isaiah Stokes"]
-opp_bigs = ["Nick Richards", "Jarred Vanderbilt", "Sacha Killeya-Jones"]
-florida_starters = set(["Keith Stone", "Egor Koulechov", "Chris Chiozza",
-                    "Kevarrius Hayes", "Kevaughn Allen"])
-opp_starters = set(["Kevin Knox", "Nick Richards", "PJ Washington",
-                "Hamidou Diallo", "Shai Gilgeous-Alexander"])
+opp_bigs = ["Daniel Giddens", "Donta Hall"]
+florida_starters = set(["Keith Stone", "Chris Chiozza", "Jalen Hudson", "KeVaughn Allen", "Egor Koulechev"])
+opp_starters = set(["Donta Hall", "Daniel Giddens", "Collin Sexton", "John Petty", "Dazon Ingram"])
 floridaLineups = []
 opponentLineups = []
 matchupsList = []
@@ -472,7 +470,7 @@ else:
 #     print("Personal fouls:", x.opponentPF)
 #     print("Blocks:", x.opponentBLK)
 
-with open('kentucky1.csv', 'w') as csvfile:
+with open('alabama1.csv', 'w') as csvfile:
     fieldnames = ['Florida Player 1', 'Florida Player 2', 'Florida Player 3',
                   'Florida Player 4', 'Florida Player 5', 'Opponent Player 1',
                   'Opponent Player 2', 'Opponent Player 3',
