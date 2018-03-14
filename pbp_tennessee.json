@@ -1,0 +1,2167 @@
+ncaaGameTabs.drawTab({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Tennessee vs Florida",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "2012",
+				"seoName": "tennessee",
+				"sixCharAbbr": "TENN",
+				"shortName": "Tennessee",	
+				"nickName": "Volunteers",		
+				"color": "#f77f00"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes vs. Kyle Alexander (Jordan Bone gains possession)"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:53",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden personal foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:25",
+							 "visitorText":"Chris Chiozza turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-4",
+							 "time":"19:11",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:44",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:42",
+							 "visitorText":"",
+							 "homeText":"Volunteers defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:26",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:24",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"Keith Stone turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:16",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-6",
+							 "time":"18:05",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes two point layup (Admiral Schofield assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:04",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:04",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:47",
+							 "visitorText":"Admiral Schofield blocks Jalen Hudson's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:45",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone turnover (lost ball) (Jalen Hudson steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone personal foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:24",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:22",
+							 "visitorText":"",
+							 "homeText":"Kyle Alexander defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:08",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:06",
+							 "visitorText":"Dontay Bassett defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:04",
+							 "visitorText":"Jump ball. Dontay Bassett vs. Grant Williams (Gators gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"",
+							 "homeText":"Kyle Alexander defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:30",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:29",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Lamonte Turner, Grant Williams, Yves Pons, Kyle Alexander, Jordan Bowden)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"Chris Chiozza turnover (lost ball) (Jordan Bowden steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:06",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:06",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Lamonte Turner, Grant Williams, Kyle Alexander, James Daniel III, Yves Pons)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:06",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Mike Okauru, Chris Chiozza, Dontay Bassett, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:51",
+							 "visitorText":"Mike Okauru misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"",
+							 "homeText":"Volunteers defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"Gators lineup change (Mike Okauru, Keith Stone, Chris Chiozza, Dontay Bassett, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:30",
+							 "visitorText":"",
+							 "homeText":"Grant Williams turnover (lost ball) (Keith Stone steals)"
+							 },
+							 {
+							 "score":"2-6",
+							 "time":"15:20",
+							 "visitorText":"Mike Okauru makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:01",
+							 "visitorText":"Keith Stone shooting foul (Grant Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-7",
+							 "time":"15:01",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:01",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Lamonte Turner, Grant Williams, James Daniel III, John Fulkerson, Yves Pons)"
+							 },
+							 {
+							 "score":"2-8",
+							 "time":"15:01",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:35",
+							 "visitorText":"",
+							 "homeText":"Yves Pons shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"3-8",
+							 "time":"14:35",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:35",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Lamonte Turner, Admiral Schofield, James Daniel III, John Fulkerson, Yves Pons)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:35",
+							 "visitorText":"Keith Stone misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:35",
+							 "visitorText":"Dontay Bassett offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:19",
+							 "visitorText":"Deaundrae Ballard misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:58",
+							 "visitorText":"",
+							 "homeText":"John Fulkerson misses two point hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:37",
+							 "visitorText":"",
+							 "homeText":"James Daniel III personal foul (Mike Okauru draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:37",
+							 "visitorText":"Gators lineup change (Mike Okauru, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:37",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Lamonte Turner, James Daniel III, Admiral Schofield, John Fulkerson, Jordan Bowden)"
+							 },
+							 {
+							 "score":"5-8",
+							 "time":"13:33",
+							 "visitorText":"Keith Stone makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:20",
+							 "visitorText":"",
+							 "homeText":"James Daniel III misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:18",
+							 "visitorText":"Deaundrae Ballard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"Mike Okauru offensive foul (Lamonte Turner draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"Mike Okauru turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Lamonte Turner, Jordan Bone, Admiral Schofield, Kyle Alexander, Jordan Bowden)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:51",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:49",
+							 "visitorText":"Deaundrae Ballard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:44",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:44",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, Grant Williams, Kyle Alexander, Jordan Bowden)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"Keith Stone misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:40",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:33",
+							 "visitorText":"",
+							 "homeText":"Grant Williams misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:31",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:31",
+							 "visitorText":"",
+							 "homeText":"Kyle Alexander personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:20",
+							 "visitorText":"Kyle Alexander blocks Mike Okauru's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone defensive rebound"
+							 },
+							 {
+							 "score":"5-10",
+							 "time":"12:11",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes two point layup (Jordan Bone assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"Jordan Bowden blocks Deaundrae Ballard's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"",
+							 "homeText":"Grant Williams defensive rebound"
+							 },
+							 {
+							 "score":"5-12",
+							 "time":"11:32",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"Keith Stone offensive foul (Jordan Bone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"KeVaughn Allen turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Jalen Johnson, Grant Williams, Kyle Alexander, Jordan Bowden)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"Gators lineup change (Chris Chiozza, KeVaughn Allen, Kevarrius Hayes, Jalen Hudson, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:59",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson blocks Grant Williams's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:57",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-12",
+							 "time":"10:50",
+							 "visitorText":"Jalen Hudson makes two point dunk (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:38",
+							 "visitorText":"",
+							 "homeText":"Grant Williams turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:38",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Admiral Schofield, Kyle Alexander, Jalen Johnson, Jordan Bowden)"
+							 },
+							 {
+							 "score":"10-12",
+							 "time":"10:23",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:52",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Admiral Schofield vs. Kevarrius Hayes (Admiral Schofield gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:47",
+							 "visitorText":"",
+							 "homeText":"Kyle Alexander turnover (lost ball) (Jalen Hudson steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:37",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:35",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden defensive rebound"
+							 },
+							 {
+							 "score":"10-14",
+							 "time":"9:30",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:10",
+							 "visitorText":"Jalen Hudson offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:10",
+							 "visitorText":"Jalen Hudson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:10",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Admiral Schofield, Grant Williams, Lamonte Turner, Jordan Bowden)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"Grant Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:47",
+							 "visitorText":"",
+							 "homeText":"Volunteers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-14",
+							 "time":"8:22",
+							 "visitorText":"Chris Chiozza makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:08",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"14-14",
+							 "time":"7:38",
+							 "visitorText":"Kevarrius Hayes makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:26",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:24",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:13",
+							 "visitorText":"Jalen Hudson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:11",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield defensive rebound"
+							 },
+							 {
+							 "score":"14-16",
+							 "time":"6:53",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner makes two point layup (Jordan Bowden assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:30",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"",
+							 "homeText":"Grant Williams personal foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Chris Darrington, Lamonte Turner, Kyle Alexander, Admiral Schofield, James Daniel III)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Mike Okauru, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-16",
+							 "time":"6:28",
+							 "visitorText":"Kevarrius Hayes makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"",
+							 "homeText":"Kyle Alexander defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:08",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:06",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:58",
+							 "visitorText":"Mike Okauru misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Volunteers defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, Chris Chiozza, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:47",
+							 "visitorText":"",
+							 "homeText":"James Daniel III turnover (carrying)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:47",
+							 "visitorText":"Gators lineup change (Mike Okauru, Deaundrae Ballard, Egor Koulechov, Chris Chiozza, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:47",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, James Daniel III, Lamonte Turner, Kyle Alexander, Grant Williams)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"Jalen Hudson offensive foul (Kyle Alexander draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"Jalen Hudson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:21",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner turnover (bad pass) (Mike Okauru steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"Mike Okauru misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"Chris Chiozza offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-16",
+							 "time":"5:08",
+							 "visitorText":"Chris Chiozza makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"Deaundrae Ballard personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Grant Williams offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"Dontay Bassett shooting foul (Grant Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-17",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, Grant Williams, James Daniel III, Admiral Schofield)"
+							 },
+							 {
+							 "score":"17-18",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:18",
+							 "visitorText":"KeVaughn Allen turnover (bad pass) (Admiral Schofield steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-21",
+							 "time":"4:03",
+							 "visitorText":"",
+							 "homeText":"James Daniel III makes three point jump shot (Jordan Bone assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"KeVaughn Allen misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:34",
+							 "visitorText":"Deaundrae Ballard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:22",
+							 "visitorText":"",
+							 "homeText":"James Daniel III personal foul (Chris Chiozza draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, Grant Williams, Jordan Bowden, Admiral Schofield)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"Chris Chiozza misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"",
+							 "homeText":"Grant Williams defensive rebound"
+							 },
+							 {
+							 "score":"17-23",
+							 "time":"3:05",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield makes two point layup (Grant Williams assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:40",
+							 "visitorText":"Egor Koulechov offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:40",
+							 "visitorText":"Egor Koulechov turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:28",
+							 "visitorText":"Deaundrae Ballard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:13",
+							 "visitorText":"Deaundrae Ballard misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:03",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone turnover (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:56",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"",
+							 "homeText":"Volunteers defensive rebound"
+							 },
+							 {
+							 "score":"17-25",
+							 "time":"1:37",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes two point layup (Admiral Schofield assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:00",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:00",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Mike Okauru)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"",
+							 "homeText":"Grant Williams shooting foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"Egor Koulechov misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, John Fulkerson, Admiral Schofield, Jordan Bowden)"
+							 },
+							 {
+							 "score":"18-25",
+							 "time":"00:53",
+							 "visitorText":"Egor Koulechov makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes blocks Admiral Schofield's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:27",
+							 "visitorText":"",
+							 "homeText":"Volunteers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:27",
+							 "visitorText":"",
+							 "homeText":"Volunteers 30 second timeout"
+							 },
+							 {
+							 "score":"18-27",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield makes two point turnaround jump shot (Jordan Bone assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Kyle Alexander, Jordan Bone, Grant Williams, Admiral Schofield, Jordan Bowden)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Gators lineup change (Keith Stone, KeVaughn Allen, Chris Chiozza, Egor Koulechov, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Gators",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:44",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:42",
+							 "visitorText":"Chris Chiozza offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"",
+							 "homeText":"Grant Williams personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, John Fulkerson, Admiral Schofield, Kyle Alexander, Jordan Bowden)"
+							 },
+							 {
+							 "score":"21-27",
+							 "time":"19:11",
+							 "visitorText":"Chris Chiozza makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:01",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:52",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:50",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:43",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:36",
+							 "visitorText":"Egor Koulechov misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:34",
+							 "visitorText":"",
+							 "homeText":"John Fulkerson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:24",
+							 "visitorText":"KeVaughn Allen personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Jordan Bone misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:05",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:40",
+							 "visitorText":"",
+							 "homeText":"John Fulkerson misses two point hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"Kevarrius Hayes misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:07",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-27",
+							 "time":"17:07",
+							 "visitorText":"Kevarrius Hayes makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:00",
+							 "visitorText":"",
+							 "homeText":"Volunteers 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:00",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:00",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Admiral Schofield, Lamonte Turner, Kyle Alexander, Jordan Bowden)"
+							 },
+							 {
+							 "score":"23-30",
+							 "time":"16:37",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield makes three point jump shot (Jordan Bowden assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:19",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:09",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden defensive rebound"
+							 },
+							 {
+							 "score":"23-33",
+							 "time":"15:53",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner makes three point jump shot (Jordan Bowden assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Mike Okauru, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, Admiral Schofield, Kyle Alexander, James Daniel III)"
+							 },
+							 {
+							 "score":"24-33",
+							 "time":"15:37",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-33",
+							 "time":"15:37",
+							 "visitorText":"Jalen Hudson makes regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-33",
+							 "time":"15:37",
+							 "visitorText":"Jalen Hudson makes regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:15",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:13",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:07",
+							 "visitorText":"Jalen Hudson turnover (bad pass) (James Daniel III steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:50",
+							 "visitorText":"",
+							 "homeText":"James Daniel III misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:48",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-33",
+							 "time":"14:41",
+							 "visitorText":"Kevarrius Hayes makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"Chris Chiozza personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, Chris Darrington, Admiral Schofield, Kyle Alexander)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Dontay Bassett, Chris Chiozza, KeVaughn Allen, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:26",
+							 "visitorText":"",
+							 "homeText":"Chris Darrington turnover (bad pass) (Dontay Bassett steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:05",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:03",
+							 "visitorText":"",
+							 "homeText":"Chris Darrington defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"",
+							 "homeText":"Keith Stone blocks Admiral Schofield's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:34",
+							 "visitorText":"Dontay Bassett defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"Keith Stone misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bowden, James Daniel III, Admiral Schofield, Kyle Alexander, Chris Darrington)"
+							 },
+							 {
+							 "score":"29-33",
+							 "time":"13:19",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:04",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden turnover (bad pass) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"31-33",
+							 "time":"12:58",
+							 "visitorText":"Keith Stone makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:58",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:58",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (James Daniel III, Admiral Schofield, Kyle Alexander, Lamonte Turner, Chris Darrington)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:58",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Jalen Hudson, Dontay Bassett, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-33",
+							 "time":"12:58",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"Dontay Bassett personal foul (Kyle Alexander draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-35",
+							 "time":"12:41",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield makes two point dunk (James Daniel III assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:09",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:07",
+							 "visitorText":"Dontay Bassett offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-35",
+							 "time":"12:06",
+							 "visitorText":"Dontay Bassett makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"Keith Stone turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Lamonte Turner, James Daniel III, Admiral Schofield, Jordan Bone, Grant Williams)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Dontay Bassett, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-37",
+							 "time":"11:28",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes two point layup"
+							 },
+							 {
+							 "score":"36-37",
+							 "time":"11:04",
+							 "visitorText":"Dontay Bassett makes two point layup (Deaundrae Ballard assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:46",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:44",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"Deaundrae Ballard misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"",
+							 "homeText":"Volunteers defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"Egor Koulechov personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, Grant Williams, Jordan Bowden, Admiral Schofield)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:09",
+							 "visitorText":"",
+							 "homeText":"Grant Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:07",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:59",
+							 "visitorText":"Dontay Bassett misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:57",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield defensive rebound"
+							 },
+							 {
+							 "score":"36-39",
+							 "time":"9:50",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden makes two point dunk (Jordan Bone assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:32",
+							 "visitorText":"Jalen Hudson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:30",
+							 "visitorText":"",
+							 "homeText":"Grant Williams defensive rebound"
+							 },
+							 {
+							 "score":"36-41",
+							 "time":"9:15",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:04",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:04",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:40",
+							 "visitorText":"Chris Chiozza misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"",
+							 "homeText":"Grant Williams defensive rebound"
+							 },
+							 {
+							 "score":"36-43",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"Egor Koulechov shooting foul (Admiral Schofield draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-44",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, Kyle Alexander, Admiral Schofield, Jordan Bowden)"
+							 },
+							 {
+							 "score":"38-44",
+							 "time":"7:53",
+							 "visitorText":"Kevarrius Hayes makes two point hook shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:26",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:24",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-44",
+							 "time":"7:18",
+							 "visitorText":"Egor Koulechov makes three point jump shot (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:03",
+							 "visitorText":"KeVaughn Allen personal foul (Lamonte Turner draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:03",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:03",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:03",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, Grant Williams, Kyle Alexander, Jordan Bowden)"
+							 },
+							 {
+							 "score":"41-46",
+							 "time":"6:46",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:27",
+							 "visitorText":"",
+							 "homeText":"Kyle Alexander shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:27",
+							 "visitorText":"Keith Stone misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:27",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-46",
+							 "time":"6:27",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-48",
+							 "time":"6:10",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:55",
+							 "visitorText":"Chris Chiozza turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:55",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Jordan Bone, Lamonte Turner, Grant Williams, Admiral Schofield, Jordan Bowden)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"Egor Koulechov personal foul (Jordan Bowden draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (James Daniel III, Lamonte Turner, Grant Williams, Admiral Schofield, Jordan Bowden)"
+							 },
+							 {
+							 "score":"42-49",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"42-50",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden defensive rebound"
+							 },
+							 {
+							 "score":"42-52",
+							 "time":"5:02",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden makes two point jump shot (Admiral Schofield assists)"
+							 },
+							 {
+							 "score":"45-52",
+							 "time":"4:40",
+							 "visitorText":"Jalen Hudson makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-54",
+							 "time":"4:13",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes two point jump shot"
+							 },
+							 {
+							 "score":"48-54",
+							 "time":"4:05",
+							 "visitorText":"Keith Stone makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"Kevarrius Hayes shooting foul (Grant Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"",
+							 "homeText":"Volunteers lineup change (Lamonte Turner, Grant Williams, Jordan Bone, Admiral Schofield, Jordan Bowden)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-55",
+							 "time":"3:41",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"",
+							 "homeText":"Grant Williams misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:19",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:10",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"",
+							 "homeText":"Grant Williams defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:42",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes blocks Jordan Bone's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:40",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"Chris Chiozza misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:28",
+							 "visitorText":"Jalen Hudson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-55",
+							 "time":"2:26",
+							 "visitorText":"Jalen Hudson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:13",
+							 "visitorText":"Keith Stone personal foul (Grant Williams draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-56",
+							 "time":"2:13",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"50-57",
+							 "time":"2:13",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:00",
+							 "visitorText":"Chris Chiozza misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:58",
+							 "visitorText":"Chris Chiozza offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-57",
+							 "time":"1:54",
+							 "visitorText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:52",
+							 "visitorText":"Gators 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-59",
+							 "time":"1:33",
+							 "visitorText":"",
+							 "homeText":"Grant Williams makes two point dunk (Jordan Bowden assists)"
+							 },
+							 {
+							 "score":"55-59",
+							 "time":"1:15",
+							 "visitorText":"Chris Chiozza makes two point layup (Egor Koulechov assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"",
+							 "homeText":"Volunteers 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"Grant Williams misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:41",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"Chris Chiozza misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:34",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"Keith Stone personal foul (Jordan Bowden draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Volunteers rebound (deadball)"
+							 },
+							 {
+							 "score":"55-60",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"57-60",
+							 "time":"00:24",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Grant Williams shooting foul (Chris Chiozza draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Mike Okauru, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"Chris Chiozza misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Lamonte Turner defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:13",
+							 "visitorText":"Mike Okauru personal foul (Jordan Bowden draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-61",
+							 "time":"00:13",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:13",
+							 "visitorText":"Gators lineup change (Keith Stone, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-62",
+							 "time":"00:13",
+							 "visitorText":"",
+							 "homeText":"Jordan Bowden makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Admiral Schofield defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

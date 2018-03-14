@@ -1,0 +1,2173 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for South Carolina vs Florida",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "953",
+				"seoName": "south-carolina",
+				"sixCharAbbr": "S CAR",
+				"shortName": "South Carolina",	
+				"nickName": "Gamecocks",		
+				"color": "#73000A"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes vs. Chris Silva (Evan Hinson gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar misses two point reverse layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:34",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:09",
+							 "visitorText":"Kevarrius Hayes turnover (3-second violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:42",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes blocks Chris Silva's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:40",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:35",
+							 "visitorText":"Chris Silva blocks Jalen Hudson's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:33",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:33",
+							 "visitorText":"",
+							 "homeText":"Evan Hinson personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:15",
+							 "visitorText":"Chris Chiozza misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:13",
+							 "visitorText":"",
+							 "homeText":"Hassani Gravett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:04",
+							 "visitorText":"",
+							 "homeText":"Keith Stone blocks Justin Minaya's three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:02",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-0",
+							 "time":"17:46",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Jalen Hudson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"Hassani Gravett turnover (out of bounds) (Jalen Hudson steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:20",
+							 "visitorText":"Jalen Hudson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:18",
+							 "visitorText":"",
+							 "homeText":"Chris Silva defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"",
+							 "homeText":"Evan Hinson misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:57",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:44",
+							 "visitorText":"Kevarrius Hayes offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:44",
+							 "visitorText":"Kevarrius Hayes turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:44",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Hassani Gravett, Justin Minaya, Maik Kotsar, Frank Booker, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:44",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Gorjok Gak, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:29",
+							 "visitorText":"",
+							 "homeText":"Justin Minaya misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:27",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:20",
+							 "visitorText":"Chris Chiozza turnover (bad pass) (Frank Booker steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:06",
+							 "visitorText":"",
+							 "homeText":"Chris Silva misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:04",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-0",
+							 "time":"15:47",
+							 "visitorText":"Chris Chiozza makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"Keith Stone personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Hassani Gravett, Frank Booker, Wesley Myers, Maik Kotsar, Chris Silva)"
+							 },
+							 {
+							 "score":"5-3",
+							 "time":"15:30",
+							 "visitorText":"",
+							 "homeText":"Frank Booker makes three point jump shot (Hassani Gravett assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"Gators turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Kory Holden, Frank Booker, Wesley Myers, Maik Kotsar, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:42",
+							 "visitorText":"",
+							 "homeText":"Chris Silva turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:29",
+							 "visitorText":"Mike Okauru misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:59",
+							 "visitorText":"Chris Silva blocks Mike Okauru's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Egor Koulechov, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-5",
+							 "time":"13:40",
+							 "visitorText":"",
+							 "homeText":"Frank Booker makes two point jump shot (Chris Silva assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:31",
+							 "visitorText":"Deaundrae Ballard offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:31",
+							 "visitorText":"Deaundrae Ballard turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:31",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Kory Holden, Frank Booker, Wesley Myers, Felipe Haase, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak blocks Chris Silva's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:06",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-5",
+							 "time":"13:00",
+							 "visitorText":"Deaundrae Ballard makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:00",
+							 "visitorText":"",
+							 "homeText":"Chris Silva turnover (out of bounds) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:56",
+							 "visitorText":"Gators lineup change (Keith Stone, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:56",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Hassani Gravett, Frank Booker, Felipe Haase, Wesley Myers, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:32",
+							 "visitorText":"",
+							 "homeText":"Chris Silva shooting foul (Deaundrae Ballard draws the foul)"
+							 },
+							 {
+							 "score":"8-5",
+							 "time":"12:32",
+							 "visitorText":"Deaundrae Ballard makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"9-5",
+							 "time":"12:32",
+							 "visitorText":"Deaundrae Ballard makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:14",
+							 "visitorText":"",
+							 "homeText":"Chris Silva misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"Deaundrae Ballard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"",
+							 "homeText":"Frank Booker defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:38",
+							 "visitorText":"",
+							 "homeText":"Keith Stone blocks Chris Silva's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:36",
+							 "visitorText":"Deaundrae Ballard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"",
+							 "homeText":"Felipe Haase shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-5",
+							 "time":"11:29",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Dontay Bassett, Deaundrae Ballard, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Hassani Gravett, Frank Booker, Felipe Haase, Wesley Myers, Maik Kotsar)"
+							 },
+							 {
+							 "score":"11-5",
+							 "time":"11:29",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-5",
+							 "time":"11:29",
+							 "visitorText":"Keith Stone makes regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:06",
+							 "visitorText":"",
+							 "homeText":"Frank Booker offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:06",
+							 "visitorText":"",
+							 "homeText":"Frank Booker turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:06",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Hassani Gravett, Justin Minaya, Felipe Haase, Wesley Myers, Maik Kotsar)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:51",
+							 "visitorText":"Deaundrae Ballard misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:49",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar defensive rebound"
+							 },
+							 {
+							 "score":"12-7",
+							 "time":"10:40",
+							 "visitorText":"",
+							 "homeText":"Felipe Haase makes two point layup (Wesley Myers assists)"
+							 },
+							 {
+							 "score":"14-7",
+							 "time":"10:09",
+							 "visitorText":"Jalen Hudson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:54",
+							 "visitorText":"Deaundrae Ballard personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:54",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:54",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Dontay Bassett, KeVaughn Allen, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:44",
+							 "visitorText":"",
+							 "homeText":"Hassani Gravett misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:42",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:32",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:32",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Kory Holden, Justin Minaya, Felipe Haase, Wesley Myers, Maik Kotsar)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:16",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:14",
+							 "visitorText":"",
+							 "homeText":"Wesley Myers defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:10",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett blocks Wesley Myers's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:08",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:00",
+							 "visitorText":"KeVaughn Allen misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:58",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"Keith Stone misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:44",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"",
+							 "homeText":"Felipe Haase offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:32",
+							 "visitorText":"",
+							 "homeText":"Felipe Haase misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:30",
+							 "visitorText":"Dontay Bassett defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-7",
+							 "time":"8:26",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:22",
+							 "visitorText":"",
+							 "homeText":"Keith Stone blocks Kory Holden's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:20",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Wesley Myers personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Mike Okauru, Chris Chiozza, Egor Koulechov, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Kory Holden, Justin Minaya, Felipe Haase, Frank Booker, Maik Kotsar)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:11",
+							 "visitorText":"",
+							 "homeText":"Frank Booker defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Kory Holden, Frank Booker, Justin Minaya, Chris Silva, Maik Kotsar)"
+							 },
+							 {
+							 "score":"19-7",
+							 "time":"7:43",
+							 "visitorText":"Mike Okauru makes three point jump shot (Egor Koulechov assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson blocks Kory Holden's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-7",
+							 "time":"7:09",
+							 "visitorText":"Chris Chiozza makes two point layup (Jalen Hudson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:09",
+							 "visitorText":"",
+							 "homeText":"Gamecocks 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:09",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:09",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Hassani Gravett, Frank Booker, Justin Minaya, Felipe Haase, Chris Silva)"
+							 },
+							 {
+							 "score":"21-9",
+							 "time":"6:51",
+							 "visitorText":"",
+							 "homeText":"Frank Booker makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:33",
+							 "visitorText":"",
+							 "homeText":"Chris Silva shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:33",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:33",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-9",
+							 "time":"6:33",
+							 "visitorText":"Kevarrius Hayes makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:33",
+							 "visitorText":"Gators lineup change (Mike Okauru, Gorjok Gak, Egor Koulechov, KeVaughn Allen, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-11",
+							 "time":"6:15",
+							 "visitorText":"",
+							 "homeText":"Chris Silva makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Frank Martin technical foul"
+							 },
+							 {
+							 "score":"23-11",
+							 "time":"6:09",
+							 "visitorText":"KeVaughn Allen makes technical free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-11",
+							 "time":"6:09",
+							 "visitorText":"KeVaughn Allen makes technical free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"Mike Okauru misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:54",
+							 "visitorText":"",
+							 "homeText":"Justin Minaya defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:49",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Wesley Myers, Frank Booker, Justin Minaya, Felipe Haase, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:49",
+							 "visitorText":"Gators lineup change (Mike Okauru, Keith Stone, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-13",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Chris Silva makes two point layup (Justin Minaya assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"Gorjok Gak shooting foul (Chris Silva draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-14",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Chris Silva makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"Gators lineup change (Mike Okauru, KeVaughn Allen, Gorjok Gak, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Frank Booker, Justin Minaya, Felipe Haase, Wesley Myers, Maik Kotsar)"
+							 },
+							 {
+							 "score":"27-14",
+							 "time":"5:23",
+							 "visitorText":"Mike Okauru makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-16",
+							 "time":"5:06",
+							 "visitorText":"",
+							 "homeText":"Frank Booker makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"",
+							 "homeText":"Frank Booker shooting foul (Gorjok Gak draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"Gorjok Gak misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Frank Booker, Justin Minaya, Khadim Gueye, Wesley Myers, Maik Kotsar)"
+							 },
+							 {
+							 "score":"28-16",
+							 "time":"5:01",
+							 "visitorText":"Gorjok Gak makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, Chris Chiozza, Dontay Bassett, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:33",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-16",
+							 "time":"4:14",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Frank Booker, Justin Minaya, Jason Cudd, Wesley Myers, Maik Kotsar)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru blocks Wesley Myers's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"",
+							 "homeText":"Wesley Myers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"Jump ball. Wesley Myers vs. Dontay Bassett (Dontay Bassett gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"",
+							 "homeText":"Wesley Myers turnover (lost ball) (Dontay Bassett steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, KeVaughn Allen, Dontay Bassett, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-16",
+							 "time":"3:28",
+							 "visitorText":"Dontay Bassett makes two point dunk (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-18",
+							 "time":"3:01",
+							 "visitorText":"",
+							 "homeText":"Frank Booker makes two point jump shot (Justin Minaya assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"Mike Okauru shooting foul (Frank Booker draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Frank Booker, Justin Minaya, Hassani Gravett, Maik Kotsar, Jason Cudd)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"",
+							 "homeText":"Frank Booker misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-18",
+							 "time":"2:36",
+							 "visitorText":"KeVaughn Allen makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:12",
+							 "visitorText":"",
+							 "homeText":"Frank Booker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:10",
+							 "visitorText":"Dontay Bassett defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:59",
+							 "visitorText":"Maik Kotsar blocks Keith Stone's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:57",
+							 "visitorText":"Dontay Bassett offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-18",
+							 "time":"1:49",
+							 "visitorText":"Dontay Bassett makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"KeVaughn Allen shooting foul (Jason Cudd draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Gamecocks rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Dontay Bassett, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-18",
+							 "time":"1:05",
+							 "visitorText":"Jalen Hudson makes three point jump shot (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-20",
+							 "time":"00:38",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar makes two point jump shot"
+							 },
+							 {
+							 "score":"41-20",
+							 "time":"00:03",
+							 "visitorText":"Jalen Hudson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Kevarrius Hayes, Keith Stone, Jalen Hudson, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Chris Silva, Evan Hinson, Maik Kotsar, Hassani Gravett, Justin Minaya)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Gamecocks"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:50",
+							 "visitorText":"Keith Stone personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-22",
+							 "time":"19:33",
+							 "visitorText":"",
+							 "homeText":"Chris Silva makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"",
+							 "homeText":"Chris Silva shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"",
+							 "homeText":"Chris Silva defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:53",
+							 "visitorText":"",
+							 "homeText":"Hassani Gravett misses two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:51",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:46",
+							 "visitorText":"Chris Chiozza offensive foul (Chris Silva draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:46",
+							 "visitorText":"Chris Chiozza turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-24",
+							 "time":"18:30",
+							 "visitorText":"",
+							 "homeText":"Hassani Gravett makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:12",
+							 "visitorText":"Jalen Hudson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:10",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-24",
+							 "time":"18:08",
+							 "visitorText":"Kevarrius Hayes makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:00",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar misses two point hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:58",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:51",
+							 "visitorText":"Jalen Hudson misses three point step back jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:49",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:32",
+							 "visitorText":"Egor Koulechov turnover (bad pass) (Hassani Gravett steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:04",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Hassani Gravett, Frank Booker, Maik Kotsar, Evan Hinson, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:57",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:27",
+							 "visitorText":"Gators turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:27",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:27",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Wesley Myers, Frank Booker, Maik Kotsar, Evan Hinson, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:14",
+							 "visitorText":"",
+							 "homeText":"Chris Silva misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:12",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:06",
+							 "visitorText":"Egor Koulechov misses two point fadeaway jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:04",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar defensive rebound"
+							 },
+							 {
+							 "score":"43-26",
+							 "time":"15:54",
+							 "visitorText":"",
+							 "homeText":"Chris Silva makes two point dunk (Maik Kotsar assists)"
+							 },
+							 {
+							 "score":"45-26",
+							 "time":"15:49",
+							 "visitorText":"Kevarrius Hayes makes two point driving layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Frank Booker, Kory Holden, Maik Kotsar, Evan Hinson, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:30",
+							 "visitorText":"",
+							 "homeText":"Chris Silva misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Chris Silva offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Chris Silva misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:25",
+							 "visitorText":"Deaundrae Ballard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:25",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Kory Holden, Frank Booker, Maik Kotsar, Justin Minaya, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:10",
+							 "visitorText":"Deaundrae Ballard turnover (lost ball) (Justin Minaya steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-28",
+							 "time":"15:07",
+							 "visitorText":"",
+							 "homeText":"Justin Minaya makes two point driving layup"
+							 },
+							 {
+							 "score":"47-28",
+							 "time":"14:50",
+							 "visitorText":"Chris Chiozza makes two point reverse layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:34",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar misses two point hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:32",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-28",
+							 "time":"14:28",
+							 "visitorText":"Egor Koulechov makes two point layup (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-31",
+							 "time":"14:10",
+							 "visitorText":"",
+							 "homeText":"Frank Booker makes three point jump shot"
+							 },
+							 {
+							 "score":"51-31",
+							 "time":"13:49",
+							 "visitorText":"Egor Koulechov makes two point alley-oop layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"Gorjok Gak shooting foul (Chris Silva draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Chris Silva misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Gamecocks rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Mike Okauru, Chris Chiozza, Dontay Bassett, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Kory Holden, Frank Booker, Justin Minaya, Felipe Haase, Chris Silva)"
+							 },
+							 {
+							 "score":"51-32",
+							 "time":"13:38",
+							 "visitorText":"",
+							 "homeText":"Chris Silva makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:18",
+							 "visitorText":"Chris Silva blocks Dontay Bassett's two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"",
+							 "homeText":"Kory Holden defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"",
+							 "homeText":"Kory Holden turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Hassani Gravett, Frank Booker, Justin Minaya, Felipe Haase, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Hassani Gravett shooting foul (Chris Chiozza draws the foul)"
+							 },
+							 {
+							 "score":"52-32",
+							 "time":"12:52",
+							 "visitorText":"Chris Chiozza makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, Chris Chiozza, Dontay Bassett, Jalen Hudson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:52",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Wesley Myers, Frank Booker, Justin Minaya, Felipe Haase, Chris Silva)"
+							 },
+							 {
+							 "score":"53-32",
+							 "time":"12:52",
+							 "visitorText":"Chris Chiozza makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"",
+							 "homeText":"Frank Booker misses two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:28",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:58",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"",
+							 "homeText":"Frank Booker defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:49",
+							 "visitorText":"",
+							 "homeText":"Wesley Myers misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-32",
+							 "time":"11:27",
+							 "visitorText":"Jalen Hudson makes two point fadeaway jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Felipe Haase shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Keith Stone, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Frank Booker, Evan Hinson, Felipe Haase, Wesley Myers, Chris Silva)"
+							 },
+							 {
+							 "score":"56-32",
+							 "time":"11:27",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"",
+							 "homeText":"Chris Silva misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:14",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:05",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (Frank Booker, Felipe Haase, Wesley Myers, David Beatty, Maik Kotsar)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:51",
+							 "visitorText":"KeVaughn Allen turnover (bad pass) (Wesley Myers steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes blocks Felipe Haase's two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:41",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-32",
+							 "time":"10:35",
+							 "visitorText":"Jalen Hudson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:24",
+							 "visitorText":"",
+							 "homeText":"Frank Booker turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:24",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (David Beatty, Frank Booker, Chris Silva, Wesley Myers, Maik Kotsar)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:12",
+							 "visitorText":"",
+							 "homeText":"David Beatty personal foul (KeVaughn Allen draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:52",
+							 "visitorText":"Chris Silva blocks Mike Okauru's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:51",
+							 "visitorText":"Mike Okauru offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:51",
+							 "visitorText":"Gators turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:39",
+							 "visitorText":"",
+							 "homeText":"Frank Booker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:37",
+							 "visitorText":"",
+							 "homeText":"Chris Silva offensive rebound"
+							 },
+							 {
+							 "score":"58-34",
+							 "time":"9:28",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar makes two point jump shot (Frank Booker assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"",
+							 "homeText":"Chris Silva personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, KeVaughn Allen, Kevarrius Hayes, Chris Chiozza)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:58",
+							 "visitorText":"Egor Koulechov misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:57",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:57",
+							 "visitorText":"Gators turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:57",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (David Beatty, Frank Booker, Wesley Myers, Maik Kotsar, Jason Cudd)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:41",
+							 "visitorText":"Chris Chiozza personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"",
+							 "homeText":"Frank Booker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"KeVaughn Allen misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:04",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:53",
+							 "visitorText":"",
+							 "homeText":"David Beatty misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:51",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Kevarrius Hayes shooting foul (Jason Cudd draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-35",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (David Beatty, Frank Booker, Hassani Gravett, Maik Kotsar, Jason Cudd)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Gators lineup change (Keith Stone, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:33",
+							 "visitorText":"",
+							 "homeText":"David Beatty personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:19",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:17",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:09",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar offensive foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:09",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:09",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:45",
+							 "visitorText":"KeVaughn Allen turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:30",
+							 "visitorText":"Egor Koulechov personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"",
+							 "homeText":"Frank Booker misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:17",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"",
+							 "homeText":"Hassani Gravett shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"59-35",
+							 "time":"6:13",
+							 "visitorText":"Kevarrius Hayes makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (David Beatty, Kory Holden, Frank Booker, Maik Kotsar, Jason Cudd)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"",
+							 "homeText":"Frank Booker turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Dontay Bassett, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:33",
+							 "visitorText":"Jalen Hudson misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:31",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-35",
+							 "time":"5:25",
+							 "visitorText":"Egor Koulechov makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:13",
+							 "visitorText":"",
+							 "homeText":"Frank Booker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (David Beatty, Kory Holden, Frank Booker, Maik Kotsar, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Dontay Bassett, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:42",
+							 "visitorText":"Chris Silva blocks Dontay Bassett's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:42",
+							 "visitorText":"",
+							 "homeText":"Chris Silva defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:42",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (David Beatty, Wesley Myers, Frank Booker, Maik Kotsar, Chris Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"Keith Stone shooting foul (Maik Kotsar draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"61-36",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Dontay Bassett, Chris Chiozza)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:54",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:54",
+							 "visitorText":"",
+							 "homeText":"Gamecocks lineup change (David Beatty, Frank Booker, Wesley Myers, Maik Kotsar, Jason Cudd)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:25",
+							 "visitorText":"Dontay Bassett misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:23",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:06",
+							 "visitorText":"",
+							 "homeText":"Wesley Myers misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"Dontay Bassett defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:57",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:57",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Mike Okauru, KeVaughn Allen, Deaundrae Ballard, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:47",
+							 "visitorText":"Mike Okauru misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:45",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"Gators lineup change (Mike Okauru, Gorjok Gak, KeVaughn Allen, Dontay Bassett, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett blocks David Beatty's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"",
+							 "homeText":"Gamecocks offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:28",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:26",
+							 "visitorText":"Dontay Bassett defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-36",
+							 "time":"2:07",
+							 "visitorText":"Deaundrae Ballard makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:59",
+							 "visitorText":"Deaundrae Ballard shooting foul (Frank Booker draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-37",
+							 "time":"1:59",
+							 "visitorText":"",
+							 "homeText":"Frank Booker makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"63-38",
+							 "time":"1:59",
+							 "visitorText":"",
+							 "homeText":"Frank Booker makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"63-39",
+							 "time":"1:59",
+							 "visitorText":"",
+							 "homeText":"Frank Booker makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"Gators turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"",
+							 "homeText":"David Beatty misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:06",
+							 "visitorText":"Dontay Bassett defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"Dontay Bassett offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-39",
+							 "time":"00:08",
+							 "visitorText":"Mike Okauru makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Frank Booker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Gorjok Gak personal foul (Jason Cudd draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-40",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"65-41",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Jason Cudd makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

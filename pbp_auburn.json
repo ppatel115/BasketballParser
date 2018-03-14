@@ -1,0 +1,2017 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Florida vs Auburn",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "460",
+				"seoName": "auburn",
+				"sixCharAbbr": "AUBURN",
+				"shortName": "Auburn",	
+				"nickName": "Tigers",		
+				"color": "#f58025"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Horace Spencer vs. Dontay Bassett (Jared Harper gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:42",
+							 "visitorText":"Mustapha Heron turnover (bad pass) (Dontay Bassett steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:35",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes two point dunk (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:15",
+							 "visitorText":"Mustapha Heron misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:13",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:50",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:48",
+							 "visitorText":"Mustapha Heron defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"18:42",
+							 "visitorText":"Mustapha Heron makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-5",
+							 "time":"18:24",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:52",
+							 "visitorText":"DeSean Murray misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:50",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:42",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:40",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett offensive rebound"
+							 },
+							 {
+							 "score":"2-8",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:12",
+							 "visitorText":"DeSean Murray turnover (3-second violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-10",
+							 "time":"16:57",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point dunk (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"Tigers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"Tigers lineup change (Chuma Okeke, Jared Harper, Bryce Brown, Mustapha Heron, DeSean Murray)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-10",
+							 "time":"16:43",
+							 "visitorText":"DeSean Murray makes two point layup (Bryce Brown assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:27",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"Jared Harper defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:20",
+							 "visitorText":"Bryce Brown misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:18",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"DeSean Murray personal foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:58",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"Chuma Okeke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"Jared Harper turnover (bad pass) (Egor Koulechov steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"Jared Harper personal foul (Mike Okauru draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"Tigers lineup change (Malik Dunbar, Bryce Brown, Chuma Okeke, Davion Mitchell, Horace Spencer)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:26",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point driving jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"Horace Spencer defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:07",
+							 "visitorText":"Davion Mitchell turnover (lost ball) (Mike Okauru steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:02",
+							 "visitorText":"",
+							 "homeText":"Horace Spencer blocks Mike Okauru's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:02",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:02",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Jalen Hudson, Egor Koulechov, Chris Chiozza, Dontay Bassett)"
+							 },
+							 {
+							 "score":"4-13",
+							 "time":"14:44",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:28",
+							 "visitorText":"Davion Mitchell misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:03",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:01",
+							 "visitorText":"Malik Dunbar defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:54",
+							 "visitorText":"Malik Dunbar misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"Chuma Okeke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-13",
+							 "time":"13:51",
+							 "visitorText":"Chuma Okeke makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:43",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:41",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett offensive rebound"
+							 },
+							 {
+							 "score":"6-15",
+							 "time":"13:35",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes two point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:20",
+							 "visitorText":"Davion Mitchell turnover (bad pass) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:14",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:13",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"Chuma Okeke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"Malik Dunbar offensive foul (Dontay Bassett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"Malik Dunbar turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"Tigers lineup change (Jared Harper, DeSean Murray, Chuma Okeke, Davion Mitchell, Mustapha Heron)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:08",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Kevarrius Hayes, KeVaughn Allen, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:44",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"DeSean Murray defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul (DeSean Murray draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:28",
+							 "visitorText":"Chuma Okeke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:26",
+							 "visitorText":"Chuma Okeke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"9-15",
+							 "time":"12:22",
+							 "visitorText":"Mustapha Heron makes three point jump shot (Davion Mitchell assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:00",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (bad pass) (Mustapha Heron steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"Mustapha Heron turnover (bad pass) (Keith Stone steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:35",
+							 "visitorText":"DeSean Murray defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-15",
+							 "time":"11:28",
+							 "visitorText":"Jared Harper makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:58",
+							 "visitorText":"Chuma Okeke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:51",
+							 "visitorText":"Kevarrius Hayes blocks Davion Mitchell's two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:49",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"Chuma Okeke personal foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, KeVaughn Allen, Deaundrae Ballard, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"Tigers lineup change (Jared Harper, Bryce Brown, Mustapha Heron, Horace Spencer, DeSean Murray)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Horace Spencer defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:56",
+							 "visitorText":"Bryce Brown misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:54",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"",
+							 "homeText":"Horace Spencer blocks Kevarrius Hayes's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:24",
+							 "visitorText":"",
+							 "homeText":"Gators turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:59",
+							 "visitorText":"Horace Spencer turnover (bad pass) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:53",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"Mustapha Heron defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-15",
+							 "time":"8:46",
+							 "visitorText":"Mustapha Heron makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Egor Koulechov, Dontay Bassett, Chris Chiozza)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:10",
+							 "visitorText":"Jalen Hudson blocks Mustapha Heron's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"Tigers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"Jared Harper misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:04",
+							 "visitorText":"Horace Spencer offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-15",
+							 "time":"8:03",
+							 "visitorText":"Horace Spencer makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-18",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes three point jump shot (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:19",
+							 "visitorText":"Jared Harper turnover (bad pass) (Dontay Bassett steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-20",
+							 "time":"7:12",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes two point dunk (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:44",
+							 "visitorText":"Horace Spencer turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:44",
+							 "visitorText":"Tigers lineup change (Davion Mitchell, Jared Harper, Chuma Okeke, Malik Dunbar, DeSean Murray)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:18",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:16",
+							 "visitorText":"Chuma Okeke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-20",
+							 "time":"5:52",
+							 "visitorText":"Chuma Okeke makes three point jump shot (Davion Mitchell assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-22",
+							 "time":"5:21",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Malik Dunbar misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"Malik Dunbar shooting foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Mike Okauru, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"Tigers lineup change (Bryce Brown, Chuma Okeke, Davion Mitchell, DeSean Murray, Mustapha Heron)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"DeSean Murray defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson shooting foul (DeSean Murray draws the foul)"
+							 },
+							 {
+							 "score":"19-22",
+							 "time":"4:26",
+							 "visitorText":"DeSean Murray makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-22",
+							 "time":"4:26",
+							 "visitorText":"DeSean Murray makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Keith Stone, Egor Koulechov, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (lost ball) (Davion Mitchell steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:43",
+							 "visitorText":"Bryce Brown misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:41",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:37",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (bad pass) (Davion Mitchell steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"Bryce Brown turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:16",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:14",
+							 "visitorText":"DeSean Murray defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-22",
+							 "time":"2:59",
+							 "visitorText":"Chuma Okeke makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-24",
+							 "time":"2:36",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:17",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru personal foul (Davion Mitchell draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:17",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:17",
+							 "visitorText":"Tigers lineup change (Bryce Brown, Chuma Okeke, Mustapha Heron, Jared Harper, DeSean Murray)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-24",
+							 "time":"2:16",
+							 "visitorText":"Mustapha Heron makes two point dunk (DeSean Murray assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-27",
+							 "time":"1:46",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul (Bryce Brown draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:20",
+							 "visitorText":"Mustapha Heron turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-30",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"DeSean Murray turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive foul (Bryce Brown draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"Chuma Okeke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Tigers lineup change (Jared Harper, Bryce Brown, Horace Spencer, Mustapha Heron, DeSean Murray)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-33",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Dontay Bassett)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Gators"
+							 },
+							 {
+							 "score":"24-35",
+							 "time":"19:31",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point dunk (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"27-35",
+							 "time":"19:18",
+							 "visitorText":"Mustapha Heron makes three point jump shot (Jared Harper assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-37",
+							 "time":"18:48",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point floating jump shot"
+							 },
+							 {
+							 "score":"29-37",
+							 "time":"18:34",
+							 "visitorText":"Mustapha Heron makes two point layup (Horace Spencer assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-40",
+							 "time":"18:19",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:55",
+							 "visitorText":"Egor Koulechov blocks Jared Harper's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:52",
+							 "visitorText":"Tigers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:52",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Dontay Bassett)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:51",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:47",
+							 "visitorText":"Horace Spencer misses two point hook shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:45",
+							 "visitorText":"Horace Spencer offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:44",
+							 "visitorText":"Dontay Bassett blocks DeSean Murray's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:42",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:41",
+							 "visitorText":"Tigers lineup change (Chuma Okeke, Jared Harper, Bryce Brown, Mustapha Heron, DeSean Murray)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-43",
+							 "time":"17:25",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot"
+							 },
+							 {
+							 "score":"32-43",
+							 "time":"17:08",
+							 "visitorText":"Bryce Brown makes three point jump shot (Mustapha Heron assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:58",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"Mustapha Heron defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:47",
+							 "visitorText":"Mustapha Heron misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:18",
+							 "visitorText":"Tigers defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-43",
+							 "time":"16:05",
+							 "visitorText":"Mustapha Heron makes three point jump shot (Jared Harper assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"Mustapha Heron personal foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"Tigers lineup change (Horace Spencer, Bryce Brown, Chuma Okeke, Davion Mitchell, Malik Dunbar)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"Bryce Brown personal foul (Keith Stone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-46",
+							 "time":"15:21",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Keith Stone assists)"
+							 },
+							 {
+							 "score":"38-46",
+							 "time":"15:06",
+							 "visitorText":"Chuma Okeke makes three point jump shot (Bryce Brown assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:31",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:29",
+							 "visitorText":"Malik Dunbar defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-46",
+							 "time":"14:13",
+							 "visitorText":"Horace Spencer makes two point driving layup (Bryce Brown assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:13",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul (Horace Spencer draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:13",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Jalen Hudson, KeVaughn Allen, Kevarrius Hayes, Chris Chiozza)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:13",
+							 "visitorText":"Horace Spencer misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:13",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:52",
+							 "visitorText":"",
+							 "homeText":"Horace Spencer blocks Jalen Hudson's two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:50",
+							 "visitorText":"Malik Dunbar defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:32",
+							 "visitorText":"Chuma Okeke misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"Horace Spencer offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-46",
+							 "time":"13:21",
+							 "visitorText":"Chuma Okeke makes two point layup (Bryce Brown assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"Bryce Brown personal foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"Tigers lineup change (Horace Spencer, Jared Harper, Chuma Okeke, Davion Mitchell, Malik Dunbar)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:53",
+							 "visitorText":"Horace Spencer personal foul (Kevarrius Hayes draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-48",
+							 "time":"12:44",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"Jared Harper turnover (bad pass) (Kevarrius Hayes steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"Tigers lineup change (DeSean Murray, Jared Harper, Chuma Okeke, Davion Mitchell, Malik Dunbar)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Deaundrae Ballard, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"44-48",
+							 "time":"12:01",
+							 "visitorText":"DeSean Murray makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, KeVaughn Allen, Dontay Bassett)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:28",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:28",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:28",
+							 "visitorText":"",
+							 "homeText":"Gators turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"Davion Mitchell offensive foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"Davion Mitchell turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-50",
+							 "time":"10:46",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:25",
+							 "visitorText":"Malik Dunbar misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:23",
+							 "visitorText":"Chuma Okeke offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:22",
+							 "visitorText":"Chuma Okeke misses two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:20",
+							 "visitorText":"Malik Dunbar offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-50",
+							 "time":"10:19",
+							 "visitorText":"Malik Dunbar makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"Malik Dunbar defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:51",
+							 "visitorText":"Jared Harper misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:49",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"46-52",
+							 "time":"9:41",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes two point layup (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:41",
+							 "visitorText":"DeSean Murray shooting foul (Dontay Bassett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:41",
+							 "visitorText":"Tigers lineup change (Jared Harper, Chuma Okeke, Bryce Brown, DeSean Murray, Mustapha Heron)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-53",
+							 "time":"9:41",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett shooting foul (DeSean Murray draws the foul)"
+							 },
+							 {
+							 "score":"47-53",
+							 "time":"9:22",
+							 "visitorText":"DeSean Murray makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"Tigers lineup change (Jared Harper, Bryce Brown, Horace Spencer, Mustapha Heron, DeSean Murray)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"DeSean Murray misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:01",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:59",
+							 "visitorText":"Horace Spencer defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:52",
+							 "visitorText":"Jared Harper misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:50",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:44",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"Mustapha Heron defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"Horace Spencer misses two point fadeaway jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett misses two point turnaround hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"Mustapha Heron defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:45",
+							 "visitorText":"Bryce Brown misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"Horace Spencer offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-53",
+							 "time":"7:33",
+							 "visitorText":"Jared Harper makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:07",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:05",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett offensive rebound"
+							 },
+							 {
+							 "score":"49-55",
+							 "time":"7:05",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes two point tip shot"
+							 },
+							 {
+							 "score":"51-55",
+							 "time":"6:37",
+							 "visitorText":"Horace Spencer makes two point turnaround hook shot (Bryce Brown assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"Horace Spencer personal foul (Dontay Bassett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"Tigers lineup change (Horace Spencer, Jared Harper, Bryce Brown, Mustapha Heron, Chuma Okeke)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Keith Stone, KeVaughn Allen, Chris Chiozza, Dontay Bassett)"
+							 },
+							 {
+							 "score":"51-56",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"Chuma Okeke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:41",
+							 "visitorText":"Chuma Okeke turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:41",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"Jared Harper personal foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"Horace Spencer defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:14",
+							 "visitorText":"Chuma Okeke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"Mustapha Heron offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"Jump ball. Mustapha Heron vs. Kevarrius Hayes (Tigers gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"Tigers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:54",
+							 "visitorText":"Jared Harper misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:54",
+							 "visitorText":"Tigers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:54",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul (Horace Spencer draws the foul)"
+							 },
+							 {
+							 "score":"54-56",
+							 "time":"4:39",
+							 "visitorText":"Bryce Brown makes three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:20",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:18",
+							 "visitorText":"Chuma Okeke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-56",
+							 "time":"3:55",
+							 "visitorText":"Mustapha Heron makes three point jump shot (Horace Spencer assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-59",
+							 "time":"3:47",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"59-59",
+							 "time":"3:24",
+							 "visitorText":"Jared Harper makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"Horace Spencer shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"Tigers lineup change (DeSean Murray, Jared Harper, Bryce Brown, Chuma Okeke, Mustapha Heron)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Dontay Bassett, KeVaughn Allen, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"59-60",
+							 "time":"3:00",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"DeSean Murray defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-60",
+							 "time":"2:46",
+							 "visitorText":"DeSean Murray makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:46",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett shooting foul (DeSean Murray draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:46",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Dontay Bassett, Egor Koulechov)"
+							 },
+							 {
+							 "score":"62-60",
+							 "time":"2:46",
+							 "visitorText":"DeSean Murray makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:28",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:26",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"62-63",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:00",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov personal foul (Chuma Okeke draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:58",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett shooting foul (Mustapha Heron draws the foul)"
+							 },
+							 {
+							 "score":"63-63",
+							 "time":"1:58",
+							 "visitorText":"Mustapha Heron makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-63",
+							 "time":"1:58",
+							 "visitorText":"Mustapha Heron makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-66",
+							 "time":"1:43",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:25",
+							 "visitorText":"Chuma Okeke misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"Tigers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:59",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"DeSean Murray defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:52",
+							 "visitorText":"Jalen Hudson blocks Bryce Brown's three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"Mustapha Heron personal foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"Tigers defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:42",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul (Jared Harper draws the foul)"
+							 },
+							 {
+							 "score":"65-66",
+							 "time":"00:42",
+							 "visitorText":"Jared Harper makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-66",
+							 "time":"00:42",
+							 "visitorText":"Jared Harper makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-68",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point driving layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"Mustapha Heron shooting foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-69",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Gators 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"Jared Harper misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Bryce Brown personal foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-70",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Chuma Okeke defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Bryce Brown misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"Jared Harper personal foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-71",
+							 "time":"00:05",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"66-72",
+							 "time":"00:05",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Jared Harper misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

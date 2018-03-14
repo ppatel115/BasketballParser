@@ -1,0 +1,2173 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Florida vs Arkansas",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "113",
+				"seoName": "arkansas",
+				"sixCharAbbr": "ARK",
+				"shortName": "Arkansas",	
+				"nickName": "Razorbacks",		
+				"color": "#BE0F34"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"(Razorbacks gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:38",
+							 "visitorText":"Daniel Gafford misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:21",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:19",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen offensive rebound"
+							 },
+							 {
+							 "score":"0-3",
+							 "time":"19:15",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:53",
+							 "visitorText":"Anton Beard turnover (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-6",
+							 "time":"18:33",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"3-6",
+							 "time":"18:18",
+							 "visitorText":"Anton Beard makes three point jump shot (Daryl Macon assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:56",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:54",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"3-8",
+							 "time":"17:40",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point jump shot"
+							 },
+							 {
+							 "score":"5-8",
+							 "time":"17:40",
+							 "visitorText":"Daniel Gafford makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:16",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:14",
+							 "visitorText":"Jaylen Barford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:58",
+							 "visitorText":"Daniel Gafford misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:49",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:47",
+							 "visitorText":"Daniel Gafford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"Daniel Gafford misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"Daniel Gafford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-8",
+							 "time":"16:09",
+							 "visitorText":"Daniel Gafford makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-10",
+							 "time":"15:50",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point jump shot"
+							 },
+							 {
+							 "score":"10-10",
+							 "time":"15:34",
+							 "visitorText":"Jaylen Barford makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-13",
+							 "time":"15:20",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:53",
+							 "visitorText":"KeVaughn Allen blocks Jaylen Barford's three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Jaylen Barford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"Daryl Macon misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:41",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"Daniel Gafford personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"Razorbacks lineup change (Jaylen Barford, Trey Thompson, Daryl Macon, Arlando Cook, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Keith Stone, KeVaughn Allen, Chris Chiozza, Gorjok Gak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"Trey Thompson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"Anton Beard misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:07",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"Arlando Cook personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:46",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"Jaylen Barford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:24",
+							 "visitorText":"Daryl Macon misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"10-16",
+							 "time":"13:15",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"Jaylen Barford offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"Jaylen Barford turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"Razorbacks lineup change (Darious Hall, Trey Thompson, C.J. Jones, Arlando Cook, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"10-18",
+							 "time":"12:49",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point layup"
+							 },
+							 {
+							 "score":"12-18",
+							 "time":"12:31",
+							 "visitorText":"Trey Thompson makes two point jump shot (Anton Beard assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"Trey Thompson personal foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:59",
+							 "visitorText":"",
+							 "homeText":"Gators turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:57",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:57",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Chris Chiozza, Gorjok Gak, Jalen Hudson, Keith Stone)"
+							 },
+							 {
+							 "score":"15-18",
+							 "time":"11:45",
+							 "visitorText":"Darious Hall makes three point jump shot (Anton Beard assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:42",
+							 "visitorText":"Razorbacks lineup change (Trey Thompson, Arlando Cook, Darious Hall, C.J. Jones, Jaylen Barford)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:12",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:49",
+							 "visitorText":"Darious Hall misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"15-21",
+							 "time":"10:37",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:02",
+							 "visitorText":"Trey Thompson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:00",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:55",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:53",
+							 "visitorText":"Darious Hall defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:46",
+							 "visitorText":"C.J. Jones misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:44",
+							 "visitorText":"Arlando Cook offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-21",
+							 "time":"9:40",
+							 "visitorText":"Arlando Cook makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:19",
+							 "visitorText":"C.J. Jones personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:19",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:07",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:07",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover"
+							 },
+							 {
+							 "score":"20-21",
+							 "time":"8:44",
+							 "visitorText":"Jaylen Barford makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-23",
+							 "time":"8:22",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson personal foul (Jaylen Barford draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:59",
+							 "visitorText":"Jaylen Barford misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:57",
+							 "visitorText":"Jaylen Barford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:49",
+							 "visitorText":"Darious Hall misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Darious Hall offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-23",
+							 "time":"7:42",
+							 "visitorText":"Darious Hall makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-26",
+							 "time":"7:26",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"Arlando Cook misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:02",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"Jaylen Barford personal foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"Razorbacks lineup change (Daniel Gafford, Daryl Macon, Gabe Osabuohien, Anton Beard, C.J. Jones)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:38",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:38",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:16",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:16",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Mike Okauru, Chris Chiozza)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"Daniel Gafford turnover (Mike Okauru steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:54",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:52",
+							 "visitorText":"Daniel Gafford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"Daryl Macon misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:43",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:38",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:36",
+							 "visitorText":"Anton Beard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:30",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul (Anton Beard draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:21",
+							 "visitorText":"Gabe Osabuohien misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:19",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"Gabe Osabuohien defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:05",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru personal foul (Anton Beard draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:02",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul (Daryl Macon draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"Daryl Macon misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"22-29",
+							 "time":"4:54",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes three point jump shot (Egor Koulechov assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"Gabe Osabuohien misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Keith Stone, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:12",
+							 "visitorText":"Razorbacks lineup change (Daryl Macon, Daniel Gafford, Adrio Bailey, Jaylen Barford, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:05",
+							 "visitorText":"Daryl Macon defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:51",
+							 "visitorText":"Anton Beard misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"Daryl Macon offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-29",
+							 "time":"3:45",
+							 "visitorText":"Jaylen Barford makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"Adrio Bailey defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:23",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:23",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, KeVaughn Allen, Chris Chiozza, Egor Koulechov, Dontay Bassett)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:55",
+							 "visitorText":"Jaylen Barford misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:26",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (Adrio Bailey steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:19",
+							 "visitorText":"Dontay Bassett blocks Adrio Bailey's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:17",
+							 "visitorText":"Daniel Gafford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-29",
+							 "time":"2:06",
+							 "visitorText":"Daniel Gafford makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:01",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:59",
+							 "visitorText":"Jaylen Barford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-29",
+							 "time":"1:53",
+							 "visitorText":"Daryl Macon makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:19",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"Razorbacks lineup change (Darious Hall, Adrio Bailey, Daryl Macon, Daniel Gafford, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Keith Stone, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Dontay Bassett)"
+							 },
+							 {
+							 "score":"30-29",
+							 "time":"00:54",
+							 "visitorText":"Adrio Bailey makes two point layup (Daniel Gafford assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:13",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"",
+							 "homeText":"Daniel Gafford blocks Chris Chiozza's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"Daniel Gafford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Razorbacks lineup change (Jaylen Barford, Adrio Bailey, Daryl Macon, Daniel Gafford, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Gators"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:38",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"30-31",
+							 "time":"19:26",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point tip shot"
+							 },
+							 {
+							 "score":"32-31",
+							 "time":"19:10",
+							 "visitorText":"Anton Beard makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-34",
+							 "time":"19:01",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"35-34",
+							 "time":"18:30",
+							 "visitorText":"Anton Beard makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-37",
+							 "time":"18:12",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:58",
+							 "visitorText":"Kevarrius Hayes blocks Jaylen Barford's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:56",
+							 "visitorText":"Jaylen Barford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:45",
+							 "visitorText":"Daryl Macon misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:43",
+							 "visitorText":"Daniel Gafford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-37",
+							 "time":"17:36",
+							 "visitorText":"Daniel Gafford makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:30",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"Daryl Macon defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-37",
+							 "time":"17:14",
+							 "visitorText":"Daryl Macon makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:53",
+							 "visitorText":"Razorbacks lineup change (Jaylen Barford, Adrio Bailey, Daryl Macon, Daniel Gafford, Darious Hall)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:42",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:42",
+							 "visitorText":"Daniel Gafford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-37",
+							 "time":"16:28",
+							 "visitorText":"Jaylen Barford makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:14",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:14",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Keith Stone, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"42-39",
+							 "time":"16:02",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:57",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:41",
+							 "visitorText":"Jaylen Barford turnover (Keith Stone steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-41",
+							 "time":"15:33",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:20",
+							 "visitorText":"Jaylen Barford misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"Darious Hall personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"Razorbacks lineup change (Jaylen Barford, Adrio Bailey, Daryl Macon, Daniel Gafford, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:53",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Razorbacks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"Kevarrius Hayes blocks Daryl Macon's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:25",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:09",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:07",
+							 "visitorText":"Adrio Bailey defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-41",
+							 "time":"14:01",
+							 "visitorText":"Jaylen Barford makes three point jump shot (Daryl Macon assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:46",
+							 "visitorText":"Adrio Bailey personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:46",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:46",
+							 "visitorText":"Razorbacks lineup change (Trey Thompson, Adrio Bailey, Daryl Macon, Darious Hall, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-42",
+							 "time":"13:46",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"45-43",
+							 "time":"13:46",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:13",
+							 "visitorText":"Daryl Macon misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"Razorbacks lineup change (Trey Thompson, Adrio Bailey, C.J. Jones, Darious Hall, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"Razorbacks lineup change (Trey Thompson, Arlando Cook, Darious Hall, C.J. Jones, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:03",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:01",
+							 "visitorText":"Anton Beard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:49",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul (Darious Hall draws the foul)"
+							 },
+							 {
+							 "score":"46-43",
+							 "time":"12:49",
+							 "visitorText":"Darious Hall makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:49",
+							 "visitorText":"Darious Hall misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:49",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:39",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:36",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:36",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Mike Okauru, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"C.J. Jones misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:08",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:06",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"Anton Beard personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Kevarrius Hayes, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, KeVaughn Allen, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"Razorbacks lineup change (Trey Thompson, Arlando Cook, Darious Hall, C.J. Jones, Jaylen Barford)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-46",
+							 "time":"12:04",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:34",
+							 "visitorText":"Jaylen Barford misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:32",
+							 "visitorText":"Razorbacks offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:17",
+							 "visitorText":"Trey Thompson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"Arlando Cook offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-46",
+							 "time":"11:05",
+							 "visitorText":"Arlando Cook makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:49",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"C.J. Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul (Jaylen Barford draws the foul)"
+							 },
+							 {
+							 "score":"50-46",
+							 "time":"10:28",
+							 "visitorText":"Jaylen Barford makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-48",
+							 "time":"9:58",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:45",
+							 "visitorText":"Jaylen Barford misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:43",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"Darious Hall personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"Razorbacks lineup change (Jaylen Barford, Daryl Macon, Arlando Cook, Daniel Gafford, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Kevarrius Hayes, KeVaughn Allen, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:21",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:19",
+							 "visitorText":"Arlando Cook defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:50",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru shooting foul"
+							 },
+							 {
+							 "score":"51-48",
+							 "time":"8:50",
+							 "visitorText":"Daryl Macon makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-48",
+							 "time":"8:50",
+							 "visitorText":"Daryl Macon makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:33",
+							 "visitorText":"Jaylen Barford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-48",
+							 "time":"8:24",
+							 "visitorText":"Jaylen Barford makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:02",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:00",
+							 "visitorText":"Arlando Cook defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul (Jaylen Barford draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"Jaylen Barford misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"Razorbacks rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-48",
+							 "time":"7:56",
+							 "visitorText":"Jaylen Barford makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:34",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"Daniel Gafford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul (Daryl Macon draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Jalen Hudson, KeVaughn Allen, Kevarrius Hayes, Chris Chiozza)"
+							 },
+							 {
+							 "score":"56-48",
+							 "time":"7:14",
+							 "visitorText":"Daryl Macon makes regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"Daryl Macon misses regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"Razorbacks rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-48",
+							 "time":"7:14",
+							 "visitorText":"Daryl Macon makes regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:58",
+							 "visitorText":"Anton Beard personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:52",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (bad pass)"
+							 },
+							 {
+							 "score":"59-48",
+							 "time":"6:32",
+							 "visitorText":"Daniel Gafford makes two point layup (Jaylen Barford assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:11",
+							 "visitorText":"Daniel Gafford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-48",
+							 "time":"6:01",
+							 "visitorText":"Jaylen Barford makes three point jump shot (Daryl Macon assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:48",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:48",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:27",
+							 "visitorText":"Jaylen Barford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:07",
+							 "visitorText":"Daryl Macon turnover (Deaundrae Ballard steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:07",
+							 "visitorText":"Anton Beard shooting foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-49",
+							 "time":"5:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:07",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Keith Stone, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"62-50",
+							 "time":"5:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:51",
+							 "visitorText":"Arlando Cook misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Daniel Gafford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-50",
+							 "time":"4:43",
+							 "visitorText":"Daniel Gafford makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-53",
+							 "time":"4:31",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes three point jump shot (Egor Koulechov assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"Jaylen Barford misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"Jaylen Barford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:33",
+							 "visitorText":"Daryl Macon misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"Daniel Gafford offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-53",
+							 "time":"3:25",
+							 "visitorText":"Daniel Gafford makes two point putback dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:12",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:10",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard offensive rebound"
+							 },
+							 {
+							 "score":"66-55",
+							 "time":"3:03",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul (Anton Beard draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Kevarrius Hayes, KeVaughn Allen, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:28",
+							 "visitorText":"Chris Chiozza blocks Anton Beard's three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:20",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza offensive rebound"
+							 },
+							 {
+							 "score":"66-57",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:18",
+							 "visitorText":"Daniel Gafford shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Dontay Bassett, Keith Stone)"
+							 },
+							 {
+							 "score":"66-58",
+							 "time":"2:18",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"68-58",
+							 "time":"1:56",
+							 "visitorText":"Jaylen Barford makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:43",
+							 "visitorText":"Razorbacks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:43",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"Arlando Cook misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:28",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"Anton Beard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson personal foul (Anton Beard draws the foul)"
+							 },
+							 {
+							 "score":"69-58",
+							 "time":"1:26",
+							 "visitorText":"Anton Beard makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Egor Koulechov, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"Anton Beard misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"Daniel Gafford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov personal foul (Arlando Cook draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"Arlando Cook misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"69-60",
+							 "time":"1:08",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"",
+							 "homeText":"Gators 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"Razorbacks lineup change (Jaylen Barford, Trey Thompson, Daryl Macon, Daniel Gafford, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"Razorbacks turnover (5-second violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"Daryl Macon shooting foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"69-61",
+							 "time":"1:04",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"Daryl Macon defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard personal foul (Jaylen Barford draws the foul)"
+							 },
+							 {
+							 "score":"70-61",
+							 "time":"00:51",
+							 "visitorText":"Jaylen Barford makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-61",
+							 "time":"00:51",
+							 "visitorText":"Jaylen Barford makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Egor Koulechov, Keith Stone)"
+							 },
+							 {
+							 "score":"71-64",
+							 "time":"00:47",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Keith Stone assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul"
+							 },
+							 {
+							 "score":"72-64",
+							 "time":"00:40",
+							 "visitorText":"Jaylen Barford makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-64",
+							 "time":"00:40",
+							 "visitorText":"Jaylen Barford makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"Anton Beard misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"Razorbacks rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"74-64",
+							 "time":"00:35",
+							 "visitorText":"Anton Beard makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"Daniel Gafford shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Deaundrae Ballard, KeVaughn Allen, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"74-65",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:33",
+							 "visitorText":"Razorbacks lineup change (Jaylen Barford, Trey Thompson, Daryl Macon, C.J. Jones, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"74-66",
+							 "time":"00:33",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul (Daryl Macon draws the foul)"
+							 },
+							 {
+							 "score":"75-66",
+							 "time":"00:30",
+							 "visitorText":"Daryl Macon makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"Razorbacks lineup change (Jaylen Barford, Trey Thompson, Daryl Macon, Daniel Gafford, Anton Beard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"76-66",
+							 "time":"00:30",
+							 "visitorText":"Daryl Macon makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"76-68",
+							 "time":"00:27",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:27",
+							 "visitorText":"Daryl Macon shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"76-69",
+							 "time":"00:27",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard personal foul (Daryl Macon draws the foul)"
+							 },
+							 {
+							 "score":"77-69",
+							 "time":"00:26",
+							 "visitorText":"Daryl Macon makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Chris Chiozza, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"78-69",
+							 "time":"00:26",
+							 "visitorText":"Daryl Macon makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:21",
+							 "visitorText":"Jaylen Barford defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"80-69",
+							 "time":"00:15",
+							 "visitorText":"Daniel Gafford makes two point dunk (Anton Beard assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"80-72",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

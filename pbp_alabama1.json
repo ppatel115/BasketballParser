@@ -1,0 +1,1975 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Florida vs Alabama",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1857",
+				"seoName": "alabama",
+				"sixCharAbbr": "ALA",
+				"shortName": "Alabama",	
+				"nickName": "Crimson Tide",		
+				"color": "#a32136"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Donta Hall vs. Keith Stone (Daniel Giddens gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:35",
+							 "visitorText":"Dazon Ingram turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:23",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point driving dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:54",
+							 "visitorText":"Daniel Giddens misses two point fadeaway jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:52",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:44",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"Crimson Tide lineup change (Donta Hall, Collin Sexton, Herb Jones, Dazon Ingram, John Petty)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-5",
+							 "time":"18:39",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"2-5",
+							 "time":"18:16",
+							 "visitorText":"Donta Hall makes two point dunk (Dazon Ingram assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:03",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:01",
+							 "visitorText":"Donta Hall defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:58",
+							 "visitorText":"Collin Sexton turnover (lost ball) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-7",
+							 "time":"17:33",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point finger roll layup (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:20",
+							 "visitorText":"Collin Sexton misses two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:18",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:46",
+							 "visitorText":"John Petty turnover (lost ball) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:30",
+							 "visitorText":"Collin Sexton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-7",
+							 "time":"16:25",
+							 "visitorText":"Collin Sexton makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-10",
+							 "time":"16:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point jump shot (Keith Stone assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:48",
+							 "visitorText":"Dazon Ingram turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:48",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:31",
+							 "visitorText":"John Petty shooting foul (Keith Stone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-11",
+							 "time":"15:31",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:31",
+							 "visitorText":"Crimson Tide lineup change (Donta Hall, Collin Sexton, Herb Jones, Dazon Ingram, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-12",
+							 "time":"15:31",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:20",
+							 "visitorText":"Braxton Key turnover (bad pass) (Egor Koulechov steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-14",
+							 "time":"15:08",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point driving layup"
+							 },
+							 {
+							 "score":"7-14",
+							 "time":"14:46",
+							 "visitorText":"Donta Hall makes two point jump shot (Collin Sexton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:46",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"Donta Hall personal foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:02",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:00",
+							 "visitorText":"Donta Hall defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-14",
+							 "time":"13:49",
+							 "visitorText":"Braxton Key makes three point jump shot (Collin Sexton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"Dazon Ingram shooting foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-15",
+							 "time":"13:22",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"10-16",
+							 "time":"13:22",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"Crimson Tide lineup change (Daniel Giddens, Collin Sexton, Herb Jones, Dazon Ingram, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"10-17",
+							 "time":"13:22",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"Crimson Tide lineup change (Collin Sexton, Daniel Giddens, Herb Jones, Avery Johnson Jr., Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:06",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza shooting foul (Collin Sexton draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:06",
+							 "visitorText":"Collin Sexton misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:06",
+							 "visitorText":"Crimson Tide rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-17",
+							 "time":"13:06",
+							 "visitorText":"Collin Sexton makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"Herb Jones personal foul (Kevarrius Hayes draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"",
+							 "homeText":"Collin Sexton blocks Egor Koulechov's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"Crimson Tide defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"",
+							 "homeText":"Gators turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"Crimson Tide lineup change (John Petty, Daniel Giddens, Avery Johnson Jr., Herb Jones, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Keith Stone, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:10",
+							 "visitorText":"Braxton Key turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:01",
+							 "visitorText":"Herb Jones personal foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:01",
+							 "visitorText":"Crimson Tide lineup change (Daniel Giddens, Avery Johnson Jr., Dazon Ingram, John Petty, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:48",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Kevarrius Hayes, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:40",
+							 "visitorText":"Daniel Giddens offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:40",
+							 "visitorText":"Daniel Giddens turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:19",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:19",
+							 "visitorText":"Crimson Tide lineup change (Galin Smith, Avery Johnson Jr., Dazon Ingram, John Petty, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:53",
+							 "visitorText":"Avery Johnson Jr. misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:51",
+							 "visitorText":"Avery Johnson Jr. offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-17",
+							 "time":"10:48",
+							 "visitorText":"Avery Johnson Jr. makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:24",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:22",
+							 "visitorText":"Dazon Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"",
+							 "homeText":"Gators kicked ball violation"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Kevarrius Hayes, Egor Koulechov, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:01",
+							 "visitorText":"Dazon Ingram misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:59",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (bad pass) (Avery Johnson Jr. steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:30",
+							 "visitorText":"John Petty turnover (lost ball) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-19",
+							 "time":"9:05",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point dunk (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"15-19",
+							 "time":"9:01",
+							 "visitorText":"Avery Johnson Jr. makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:47",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:45",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:43",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Kevarrius Hayes vs. Avery Johnson Jr. (Gators gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:43",
+							 "visitorText":"Crimson Tide lineup change (Avery Johnson Jr., Dazon Ingram, John Petty, Collin Sexton, Galin Smith)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:43",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Chris Chiozza, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"15-22",
+							 "time":"8:36",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"Avery Johnson Jr. personal foul (Kevarrius Hayes draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"Crimson Tide lineup change (Collin Sexton, Avery Johnson Jr., Dazon Ingram, John Petty, Donta Hall)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"15-24",
+							 "time":"8:32",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul (Donta Hall draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Mike Okauru, Dontay Bassett, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"Crimson Tide lineup change (Donta Hall, Collin Sexton, Avery Johnson Jr., Dazon Ingram, Herb Jones)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:04",
+							 "visitorText":"Dazon Ingram turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Collin Sexton shooting foul (Keith Stone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Crimson Tide lineup change (Donta Hall, Collin Sexton, Braxton Key, Herb Jones, Dazon Ingram)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-25",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Donta Hall defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-25",
+							 "time":"7:28",
+							 "visitorText":"Collin Sexton makes two point finger roll layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:10",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:02",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"Braxton Key misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:44",
+							 "visitorText":"Donta Hall offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"Crimson Tide lineup change (Galin Smith, Collin Sexton, Herb Jones, Dazon Ingram, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-25",
+							 "time":"6:21",
+							 "visitorText":"Collin Sexton makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:18",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Chris Chiozza, Egor Koulechov, KeVaughn Allen, Dontay Bassett, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:02",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (bad pass) (Collin Sexton steals)"
+							 },
+							 {
+							 "score":"21-25",
+							 "time":"5:55",
+							 "visitorText":"Dazon Ingram makes two point dunk (Collin Sexton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-27",
+							 "time":"5:29",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point reverse layup"
+							 },
+							 {
+							 "score":"24-27",
+							 "time":"5:10",
+							 "visitorText":"Collin Sexton makes three point jump shot (Braxton Key assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:53",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point step back jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:51",
+							 "visitorText":"Crimson Tide defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:28",
+							 "visitorText":"Herb Jones turnover (bad pass) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:17",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:15",
+							 "visitorText":"Dazon Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:09",
+							 "visitorText":"Dazon Ingram turnover (bad pass) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett offensive rebound"
+							 },
+							 {
+							 "score":"24-29",
+							 "time":"3:56",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"Herb Jones shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Mike Okauru, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"Crimson Tide lineup change (Collin Sexton, Avery Johnson Jr., Dazon Ingram, Braxton Key, Galin Smith)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:56",
+							 "visitorText":"Braxton Key defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:34",
+							 "visitorText":"Galin Smith turnover (bad pass) (Mike Okauru steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-31",
+							 "time":"3:27",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point driving dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:18",
+							 "visitorText":"Jalen Hudson blocks Collin Sexton's two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:17",
+							 "visitorText":"Crimson Tide offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:17",
+							 "visitorText":"Crimson Tide lineup change (Collin Sexton, Avery Johnson Jr., Dazon Ingram, Braxton Key, Donta Hall)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:10",
+							 "visitorText":"Collin Sexton misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:08",
+							 "visitorText":"Donta Hall offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-31",
+							 "time":"3:05",
+							 "visitorText":"Donta Hall makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-33",
+							 "time":"2:49",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"Braxton Key turnover (lost ball) (Mike Okauru steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"Crimson Tide lineup change (Donta Hall, Collin Sexton, Avery Johnson Jr., John Petty, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul (Avery Johnson Jr. draws the foul)"
+							 },
+							 {
+							 "score":"27-33",
+							 "time":"2:07",
+							 "visitorText":"Avery Johnson Jr. makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:07",
+							 "visitorText":"Avery Johnson Jr. misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:39",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:37",
+							 "visitorText":"Donta Hall defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"Donta Hall turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:18",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Jalen Hudson, Egor Koulechov, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:07",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"Collin Sexton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:01",
+							 "visitorText":"John Petty misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:59",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:49",
+							 "visitorText":"John Petty defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:45",
+							 "visitorText":"Collin Sexton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:37",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"Collin Sexton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Collin Sexton misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Crimson Tide lineup change (Collin Sexton, Dazon Ingram, John Petty, Donta Hall, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Crimson Tide",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:55",
+							 "visitorText":"Collin Sexton turnover (bad pass) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:46",
+							 "visitorText":"Collin Sexton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:24",
+							 "visitorText":"Collin Sexton misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:22",
+							 "visitorText":"Donta Hall offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-33",
+							 "time":"19:18",
+							 "visitorText":"Donta Hall makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:09",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:04",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (bad pass) (Donta Hall steals)"
+							 },
+							 {
+							 "score":"31-33",
+							 "time":"18:55",
+							 "visitorText":"Braxton Key makes two point dunk (John Petty assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:34",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:32",
+							 "visitorText":"Dazon Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:28",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson personal foul (Dazon Ingram draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:28",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Kevarrius Hayes, KeVaughn Allen, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:13",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul (Braxton Key draws the foul)"
+							 },
+							 {
+							 "score":"32-33",
+							 "time":"18:13",
+							 "visitorText":"Braxton Key makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-33",
+							 "time":"18:13",
+							 "visitorText":"Braxton Key makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:52",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (bad pass) (Dazon Ingram steals)"
+							 },
+							 {
+							 "score":"35-33",
+							 "time":"17:44",
+							 "visitorText":"Dazon Ingram makes two point finger roll layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:36",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:25",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:23",
+							 "visitorText":"Crimson Tide defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"Donta Hall offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"Donta Hall turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:54",
+							 "visitorText":"John Petty defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:44",
+							 "visitorText":"Collin Sexton turnover (bad pass) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-35",
+							 "time":"16:38",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point finger roll layup"
+							 },
+							 {
+							 "score":"37-35",
+							 "time":"16:32",
+							 "visitorText":"Dazon Ingram makes two point dunk (Collin Sexton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-38",
+							 "time":"16:00",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"",
+							 "homeText":"Keith Stone shooting foul (Dazon Ingram draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"Dazon Ingram misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"Crimson Tide rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"Dazon Ingram misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:26",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:22",
+							 "visitorText":"Dazon Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:13",
+							 "visitorText":"Dazon Ingram misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:11",
+							 "visitorText":"Collin Sexton offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-38",
+							 "time":"15:08",
+							 "visitorText":"Collin Sexton makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-41",
+							 "time":"14:59",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Deaundrae Ballard assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:35",
+							 "visitorText":"Donta Hall turnover (bad pass) (Kevarrius Hayes steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:28",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:26",
+							 "visitorText":"Dazon Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"John Petty misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:16",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:51",
+							 "visitorText":"John Petty defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"41-41",
+							 "time":"13:48",
+							 "visitorText":"Braxton Key makes two point dunk (Collin Sexton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:18",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"Collin Sexton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:04",
+							 "visitorText":"Collin Sexton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:02",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"Collin Sexton personal foul (Kevarrius Hayes draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Chris Chiozza, Mike Okauru, Gorjok Gak, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"Crimson Tide lineup change (Avery Johnson Jr., Herb Jones, Dazon Ingram, Daniel Giddens, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:43",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:41",
+							 "visitorText":"Crimson Tide defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:41",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Chris Chiozza, Gorjok Gak, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru shooting foul (Herb Jones draws the foul)"
+							 },
+							 {
+							 "score":"42-41",
+							 "time":"12:22",
+							 "visitorText":"Herb Jones makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-41",
+							 "time":"12:22",
+							 "visitorText":"Herb Jones makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-43",
+							 "time":"11:56",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point fadeaway jump shot"
+							 },
+							 {
+							 "score":"45-43",
+							 "time":"11:24",
+							 "visitorText":"Herb Jones makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:05",
+							 "visitorText":"Dazon Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-43",
+							 "time":"10:57",
+							 "visitorText":"Avery Johnson Jr. makes three point jump shot (Braxton Key assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:40",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (bad pass) (Avery Johnson Jr. steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:21",
+							 "visitorText":"Braxton Key misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:19",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:12",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:10",
+							 "visitorText":"Herb Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"Crimson Tide 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"Crimson Tide lineup change (Daniel Giddens, Avery Johnson Jr., Herb Jones, Dazon Ingram, Collin Sexton)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Jalen Hudson, Egor Koulechov, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:45",
+							 "visitorText":"Chris Chiozza blocks Daniel Giddens's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:43",
+							 "visitorText":"Collin Sexton offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:40",
+							 "visitorText":"Collin Sexton misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:38",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:24",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (bad pass) (Collin Sexton steals)"
+							 },
+							 {
+							 "score":"50-43",
+							 "time":"9:17",
+							 "visitorText":"Collin Sexton makes two point finger roll layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:14",
+							 "visitorText":"Crimson Tide lineup change (Collin Sexton, Donta Hall, Avery Johnson Jr., Herb Jones, Dazon Ingram)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"Donta Hall blocks Keith Stone's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:47",
+							 "visitorText":"Donta Hall defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:41",
+							 "visitorText":"Crimson Tide 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:41",
+							 "visitorText":"Crimson Tide lineup change (Donta Hall, Collin Sexton, Avery Johnson Jr., Herb Jones, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-43",
+							 "time":"8:20",
+							 "visitorText":"Herb Jones makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:59",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:57",
+							 "visitorText":"Donta Hall defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-43",
+							 "time":"7:30",
+							 "visitorText":"Braxton Key makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:21",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:21",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:21",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"54-45",
+							 "time":"7:10",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"Herb Jones misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:51",
+							 "visitorText":"Donta Hall offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-45",
+							 "time":"6:51",
+							 "visitorText":"Donta Hall makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-47",
+							 "time":"6:41",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point layup"
+							 },
+							 {
+							 "score":"58-47",
+							 "time":"6:13",
+							 "visitorText":"Donta Hall makes two point dunk (Avery Johnson Jr. assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-49",
+							 "time":"5:57",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point reverse layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:38",
+							 "visitorText":"Avery Johnson Jr. misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:36",
+							 "visitorText":"Braxton Key offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-49",
+							 "time":"5:12",
+							 "visitorText":"Donta Hall makes two point dunk (Avery Johnson Jr. assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:55",
+							 "visitorText":"Collin Sexton defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"Avery Johnson Jr. misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:34",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"Crimson Tide lineup change (Donta Hall, Collin Sexton, Dazon Ingram, Herb Jones, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Gorjok Gak, KeVaughn Allen, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"62-49",
+							 "time":"4:21",
+							 "visitorText":"Collin Sexton makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"",
+							 "homeText":"Braxton Key blocks Mike Okauru's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:51",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"Braxton Key defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-49",
+							 "time":"3:36",
+							 "visitorText":"Braxton Key makes two point layup (Collin Sexton assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"",
+							 "homeText":"Gators 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:17",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:15",
+							 "visitorText":"Donta Hall defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"Herb Jones turnover (Keith Stone steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:54",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"Braxton Key shooting foul (Mike Okauru draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"Crimson Tide lineup change (Donta Hall, Collin Sexton, Avery Johnson Jr., Dazon Ingram, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-50",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"66-50",
+							 "time":"2:36",
+							 "visitorText":"Avery Johnson Jr. makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:36",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza shooting foul (Avery Johnson Jr. draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:36",
+							 "visitorText":"Avery Johnson Jr. misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:36",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:27",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"Braxton Key defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:06",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul (Braxton Key draws the foul)"
+							 },
+							 {
+							 "score":"68-50",
+							 "time":"1:48",
+							 "visitorText":"Dazon Ingram makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza shooting foul (Dazon Ingram draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"Crimson Tide lineup change (Donta Hall, Herb Jones, Avery Johnson Jr., Dazon Ingram, Braxton Key)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"Dazon Ingram misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:36",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:30",
+							 "visitorText":"",
+							 "homeText":"Herb Jones blocks Kevarrius Hayes's two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:28",
+							 "visitorText":"Dazon Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:09",
+							 "visitorText":"Kevarrius Hayes blocks Dazon Ingram's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:07",
+							 "visitorText":"Avery Johnson Jr. offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:06",
+							 "visitorText":"Herb Jones misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"Crimson Tide offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Dontay Bassett, Chris Chiozza, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"Avery Johnson Jr. misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:28",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"Braxton Key defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});
