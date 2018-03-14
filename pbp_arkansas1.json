@@ -1,4 +1,4 @@
-callbackWrapper({
+{
 	      "meta" : {
 		            "title": " Play-By-Play",
 		            "description": "Play-By-Play for Florida vs Arkansas",
@@ -8,39 +8,39 @@ callbackWrapper({
 		            "minutes": "00",
 		            "seconds" : "00",
 		            "teams":[
-					     {      
-					     								
+					     {
+
 				"homeTeam": "true",
 				"id": "1795",
 				"seoName": "florida",
 				"sixCharAbbr": "FLA",
-				"shortName": "Florida",	
-				"nickName": "Gators",		
-				"color": "#003488"						
-	
+				"shortName": "Florida",
+				"nickName": "Gators",
+				"color": "#003488"
+
 						},
 						{
-														
+
 				"homeTeam": "false",
 				"id": "113",
 				"seoName": "arkansas",
 				"sixCharAbbr": "ARK",
-				"shortName": "Arkansas",	
-				"nickName": "Razorbacks",		
-				"color": "#BE0F34"						
-	
+				"shortName": "Arkansas",
+				"nickName": "Razorbacks",
+				"color": "#BE0F34"
+
 						}
 		            ]
 		        },
-	    
+
     	"periods":[
-    			   
-	    		
-    	 {    
+
+
+    	 {
 		 "periodNumber":"1",
-		 "periodDisplay":"1st Half",	  
+		 "periodDisplay":"1st Half",
 			 "playStats":[
-							
+
 							 {
 							 "score":"",
 							 "time":"20:00",
@@ -877,11 +877,11 @@ callbackWrapper({
 							 }
 				]
 			},
-    	 {    
+    	 {
 		 "periodNumber":"2",
-		 "periodDisplay":"2nd Half",	  
+		 "periodDisplay":"2nd Half",
 			 "playStats":[
-							
+
 							 {
 							 "score":"",
 							 "time":"20:00",
@@ -2168,6 +2168,7 @@ callbackWrapper({
 							 }
 				]
 			}
-			
+
 			]
-		});
+		}
+		
