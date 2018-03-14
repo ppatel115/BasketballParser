@@ -227,7 +227,10 @@ def IdentifyPlayFlorida(play, time, score):
         lineupstring = set(lineupstring)
         lineuptime = ConvertTimeToSeconds(time)
         splitScores = score.split("-")
-        if (HOME):
+        if (splitScores[0] == ''):
+            floridaScore = 0
+            opponentScore = 0
+        elif (HOME):
             floridaScore = int(splitScores[1])
             opponentScore = int(splitScores[0])
         else:
@@ -338,7 +341,10 @@ def IdentifyPlayOpponent(play, time, score):
     elif ("End" in play):
         print("End of half")
         splitScores = score.split("-")
-        if (HOME):
+        if (splitScores[0] == ''):
+            floridaScore = 0
+            opponentScore = 0
+        elif (HOME):
             floridaScore = int(splitScores[1])
             opponentScore = int(splitScores[0])
         else:
