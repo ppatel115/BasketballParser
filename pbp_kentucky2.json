@@ -8,51 +8,40 @@
 		            "minutes": "00",
 		            "seconds" : "00",
 		            "teams":[
-					     {      
-					     								
+					     {
+
 				"homeTeam": "true",
 				"id": "1795",
 				"seoName": "florida",
 				"sixCharAbbr": "FLA",
-				"shortName": "Florida",	
-				"nickName": "Gators",		
-				"color": "#003488"						
-	
+				"shortName": "Florida",
+				"nickName": "Gators",
+				"color": "#003488"
+
 						},
 						{
-														
+
 				"homeTeam": "false",
 				"id": "1128",
 				"seoName": "kentucky",
 				"sixCharAbbr": "UK",
-				"shortName": "Kentucky",	
-				"nickName": "Wildcats",		
-				"color": "#005DAA"						
-	
+				"shortName": "Kentucky",
+				"nickName": "Wildcats",
+				"color": "#005DAA"
+
 						}
 		            ]
 		        },
-	    
+
     	"periods":[
-    			   
-	    		
-    	 {    
+
+
+    	 {
 		 "periodNumber":"1",
-		 "periodDisplay":"1st Half",	  
+		 "periodDisplay":"1st Half",
 			 "playStats":[
-							
-							 {
-							 "score":"",
-							 "time":"20:00",
-							 "visitorText":"Wildcats lineup change (Kevin Knox, Shai Gilgeous-Alexander, Hamidou Diallo, Nick Richards, Wenyen Gabriel)",
-							 "homeText":""
-							 },
-							 {
-							 "score":"",
-							 "time":"20:00",
-							 "visitorText":"",
-							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Egor Koulechov, Kevarrius Hayes)"
-							 },
+
+							 
 							 {
 							 "score":"",
 							 "time":"20:00",
@@ -1045,11 +1034,11 @@
 							 }
 				]
 			},
-    	 {    
+    	 {
 		 "periodNumber":"2",
-		 "periodDisplay":"2nd Half",	  
+		 "periodDisplay":"2nd Half",
 			 "playStats":[
-							
+
 							 {
 							 "score":"",
 							 "time":"20:00",
@@ -2264,6 +2253,6 @@
 							 }
 				]
 			}
-			
+
 			]
 		}
