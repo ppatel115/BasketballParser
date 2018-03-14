@@ -1,0 +1,2059 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Florida vs Loyola (IL)",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "2178",
+				"seoName": "loyola-il",
+				"sixCharAbbr": "LOYCHI",
+				"shortName": "Loyola (IL)",	
+				"nickName": "Ramblers",		
+				"color": "#eb9f00"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Cameron Krutwig vs. Kevarrius Hayes (Deaundrae Ballard gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:46",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:43",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point putback layup"
+							 },
+							 {
+							 "score":"3-2",
+							 "time":"19:17",
+							 "visitorText":"Aundre Jackson makes three point jump shot (Clayton Custer assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-4",
+							 "time":"18:56",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:37",
+							 "visitorText":"Cameron Krutwig turnover (bad pass) (Deaundrae Ballard steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:23",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:21",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:17",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes turnover (bad pass) (Aundre Jackson steals)"
+							 },
+							 {
+							 "score":"5-4",
+							 "time":"18:14",
+							 "visitorText":"Cameron Krutwig makes two point layup (Clayton Custer assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:47",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes turnover (lost ball) (Cameron Krutwig steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:22",
+							 "visitorText":"Aundre Jackson turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:22",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:11",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (lost ball) (Cameron Krutwig steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"Clayton Custer misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:57",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"Clayton Custer personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Marques Townes, Lucas Williamson, Aundre Jackson, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:37",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:35",
+							 "visitorText":"Lucas Williamson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-4",
+							 "time":"16:24",
+							 "visitorText":"Aundre Jackson makes three point jump shot (Cameron Krutwig assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:55",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:50",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Chris Chiozza, Gorjok Gak, Jalen Hudson, KeVaughn Allen)"
+							 },
+							 {
+							 "score":"10-4",
+							 "time":"15:30",
+							 "visitorText":"Aundre Jackson makes two point layup (Cameron Krutwig assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:10",
+							 "visitorText":"",
+							 "homeText":"Cameron Krutwig blocks Egor Koulechov's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:02",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"Aundre Jackson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:54",
+							 "visitorText":"Marques Townes turnover (bad pass) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-6",
+							 "time":"14:51",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"12-6",
+							 "time":"14:29",
+							 "visitorText":"Lucas Williamson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-8",
+							 "time":"14:21",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"15-8",
+							 "time":"14:05",
+							 "visitorText":"Aundre Jackson makes three point jump shot (Marques Townes assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:32",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"Cameron Krutwig defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"Ramblers lineup change (Bruno Skokna, Lucas Williamson, Clayton Custer, Aundre Jackson, Adarius Avery)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:21",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Deaundrae Ballard, KeVaughn Allen, Mike Okauru, Gorjok Gak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:14",
+							 "visitorText":"Clayton Custer misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"Adarius Avery offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-8",
+							 "time":"13:12",
+							 "visitorText":"Adarius Avery makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Gorjok Gak, Keith Stone)"
+							 },
+							 {
+							 "score":"18-8",
+							 "time":"13:12",
+							 "visitorText":"Adarius Avery makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:03",
+							 "visitorText":"Aundre Jackson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:41",
+							 "visitorText":"Lucas Williamson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:39",
+							 "visitorText":"Adarius Avery offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-8",
+							 "time":"12:35",
+							 "visitorText":"Adarius Avery makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"20-10",
+							 "time":"12:19",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point layup"
+							 },
+							 {
+							 "score":"22-10",
+							 "time":"11:55",
+							 "visitorText":"Aundre Jackson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-12",
+							 "time":"11:42",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point jump shot"
+							 },
+							 {
+							 "score":"24-12",
+							 "time":"11:18",
+							 "visitorText":"Clayton Custer makes two point jump shot (Aundre Jackson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Cameron Krutwig, Adarius Avery, Clayton Custer, Cameron Satterwhite)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Chris Chiozza, Kevarrius Hayes, KeVaughn Allen, Egor Koulechov, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:02",
+							 "visitorText":"Cameron Krutwig defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:39",
+							 "visitorText":"Adarius Avery misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:37",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"24-14",
+							 "time":"10:27",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"27-14",
+							 "time":"10:01",
+							 "visitorText":"Donte Ingram makes three point jump shot (Clayton Custer assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:52",
+							 "visitorText":"",
+							 "homeText":"Cameron Satterwhite blocks Egor Koulechov's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"Cameron Krutwig defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:28",
+							 "visitorText":"Donte Ingram misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:26",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:14",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:12",
+							 "visitorText":"Adarius Avery defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:48",
+							 "visitorText":"Donte Ingram turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:48",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:48",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Marques Townes, Cameron Satterwhite, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (bad pass) (Lucas Williamson steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:33",
+							 "visitorText":"Marques Townes misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:31",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:31",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Marques Townes, Cameron Satterwhite, Aundre Jackson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:16",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"Aundre Jackson shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"27-15",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"Aundre Jackson turnover (lost ball) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-17",
+							 "time":"8:02",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:50",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:50",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:46",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Mike Okauru, Kevarrius Hayes, Gorjok Gak, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Cameron Krutwig, Cameron Satterwhite, Aundre Jackson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:32",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"Aundre Jackson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:16",
+							 "visitorText":"Cameron Krutwig offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Lucas Williamson turnover (bad pass) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-19",
+							 "time":"6:55",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:55",
+							 "visitorText":"Ramblers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:55",
+							 "visitorText":"Ramblers lineup change (Adarius Avery, Donte Ingram, Clayton Custer, Aundre Jackson, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"Adarius Avery misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"27-22",
+							 "time":"6:17",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes three point jump shot (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"29-22",
+							 "time":"5:57",
+							 "visitorText":"Clayton Custer makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:47",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:43",
+							 "visitorText":"Adarius Avery defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:43",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:39",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Adarius Avery, Clayton Custer, Marques Townes, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:39",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"Cameron Krutwig offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"Cameron Krutwig turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"",
+							 "homeText":"Marques Townes blocks KeVaughn Allen's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:02",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:00",
+							 "visitorText":"Ramblers defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:36",
+							 "visitorText":"Kevarrius Hayes blocks Cameron Krutwig's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:34",
+							 "visitorText":"Ramblers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-22",
+							 "time":"4:29",
+							 "visitorText":"Donte Ingram makes three point jump shot (Adarius Avery assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:22",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (bad pass) (Cameron Krutwig steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:02",
+							 "visitorText":"Donte Ingram misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Marques Townes, Adarius Avery, Cameron Satterwhite, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"Donte Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"Cameron Krutwig misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:25",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:21",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:19",
+							 "visitorText":"Marques Townes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"Ramblers turnover (10-second violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Aundre Jackson, Clayton Custer, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Gorjok Gak, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"32-24",
+							 "time":"2:56",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"Donte Ingram shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-25",
+							 "time":"2:56",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:28",
+							 "visitorText":"Clayton Custer misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:08",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:06",
+							 "visitorText":"Donte Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:06",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:06",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Marques Townes, Clayton Custer, Aundre Jackson, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:06",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Mike Okauru, Gorjok Gak, KeVaughn Allen)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"Clayton Custer turnover (bad pass) (Jalen Hudson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"Aundre Jackson shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"32-26",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Marques Townes, Clayton Custer, Adarius Avery, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-27",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Kevarrius Hayes, KeVaughn Allen, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:31",
+							 "visitorText":"Kevarrius Hayes blocks Marques Townes's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"Ramblers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:19",
+							 "visitorText":"Ramblers turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:19",
+							 "visitorText":"Official timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:19",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Marques Townes, Adarius Avery, Lucas Williamson, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:07",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"32-29",
+							 "time":"1:01",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"Adarius Avery misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:34",
+							 "visitorText":"Donte Ingram offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"Adarius Avery turnover (bad pass) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-31",
+							 "time":"00:12",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point jump shot"
+							 },
+							 {
+							 "score":"34-31",
+							 "time":"00:02",
+							 "visitorText":"Marques Townes makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Chris Chiozza, Deaundrae Ballard, KeVaughn Allen, Keith Stone, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Marques Townes, Lucas Williamson, Cameron Krutwig, Aundre Jackson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Ramblers",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:49",
+							 "visitorText":"Aundre Jackson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:47",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"34-33",
+							 "time":"19:27",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:10",
+							 "visitorText":"",
+							 "homeText":"Keith Stone shooting foul (Cameron Krutwig draws the foul)"
+							 },
+							 {
+							 "score":"35-33",
+							 "time":"19:10",
+							 "visitorText":"Cameron Krutwig makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-33",
+							 "time":"19:10",
+							 "visitorText":"Cameron Krutwig makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:10",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Cameron Satterwhite, Marques Townes, Aundre Jackson, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:52",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:50",
+							 "visitorText":"Cameron Krutwig defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:21",
+							 "visitorText":"Cameron Satterwhite misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:19",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"36-35",
+							 "time":"18:10",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"38-35",
+							 "time":"17:55",
+							 "visitorText":"Cameron Krutwig makes two point layup (Marques Townes assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:33",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:31",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:31",
+							 "visitorText":"Cameron Krutwig shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-36",
+							 "time":"17:31",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:31",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Adarius Avery, Cameron Satterwhite, Aundre Jackson, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:31",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard, Egor Koulechov)"
+							 },
+							 {
+							 "score":"38-37",
+							 "time":"17:31",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:07",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"Donte Ingram turnover (bad pass) (Kevarrius Hayes steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-39",
+							 "time":"16:57",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"Donte Ingram misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"Cameron Krutwig offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-39",
+							 "time":"16:36",
+							 "visitorText":"Cameron Krutwig makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:13",
+							 "visitorText":"Cameron Krutwig defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-39",
+							 "time":"16:02",
+							 "visitorText":"Aundre Jackson makes two point layup (Cameron Krutwig assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:51",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:51",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:36",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:34",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak offensive rebound"
+							 },
+							 {
+							 "score":"42-41",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:58",
+							 "visitorText":"Donte Ingram misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:56",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:46",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:44",
+							 "visitorText":"Donte Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-41",
+							 "time":"14:31",
+							 "visitorText":"Aundre Jackson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:58",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"Cameron Satterwhite defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-41",
+							 "time":"13:29",
+							 "visitorText":"Aundre Jackson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-43",
+							 "time":"13:01",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak makes two point dunk (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"49-43",
+							 "time":"12:32",
+							 "visitorText":"Donte Ingram makes three point jump shot (Aundre Jackson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:14",
+							 "visitorText":"Donte Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen shooting foul (Adarius Avery draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"Adarius Avery misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"Ramblers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Keith Stone, Chris Chiozza, Kevarrius Hayes, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Adarius Avery, Cameron Satterwhite, Aundre Jackson, Bruno Skokna)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"Adarius Avery misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"49-45",
+							 "time":"11:45",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point jump shot"
+							 },
+							 {
+							 "score":"51-45",
+							 "time":"11:16",
+							 "visitorText":"Aundre Jackson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Bruno Skokna, Lucas Williamson, Marques Townes, Aundre Jackson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"Marques Townes shooting foul (Deaundrae Ballard draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"51-46",
+							 "time":"11:04",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, KeVaughn Allen, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Cameron Krutwig, Marques Townes, Aundre Jackson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:47",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"Donte Ingram misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:10",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"Cameron Krutwig defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:46",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov personal foul (Cameron Krutwig draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:46",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Adarius Avery, Marques Townes, Cameron Satterwhite, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:46",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Chris Chiozza, KeVaughn Allen, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:17",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"Cameron Krutwig misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:09",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:09",
+							 "visitorText":"Marques Townes personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:56",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (lost ball) (Adarius Avery steals)"
+							 },
+							 {
+							 "score":"53-46",
+							 "time":"8:46",
+							 "visitorText":"Donte Ingram makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:37",
+							 "visitorText":"Adarius Avery personal foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-47",
+							 "time":"8:37",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:37",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:37",
+							 "visitorText":"Donte Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-47",
+							 "time":"8:02",
+							 "visitorText":"Cameron Krutwig makes two point layup (Cameron Satterwhite assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"Donte Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"Kevarrius Hayes blocks Marques Townes's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"55-50",
+							 "time":"7:01",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:56",
+							 "visitorText":"Ramblers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:56",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Marques Townes, Aundre Jackson, Cameron Satterwhite, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:56",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"57-50",
+							 "time":"6:46",
+							 "visitorText":"Aundre Jackson makes two point layup (Cameron Satterwhite assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:25",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:24",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard offensive rebound"
+							 },
+							 {
+							 "score":"57-52",
+							 "time":"6:21",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:57",
+							 "visitorText":"Marques Townes turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:57",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Cameron Satterwhite, Aundre Jackson, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:57",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:36",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"Aundre Jackson personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:30",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:28",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:22",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:20",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"57-54",
+							 "time":"5:12",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point layup"
+							 },
+							 {
+							 "score":"59-54",
+							 "time":"4:55",
+							 "visitorText":"Cameron Krutwig makes two point layup (Cameron Satterwhite assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"Lucas Williamson personal foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Adarius Avery, Cameron Satterwhite, Aundre Jackson, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"",
+							 "homeText":"Aundre Jackson blocks Egor Koulechov's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"Cameron Satterwhite defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-54",
+							 "time":"4:04",
+							 "visitorText":"Cameron Krutwig makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"61-56",
+							 "time":"3:47",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:22",
+							 "visitorText":"Donte Ingram misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:50",
+							 "visitorText":"Cameron Satterwhite defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"Cameron Krutwig misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"Adarius Avery shooting foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-57",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Cameron Satterwhite, Aundre Jackson, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"Donte Ingram defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"Cameron Krutwig turnover (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-59",
+							 "time":"1:32",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:07",
+							 "visitorText":"Lucas Williamson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:56",
+							 "visitorText":"Cameron Satterwhite defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"Ramblers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Aundre Jackson vs. Chris Chiozza (Gators gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"Aundre Jackson turnover (lost ball) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:35",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Cameron Satterwhite, Adarius Avery, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:21",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:21",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes turnover (offensive goaltending)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:21",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Aundre Jackson, Cameron Satterwhite, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:21",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Keith Stone, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul"
+							 },
+							 {
+							 "score":"62-59",
+							 "time":"00:16",
+							 "visitorText":"Cameron Satterwhite makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Adarius Avery, Marques Townes, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-59",
+							 "time":"00:16",
+							 "visitorText":"Cameron Satterwhite makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Lucas Williamson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Jump ball.  (Ramblers gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson personal foul (Adarius Avery draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Marques Townes, Cameron Satterwhite, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-59",
+							 "time":"00:01",
+							 "visitorText":"Cameron Satterwhite makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Ramblers lineup change (Donte Ingram, Lucas Williamson, Marques Townes, Adarius Avery, Cameron Krutwig)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-59",
+							 "time":"00:01",
+							 "visitorText":"Cameron Satterwhite makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

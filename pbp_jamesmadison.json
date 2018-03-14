@@ -1,0 +1,2215 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Florida vs James Madison",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1820",
+				"seoName": "james-madison",
+				"sixCharAbbr": "JMU",
+				"shortName": "James Madison",	
+				"nickName": "Dukes",		
+				"color": "#484191"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Develle Phillips vs. Kevarrius Hayes (Darius Banks gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:50",
+							 "visitorText":"Kevarrius Hayes blocks Develle Phillips's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:33",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive foul (Ramone Snowden draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:33",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:33",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:06",
+							 "visitorText":"Egor Koulechov blocks Darius Banks's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:04",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"Develle Phillips shooting foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-1",
+							 "time":"18:59",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"18:59",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"Stuckey Mosley misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:39",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:28",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:26",
+							 "visitorText":"Stuckey Mosley defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:08",
+							 "visitorText":"Joey McLean misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:06",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:46",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:44",
+							 "visitorText":"Develle Phillips defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:44",
+							 "visitorText":"Joey McLean turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:24",
+							 "visitorText":"Darius Banks personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:19",
+							 "visitorText":"Stuckey Mosley defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:02",
+							 "visitorText":"Develle Phillips offensive foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:02",
+							 "visitorText":"Develle Phillips turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:02",
+							 "visitorText":"Dukes lineup change (Stuckey Mosley, Joey McLean, Darius Banks, Zach Jacobs, Ramone Snowden)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-4",
+							 "time":"16:51",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:23",
+							 "visitorText":"Zach Jacobs turnover (lost ball) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-6",
+							 "time":"16:17",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson personal foul (Darius Banks draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:07",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:57",
+							 "visitorText":"Darius Banks misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Mike Okauru, Chris Chiozza, Gorjok Gak, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"Dukes lineup change (Stuckey Mosley, Matt Lewis, Darius Banks, Zach Jacobs, Ramone Snowden)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:44",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard turnover (bad pass) (Darius Banks steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:14",
+							 "visitorText":"Stuckey Mosley misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:12",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:55",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:53",
+							 "visitorText":"Darius Banks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:47",
+							 "visitorText":"Darius Banks misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:29",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak turnover (bad pass) (Ramone Snowden steals)"
+							 },
+							 {
+							 "score":"2-6",
+							 "time":"14:19",
+							 "visitorText":"Stuckey Mosley makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-8",
+							 "time":"13:58",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes two point jump shot (Mike Okauru assists)"
+							 },
+							 {
+							 "score":"5-8",
+							 "time":"13:32",
+							 "visitorText":"Matt Lewis makes three point jump shot (Stuckey Mosley assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Stuckey Mosley, Joey McLean, Zach Jacobs, Greg Jones)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:57",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:55",
+							 "visitorText":"Greg Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-8",
+							 "time":"12:49",
+							 "visitorText":"Matt Lewis makes three point jump shot (Joey McLean assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:48",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:36",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (bad pass) (Matt Lewis steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"Matt Lewis misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:28",
+							 "visitorText":"Zach Jacobs offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"Zach Jacobs misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Greg Jones offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Greg Jones personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"8-11",
+							 "time":"11:44",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"10-11",
+							 "time":"11:09",
+							 "visitorText":"Greg Jones makes two point layup (Matt Lewis assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:59",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (bad pass) (Joey McLean steals)"
+							 },
+							 {
+							 "score":"12-11",
+							 "time":"10:52",
+							 "visitorText":"Joey McLean makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-14",
+							 "time":"10:38",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:02",
+							 "visitorText":"KeVaughn Allen blocks Joey McLean's three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:00",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"12-16",
+							 "time":"9:56",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point dunk"
+							 },
+							 {
+							 "score":"15-16",
+							 "time":"9:31",
+							 "visitorText":"Stuckey Mosley makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-19",
+							 "time":"9:08",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:43",
+							 "visitorText":"Stuckey Mosley misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:41",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:37",
+							 "visitorText":"Joey McLean personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:37",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Ramone Snowden, Joey McLean, Greg Jones, Dwight Wilson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Keith Stone, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:23",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"Ramone Snowden defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:11",
+							 "visitorText":"Matt Lewis misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"Greg Jones offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson, Keith Stone)"
+							 },
+							 {
+							 "score":"17-19",
+							 "time":"8:00",
+							 "visitorText":"Ramone Snowden makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:50",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:48",
+							 "visitorText":"Dwight Wilson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak shooting foul"
+							 },
+							 {
+							 "score":"18-19",
+							 "time":"7:23",
+							 "visitorText":"Matt Lewis makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Dontay Bassett, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Joey McLean, Stuckey Mosley, Ramone Snowden, Dwight Wilson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-19",
+							 "time":"7:23",
+							 "visitorText":"Matt Lewis makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:02",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Joey McLean defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-19",
+							 "time":"6:51",
+							 "visitorText":"Matt Lewis makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-22",
+							 "time":"6:43",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:43",
+							 "visitorText":"Joey McLean shooting foul (Keith Stone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:43",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Mike Okauru, Chris Chiozza, Gorjok Gak, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:43",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Stuckey Mosley, Darius Banks, Ramone Snowden, Dwight Wilson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-23",
+							 "time":"6:43",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"23-23",
+							 "time":"6:29",
+							 "visitorText":"Stuckey Mosley makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-25",
+							 "time":"6:08",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:53",
+							 "visitorText":"Darius Banks turnover (bad pass) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-27",
+							 "time":"5:47",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:47",
+							 "visitorText":"Stuckey Mosley shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:47",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"23-28",
+							 "time":"5:47",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:35",
+							 "visitorText":"Stuckey Mosley misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:33",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:26",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point alley-oop layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:24",
+							 "visitorText":"Dukes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:24",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"25-28",
+							 "time":"5:06",
+							 "visitorText":"Darius Banks makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Dukes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Stuckey Mosley, Darius Banks, Ramone Snowden, Zach Jacobs)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:20",
+							 "visitorText":"Kevarrius Hayes blocks Matt Lewis's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:18",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"25-31",
+							 "time":"4:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes three point jump shot"
+							 },
+							 {
+							 "score":"27-31",
+							 "time":"3:46",
+							 "visitorText":"Ramone Snowden makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard shooting foul (Ramone Snowden draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"28-31",
+							 "time":"3:46",
+							 "visitorText":"Ramone Snowden makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:34",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:28",
+							 "visitorText":"",
+							 "homeText":"Ramone Snowden blocks Egor Koulechov's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"Ramone Snowden defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"Matt Lewis offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:26",
+							 "visitorText":"Matt Lewis turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (lost ball) (Stuckey Mosley steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:47",
+							 "visitorText":"Matt Lewis misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:45",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:39",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:37",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:37",
+							 "visitorText":"Darius Banks shooting foul (Keith Stone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:37",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:37",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:37",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Stuckey Mosley, Greg Jones, Zach Jacobs, Ramone Snowden)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:37",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:37",
+							 "visitorText":"Greg Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:07",
+							 "visitorText":"Kevarrius Hayes blocks Stuckey Mosley's two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:05",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:52",
+							 "visitorText":"Greg Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:47",
+							 "visitorText":"Zach Jacobs misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:45",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:28",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard turnover (lost ball) (Ramone Snowden steals)"
+							 },
+							 {
+							 "score":"30-31",
+							 "time":"1:18",
+							 "visitorText":"Matt Lewis makes two point layup (Stuckey Mosley assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen offensive foul (Ramone Snowden draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"Stuckey Mosley misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:44",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:36",
+							 "visitorText":"Ramone Snowden defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:31",
+							 "visitorText":"Greg Jones misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Jalen Hudson vs. Matt Lewis (Gators gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Gorjok Gak, Mike Okauru, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Kevarrius Hayes, Chris Chiozza, KeVaughn Allen, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Dukes lineup change (Joey McLean, Stuckey Mosley, Darius Banks, Develle Phillips, Ramone Snowden)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Dukes",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"Develle Phillips turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-34",
+							 "time":"19:30",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Kevarrius Hayes assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:13",
+							 "visitorText":"Darius Banks turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-36",
+							 "time":"19:04",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:50",
+							 "visitorText":"Ramone Snowden offensive foul (Keith Stone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:50",
+							 "visitorText":"Ramone Snowden turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:40",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:38",
+							 "visitorText":"Darius Banks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:22",
+							 "visitorText":"Develle Phillips turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:57",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (bad pass) (Joey McLean steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:57",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen personal foul (Joey McLean draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:43",
+							 "visitorText":"Joey McLean offensive foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:43",
+							 "visitorText":"Joey McLean turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-39",
+							 "time":"17:33",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Kevarrius Hayes assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul (Develle Phillips draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"Develle Phillips misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"Dukes rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"Dukes lineup change (Stuckey Mosley, Matt Lewis, Darius Banks, Develle Phillips, Ramone Snowden)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-39",
+							 "time":"17:09",
+							 "visitorText":"Develle Phillips makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"Ramone Snowden shooting foul (Kevarrius Hayes draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-40",
+							 "time":"16:56",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"31-41",
+							 "time":"16:56",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"Matt Lewis offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"Matt Lewis turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:20",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:18",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (lost ball) (Develle Phillips steals)"
+							 },
+							 {
+							 "score":"34-41",
+							 "time":"16:02",
+							 "visitorText":"Ramone Snowden makes three point jump shot (Stuckey Mosley assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:02",
+							 "visitorText":"Dukes 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:02",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Stuckey Mosley, Darius Banks, Dwight Wilson, Ramone Snowden)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:02",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:49",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:26",
+							 "visitorText":"Ramone Snowden defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:10",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson personal foul (Matt Lewis draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:10",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:04",
+							 "visitorText":"Stuckey Mosley turnover (lost ball) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"Stuckey Mosley shooting foul (Deaundrae Ballard draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-42",
+							 "time":"15:00",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"34-43",
+							 "time":"15:00",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard personal foul (Stuckey Mosley draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:47",
+							 "visitorText":"Stuckey Mosley misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:45",
+							 "visitorText":"Dwight Wilson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-43",
+							 "time":"14:35",
+							 "visitorText":"Stuckey Mosley makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:24",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:22",
+							 "visitorText":"Ramone Snowden defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul (Stuckey Mosley draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"Stuckey Mosley misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"Dukes rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Mike Okauru, KeVaughn Allen, Keith Stone, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"37-43",
+							 "time":"14:17",
+							 "visitorText":"Stuckey Mosley makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:07",
+							 "visitorText":"",
+							 "homeText":"Dwight Wilson blocks Keith Stone's two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:05",
+							 "visitorText":"Matt Lewis defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-43",
+							 "time":"13:55",
+							 "visitorText":"Dwight Wilson makes two point hook shot (Ramone Snowden assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (bad pass) (Darius Banks steals)"
+							 },
+							 {
+							 "score":"41-43",
+							 "time":"13:42",
+							 "visitorText":"Darius Banks makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"Ramone Snowden shooting foul (Kevarrius Hayes draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Stuckey Mosley, Darius Banks, Greg Jones, Dwight Wilson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:29",
+							 "visitorText":"Greg Jones defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:14",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:14",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Deaundrae Ballard, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"Dwight Wilson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:07",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:02",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes turnover (bad pass) (Darius Banks steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"Stuckey Mosley misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:48",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:39",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"Darius Banks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"Matt Lewis misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:28",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"41-46",
+							 "time":"12:10",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"44-46",
+							 "time":"11:45",
+							 "visitorText":"Darius Banks makes three point jump shot (Stuckey Mosley assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-49",
+							 "time":"11:24",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:22",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:22",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Stuckey Mosley, Darius Banks, Greg Jones, Zach Jacobs)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:22",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:08",
+							 "visitorText":"Matt Lewis misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:06",
+							 "visitorText":"Dukes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:52",
+							 "visitorText":"Matt Lewis misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:50",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:44",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:42",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:30",
+							 "visitorText":"Zach Jacobs personal foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-50",
+							 "time":"10:30",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:30",
+							 "visitorText":"Dukes lineup change (Joey McLean, Stuckey Mosley, Darius Banks, Ramone Snowden, Develle Phillips)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:30",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Chris Chiozza, Gorjok Gak, Egor Koulechov, KeVaughn Allen)"
+							 },
+							 {
+							 "score":"44-51",
+							 "time":"10:30",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:12",
+							 "visitorText":"Stuckey Mosley misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:10",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Develle Phillips shooting foul (Mike Okauru draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-52",
+							 "time":"10:04",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"44-53",
+							 "time":"10:04",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"46-53",
+							 "time":"9:42",
+							 "visitorText":"Develle Phillips makes two point layup (Ramone Snowden assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:25",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:23",
+							 "visitorText":"Develle Phillips defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-53",
+							 "time":"9:15",
+							 "visitorText":"Darius Banks makes three point jump shot (Joey McLean assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:00",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:58",
+							 "visitorText":"Stuckey Mosley defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"Develle Phillips turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak)"
+							 },
+							 {
+							 "score":"49-55",
+							 "time":"8:25",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Joey McLean shooting foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Stuckey Mosley defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:08",
+							 "visitorText":"Joey McLean misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:49",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak offensive rebound"
+							 },
+							 {
+							 "score":"49-57",
+							 "time":"7:43",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak makes two point putback dunk"
+							 },
+							 {
+							 "score":"52-57",
+							 "time":"7:31",
+							 "visitorText":"Ramone Snowden makes three point jump shot (Joey McLean assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:29",
+							 "visitorText":"Dukes 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:29",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"52-60",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"Develle Phillips misses two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:35",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:29",
+							 "visitorText":"Stuckey Mosley shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-61",
+							 "time":"6:29",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:29",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Joey McLean, Darius Banks, Dwight Wilson, Ramone Snowden)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-62",
+							 "time":"6:29",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:18",
+							 "visitorText":"Joey McLean turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"Matt Lewis personal foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-63",
+							 "time":"6:03",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"52-64",
+							 "time":"6:03",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"Joey McLean misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:54",
+							 "visitorText":"Dwight Wilson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:46",
+							 "visitorText":"Dwight Wilson misses two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"Dwight Wilson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:37",
+							 "visitorText":"Dwight Wilson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:35",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"52-66",
+							 "time":"5:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:03",
+							 "visitorText":"Darius Banks misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:01",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:52",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:52",
+							 "visitorText":"Ramone Snowden defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:52",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul (Ramone Snowden draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:52",
+							 "visitorText":"Dukes lineup change (Matt Lewis, Stuckey Mosley, Darius Banks, Ramone Snowden, Dwight Wilson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-66",
+							 "time":"4:52",
+							 "visitorText":"Ramone Snowden makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-66",
+							 "time":"4:52",
+							 "visitorText":"Ramone Snowden makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-68",
+							 "time":"4:33",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point driving layup"
+							 },
+							 {
+							 "score":"57-68",
+							 "time":"4:15",
+							 "visitorText":"Ramone Snowden makes three point jump shot (Matt Lewis assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:47",
+							 "visitorText":"Darius Banks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:28",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen shooting foul (Matt Lewis draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:28",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-68",
+							 "time":"3:28",
+							 "visitorText":"Matt Lewis makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-68",
+							 "time":"3:28",
+							 "visitorText":"Matt Lewis makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:03",
+							 "visitorText":"Ramone Snowden defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Stuckey Mosley vs. KeVaughn Allen (Gators gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"Stuckey Mosley turnover (lost ball) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:46",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:44",
+							 "visitorText":"Dwight Wilson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:26",
+							 "visitorText":"Matt Lewis misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"Matt Lewis offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"Matt Lewis turnover (lost ball) (Jalen Hudson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"Ramone Snowden personal foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-69",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"59-70",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:02",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul (Ramone Snowden draws the foul)"
+							 },
+							 {
+							 "score":"60-70",
+							 "time":"2:02",
+							 "visitorText":"Ramone Snowden makes regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-70",
+							 "time":"2:02",
+							 "visitorText":"Ramone Snowden makes regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:02",
+							 "visitorText":"Ramone Snowden misses regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:02",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:38",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:36",
+							 "visitorText":"Dukes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:19",
+							 "visitorText":"Darius Banks offensive foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:19",
+							 "visitorText":"Darius Banks turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:49",
+							 "visitorText":"Stuckey Mosley defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:44",
+							 "visitorText":"Stuckey Mosley misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:44",
+							 "visitorText":"Dwight Wilson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:44",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov personal foul (Dwight Wilson draws the foul)"
+							 },
+							 {
+							 "score":"62-70",
+							 "time":"00:44",
+							 "visitorText":"Dwight Wilson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-70",
+							 "time":"00:44",
+							 "visitorText":"Dwight Wilson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"63-72",
+							 "time":"00:16",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Darius Banks misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Ramone Snowden offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:05",
+							 "visitorText":"Dwight Wilson turnover (lost ball) (Kevarrius Hayes steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

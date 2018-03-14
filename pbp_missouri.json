@@ -1,0 +1,2095 @@
+{
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Missouri vs Florida",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1169",
+				"seoName": "missouri",
+				"sixCharAbbr": "MIZZOU",
+				"shortName": "Missouri",	
+				"nickName": "Tigers",		
+				"color": "#F1B82D"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Kevarrius Hayes vs. Jeremiah Tilmon (Chris Chiozza gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:38",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:17",
+							 "visitorText":"KeVaughn Allen shooting foul (Jeremiah Tilmon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"0-1",
+							 "time":"19:17",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"0-2",
+							 "time":"19:17",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"Egor Koulechov turnover (bad pass) (Jordan Barnett steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:49",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:47",
+							 "visitorText":"",
+							 "homeText":"Tigers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:45",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist turnover (bad pass) (Kevarrius Hayes steals)"
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"18:18",
+							 "visitorText":"Egor Koulechov makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-4",
+							 "time":"17:52",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear makes two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:30",
+							 "visitorText":"Chris Chiozza misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"Kevarrius Hayes misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:26",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:08",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:01",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon personal foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jordan Geist, Jordan Barnett, Jeremiah Tilmon, Jontay Porter)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:57",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"2-7",
+							 "time":"16:34",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes three point jump shot (Jontay Porter assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:14",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Keith Stone vs. Jontay Porter (Tigers gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:14",
+							 "visitorText":"Keith Stone turnover (lost ball) (Jontay Porter steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:55",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon misses two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon personal foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:47",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jontay Porter, Jordan Geist, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"3-7",
+							 "time":"15:46",
+							 "visitorText":"Kevarrius Hayes makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-7",
+							 "time":"15:46",
+							 "visitorText":"Kevarrius Hayes makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-10",
+							 "time":"15:29",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes three point jump shot (Jontay Porter assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:15",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jontay Porter, Terrence Phillips, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"7-10",
+							 "time":"15:13",
+							 "visitorText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:58",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Keith Stone misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:50",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:50",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Terrence Phillips, Cullen VanLeer, Jontay Porter, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:30",
+							 "visitorText":"Chris Chiozza shooting foul (Jordan Barnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-11",
+							 "time":"14:30",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"7-12",
+							 "time":"14:30",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:14",
+							 "visitorText":"Jontay Porter blocks Egor Koulechov's two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:55",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:36",
+							 "visitorText":"Deaundrae Ballard misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:34",
+							 "visitorText":"",
+							 "homeText":"Cullen VanLeer defensive rebound"
+							 },
+							 {
+							 "score":"7-14",
+							 "time":"13:14",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter makes two point turnaround jump shot"
+							 },
+							 {
+							 "score":"10-14",
+							 "time":"12:54",
+							 "visitorText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-17",
+							 "time":"12:33",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes three point jump shot (Jontay Porter assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"Egor Koulechov turnover (bad pass) (Terrence Phillips steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-19",
+							 "time":"12:29",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Terrence Phillips, Jontay Porter, Kassius Robertson, Reed Nikko, Cullen VanLeer)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"Gators lineup change (Keith Stone, KeVaughn Allen, Mike Okauru, Gorjok Gak, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-19",
+							 "time":"12:13",
+							 "visitorText":"KeVaughn Allen makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-22",
+							 "time":"11:53",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter makes three point jump shot (Cullen VanLeer assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:33",
+							 "visitorText":"Deaundrae Ballard misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"",
+							 "homeText":"Cullen VanLeer defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Jordan Geist, Kassius Robertson, Jontay Porter, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:04",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear misses two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:02",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett offensive rebound"
+							 },
+							 {
+							 "score":"12-24",
+							 "time":"11:01",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear personal foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"Gators lineup change (Mike Okauru, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:29",
+							 "visitorText":"Deaundrae Ballard offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:28",
+							 "visitorText":"Deaundrae Ballard misses two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:26",
+							 "visitorText":"Gorjok Gak offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:26",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson shooting foul (Gorjok Gak draws the foul)"
+							 },
+							 {
+							 "score":"13-24",
+							 "time":"10:26",
+							 "visitorText":"Gorjok Gak makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:26",
+							 "visitorText":"Gorjok Gak misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:26",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:13",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:11",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-24",
+							 "time":"10:01",
+							 "visitorText":"Mike Okauru makes two point driving jump shot (Egor Koulechov assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:47",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:45",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:38",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear personal foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:38",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, KeVaughn Allen, Gorjok Gak, Jalen Hudson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:38",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jontay Porter, Jordan Geist, Jordan Barnett, Terrence Phillips)"
+							 },
+							 {
+							 "score":"17-24",
+							 "time":"9:36",
+							 "visitorText":"Jalen Hudson makes two point layup (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:18",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:16",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-24",
+							 "time":"8:59",
+							 "visitorText":"Egor Koulechov makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-26",
+							 "time":"8:44",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes two point dunk (Jontay Porter assists)"
+							 },
+							 {
+							 "score":"22-26",
+							 "time":"8:22",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Mike Okauru assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"Jalen Hudson personal foul (Jordan Geist draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, Kevarrius Hayes, Chris Chiozza)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:13",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Terrence Phillips, Kassius Robertson, Jontay Porter, Cullen VanLeer, Jordan Barnett)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter misses two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"Mike Okauru defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:29",
+							 "visitorText":"Jalen Hudson misses two point driving jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:27",
+							 "visitorText":"",
+							 "homeText":"Cullen VanLeer defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:06",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Egor Koulechov misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:58",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:45",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:43",
+							 "visitorText":"Mike Okauru defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:25",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips personal foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:25",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:25",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Reed Nikko, Kassius Robertson, Jontay Porter, Jordan Barnett, Cullen VanLeer)"
+							 },
+							 {
+							 "score":"23-26",
+							 "time":"6:25",
+							 "visitorText":"Egor Koulechov makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:25",
+							 "visitorText":"Egor Koulechov misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:25",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"23-29",
+							 "time":"6:10",
+							 "visitorText":"",
+							 "homeText":"Cullen VanLeer makes three point jump shot (Reed Nikko assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:58",
+							 "visitorText":"Mike Okauru misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Cullen VanLeer defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:40",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"24-29",
+							 "time":"5:34",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"Jalen Hudson misses regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Kevin Puryear, Reed Nikko, Jordan Barnett, Cullen VanLeer)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Keith Stone, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"Jalen Hudson misses regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:10",
+							 "visitorText":"",
+							 "homeText":"Cullen VanLeer turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"Chris Chiozza misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:54",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Reed Nikko, Jordan Barnett, Kevin Puryear, Jordan Geist)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:39",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett turnover (bad pass) (Kevarrius Hayes steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:33",
+							 "visitorText":"KeVaughn Allen misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear defensive rebound"
+							 },
+							 {
+							 "score":"24-31",
+							 "time":"4:08",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear makes two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"Chris Chiozza shooting foul (Kevin Puryear draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Terrence Phillips, Reed Nikko, Jordan Geist, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"24-32",
+							 "time":"4:08",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"Kevarrius Hayes misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:32",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:32",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:32",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Reed Nikko, Cullen VanLeer, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-32",
+							 "time":"3:21",
+							 "visitorText":"Mike Okauru makes three point jump shot (Jalen Hudson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:06",
+							 "visitorText":"KeVaughn Allen personal foul (Kassius Robertson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:06",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Deaundrae Ballard, Mike Okauru, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:06",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Reed Nikko, Jordan Barnett, Jordan Geist, Cullen VanLeer)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:57",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:55",
+							 "visitorText":"Mike Okauru defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"Reed Nikko blocks Mike Okauru's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:47",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-32",
+							 "time":"2:45",
+							 "visitorText":"Keith Stone makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:36",
+							 "visitorText":"Mike Okauru personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson turnover (bad pass) (Deaundrae Ballard steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:24",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jeremiah Tilmon, Jordan Geist, Jordan Barnett, Cullen VanLeer)"
+							 },
+							 {
+							 "score":"32-32",
+							 "time":"1:57",
+							 "visitorText":"Egor Koulechov makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:40",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jordan Geist, Jordan Barnett, Reed Nikko, Cullen VanLeer)"
+							 },
+							 {
+							 "score":"34-32",
+							 "time":"1:26",
+							 "visitorText":"Keith Stone makes two point jump shot (Mike Okauru assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-35",
+							 "time":"1:09",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes three point jump shot (Jordan Geist assists)"
+							 },
+							 {
+							 "score":"36-35",
+							 "time":"00:47",
+							 "visitorText":"Deaundrae Ballard makes two point reverse layup (Keith Stone assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"Mike Okauru misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Kevin Puryear, Jordan Geist, Jordan Barnett, Jontay Porter)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Kevarrius Hayes, Egor Koulechov, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Gators",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:48",
+							 "visitorText":"KeVaughn Allen misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:46",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-35",
+							 "time":"19:46",
+							 "visitorText":"Kevarrius Hayes makes two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:15",
+							 "visitorText":"Kevarrius Hayes shooting foul (Kassius Robertson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-36",
+							 "time":"19:15",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"38-37",
+							 "time":"19:15",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"40-37",
+							 "time":"18:59",
+							 "visitorText":"Keith Stone makes two point layup (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"Keith Stone misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:59",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"40-40",
+							 "time":"18:33",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes three point jump shot (Jontay Porter assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:06",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:04",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:04",
+							 "visitorText":"Kevarrius Hayes turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:39",
+							 "visitorText":"KeVaughn Allen shooting foul (Jontay Porter draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-41",
+							 "time":"17:39",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:39",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-42",
+							 "time":"17:39",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:23",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:54",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear turnover (bad pass) (Kevarrius Hayes steals)"
+							 },
+							 {
+							 "score":"42-42",
+							 "time":"16:48",
+							 "visitorText":"Kevarrius Hayes makes two point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"Keith Stone personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jontay Porter, Jordan Geist, Jordan Barnett, Jeremiah Tilmon)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:23",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon offensive rebound"
+							 },
+							 {
+							 "score":"42-44",
+							 "time":"16:20",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:02",
+							 "visitorText":"Chris Chiozza misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:00",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"42-47",
+							 "time":"15:55",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes three point jump shot (Jontay Porter assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:42",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jontay Porter, Terrence Phillips, Jordan Barnett, Jeremiah Tilmon)"
+							 },
+							 {
+							 "score":"45-47",
+							 "time":"15:28",
+							 "visitorText":"Keith Stone makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:16",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:16",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:16",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:50",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:50",
+							 "visitorText":"Keith Stone misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:50",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:50",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Gorjok Gak, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:50",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Terrence Phillips, Kassius Robertson, Jontay Porter, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"46-47",
+							 "time":"14:50",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"Egor Koulechov shooting foul (Jordan Barnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-48",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Tigers rebound (deadball)"
+							 },
+							 {
+							 "score":"46-49",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"48-49",
+							 "time":"14:29",
+							 "visitorText":"Chris Chiozza makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-49",
+							 "time":"13:53",
+							 "visitorText":"Chris Chiozza makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-52",
+							 "time":"13:21",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes three point step back jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:05",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:03",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:39",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:34",
+							 "visitorText":"Keith Stone misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:32",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:27",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:25",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"51-54",
+							 "time":"12:08",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"",
+							 "homeText":"Terrence Phillips personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"Gators lineup change (Kevarrius Hayes, Egor Koulechov, Chris Chiozza, Deaundrae Ballard, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:02",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Reed Nikko, Kassius Robertson, Jordan Geist, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:47",
+							 "visitorText":"Chris Chiozza turnover (bad pass) (Reed Nikko steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:20",
+							 "visitorText":"",
+							 "homeText":"Keith Stone blocks Reed Nikko's two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:19",
+							 "visitorText":"",
+							 "homeText":"Tigers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:19",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:19",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jontay Porter, Jordan Geist, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:19",
+							 "visitorText":"Gators lineup change (Keith Stone, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard, KeVaughn Allen)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-57",
+							 "time":"11:18",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:02",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:38",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:36",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"Deaundrae Ballard shooting foul (Jordan Barnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-58",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-59",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:18",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:18",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Reed Nikko, Jordan Geist, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:18",
+							 "visitorText":"Kevarrius Hayes misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:18",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-59",
+							 "time":"10:18",
+							 "visitorText":"Kevarrius Hayes makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-62",
+							 "time":"10:07",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist makes three point jump shot"
+							 },
+							 {
+							 "score":"55-62",
+							 "time":"9:37",
+							 "visitorText":"Keith Stone makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:16",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson turnover (bad pass) (Kevarrius Hayes steals)"
+							 },
+							 {
+							 "score":"57-62",
+							 "time":"9:07",
+							 "visitorText":"Chris Chiozza makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:43",
+							 "visitorText":"Chris Chiozza personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:43",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Mike Okauru, Chris Chiozza, Kevarrius Hayes, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:43",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Reed Nikko, Jordan Geist, Jordan Barnett, Cullen VanLeer)"
+							 },
+							 {
+							 "score":"57-64",
+							 "time":"8:34",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:14",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Mike Okauru vs. Jordan Geist (Tigers gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:14",
+							 "visitorText":"Mike Okauru turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:00",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:58",
+							 "visitorText":"",
+							 "homeText":"Reed Nikko offensive rebound"
+							 },
+							 {
+							 "score":"57-66",
+							 "time":"7:58",
+							 "visitorText":"",
+							 "homeText":"Reed Nikko makes two point putback dunk"
+							 },
+							 {
+							 "score":"59-66",
+							 "time":"7:39",
+							 "visitorText":"Kevarrius Hayes makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:39",
+							 "visitorText":"",
+							 "homeText":"Reed Nikko shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:39",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:39",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Jalen Hudson, Egor Koulechov, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:39",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Kevin Puryear, Jordan Geist, Jordan Barnett, Jeremiah Tilmon)"
+							 },
+							 {
+							 "score":"60-66",
+							 "time":"7:39",
+							 "visitorText":"Kevarrius Hayes makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"Keith Stone shooting foul (Jeremiah Tilmon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-67",
+							 "time":"7:22",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"60-68",
+							 "time":"7:22",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:22",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jordan Geist, Jordan Barnett, Jontay Porter, Kevin Puryear)"
+							 },
+							 {
+							 "score":"62-68",
+							 "time":"7:06",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"",
+							 "homeText":"Keith Stone blocks Jontay Porter's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:36",
+							 "visitorText":"",
+							 "homeText":"Tigers offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:36",
+							 "visitorText":"Gators lineup change (Kevarrius Hayes, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:36",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jeremiah Tilmon, Jordan Geist, Jordan Barnett, Kevin Puryear)"
+							 },
+							 {
+							 "score":"62-70",
+							 "time":"6:32",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon makes two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:13",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett shooting foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"63-70",
+							 "time":"6:13",
+							 "visitorText":"Egor Koulechov makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-70",
+							 "time":"6:13",
+							 "visitorText":"Egor Koulechov makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:50",
+							 "visitorText":"Kevarrius Hayes personal foul (Jeremiah Tilmon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:50",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:50",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:37",
+							 "visitorText":"",
+							 "homeText":"Jeremiah Tilmon personal foul (Chris Chiozza draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:37",
+							 "visitorText":"",
+							 "homeText":"Tigers lineup change (Kassius Robertson, Jordan Geist, Jordan Barnett, Jontay Porter, Kevin Puryear)"
+							 },
+							 {
+							 "score":"65-70",
+							 "time":"5:37",
+							 "visitorText":"Chris Chiozza makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-70",
+							 "time":"5:37",
+							 "visitorText":"Chris Chiozza makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:58",
+							 "visitorText":"Egor Koulechov misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Egor Koulechov personal foul (Jordan Geist draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"66-71",
+							 "time":"4:48",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:48",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:48",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:38",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett shooting foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"67-71",
+							 "time":"4:38",
+							 "visitorText":"Egor Koulechov makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-71",
+							 "time":"4:38",
+							 "visitorText":"Egor Koulechov makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:15",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes blocks Kevin Puryear's two point turnaround jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:13",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:57",
+							 "visitorText":"KeVaughn Allen misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:55",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:34",
+							 "visitorText":"Kevarrius Hayes misses two point turnaround jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:32",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:32",
+							 "visitorText":"Kevarrius Hayes misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:30",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:05",
+							 "visitorText":"Kevarrius Hayes shooting foul (Kassius Robertson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:05",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:05",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-72",
+							 "time":"3:05",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"68-73",
+							 "time":"3:05",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"70-73",
+							 "time":"2:50",
+							 "visitorText":"Jalen Hudson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:19",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:06",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:04",
+							 "visitorText":"",
+							 "homeText":"Jordan Barnett defensive rebound"
+							 },
+							 {
+							 "score":"70-75",
+							 "time":"1:32",
+							 "visitorText":"",
+							 "homeText":"Jontay Porter makes two point layup"
+							 },
+							 {
+							 "score":"72-75",
+							 "time":"1:11",
+							 "visitorText":"Jalen Hudson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"73-75",
+							 "time":"1:11",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:42",
+							 "visitorText":"",
+							 "homeText":"Kevin Puryear misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"Jontay Porter blocks Egor Koulechov's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"",
+							 "homeText":"Kassius Robertson shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"74-75",
+							 "time":"00:22",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"Jalen Hudson misses regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-75",
+							 "time":"00:22",
+							 "visitorText":"Jalen Hudson makes regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Tigers 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Jordan Geist turnover (bad pass) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"77-75",
+							 "time":"00:01",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		}

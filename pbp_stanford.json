@@ -1,0 +1,2227 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Stanford vs Florida",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "2338",
+				"seoName": "stanford",
+				"sixCharAbbr": "STAN",
+				"shortName": "Stanford",	
+				"nickName": "Cardinal",		
+				"color": "#a80532"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Keith Stone vs. Michael Humphrey (Daejon Davis gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:58",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:56",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-0",
+							 "time":"19:45",
+							 "visitorText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:30",
+							 "visitorText":"",
+							 "homeText":"Reid Travis misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"Keith Stone personal foul (Reid Travis draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Reid Travis misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Cardinal rebound (deadball)"
+							 },
+							 {
+							 "score":"3-1",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"5-1",
+							 "time":"18:51",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:25",
+							 "visitorText":"",
+							 "homeText":"Reid Travis turnover (lost ball) (Keith Stone steals)"
+							 },
+							 {
+							 "score":"8-1",
+							 "time":"18:18",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-3",
+							 "time":"18:00",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey makes two point dunk (Daejon Davis assists)"
+							 },
+							 {
+							 "score":"11-3",
+							 "time":"17:51",
+							 "visitorText":"Egor Koulechov makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-5",
+							 "time":"17:32",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:24",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:24",
+							 "visitorText":"Keith Stone misses regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:24",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-5",
+							 "time":"17:24",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:24",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-5",
+							 "time":"17:24",
+							 "visitorText":"Keith Stone makes regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:00",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson blocks Reid Travis's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:58",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-5",
+							 "time":"16:50",
+							 "visitorText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:37",
+							 "visitorText":"Jalen Hudson shooting foul (Michael Humphrey draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-6",
+							 "time":"16:37",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"16-7",
+							 "time":"16:37",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:24",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:22",
+							 "visitorText":"",
+							 "homeText":"Reid Travis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:58",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis turnover (lost ball) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"18-7",
+							 "time":"15:53",
+							 "visitorText":"Egor Koulechov makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:40",
+							 "visitorText":"",
+							 "homeText":"Reid Travis misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:36",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:36",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:36",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Daejon Davis, Robert Cartwright, Michael Humphrey, Oscar Da Silva, Reid Travis)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:15",
+							 "visitorText":"Chris Chiozza turnover (lost ball) (Robert Cartwright steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-9",
+							 "time":"15:13",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright makes two point layup"
+							 },
+							 {
+							 "score":"21-9",
+							 "time":"14:58",
+							 "visitorText":"Jalen Hudson makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:58",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:58",
+							 "visitorText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-9",
+							 "time":"14:58",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-11",
+							 "time":"14:30",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Deaundrae Ballard, KeVaughn Allen, Chris Chiozza, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Daejon Davis, Robert Cartwright, Michael Humphrey, Kodye Pugh, Oscar Da Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:15",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:15",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Daejon Davis, Josh Sharma, Oscar Da Silva, Kodye Pugh, Robert Cartwright)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:12",
+							 "visitorText":"Keith Stone misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:10",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva defensive rebound"
+							 },
+							 {
+							 "score":"22-13",
+							 "time":"14:00",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:00",
+							 "visitorText":"Chris Chiozza shooting foul (Daejon Davis draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-14",
+							 "time":"14:00",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:51",
+							 "visitorText":"Keith Stone misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:49",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma defensive rebound"
+							 },
+							 {
+							 "score":"22-17",
+							 "time":"13:21",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright makes three point jump shot (Daejon Davis assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright shooting foul (KeVaughn Allen draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Jalen Hudson, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:10",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Isaac White, Oscar Da Silva, Daejon Davis, Kodye Pugh, Josh Sharma)"
+							 },
+							 {
+							 "score":"24-17",
+							 "time":"12:56",
+							 "visitorText":"Deaundrae Ballard makes two point jump shot (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"",
+							 "homeText":"Isaac White misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:40",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-17",
+							 "time":"12:30",
+							 "visitorText":"Jalen Hudson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:07",
+							 "visitorText":"",
+							 "homeText":"Kodye Pugh turnover (lost ball) (Keith Stone steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:06",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:06",
+							 "visitorText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Jalen Hudson, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:06",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Daejon Davis, Isaac White, Kodye Pugh, Reid Travis, Josh Sharma)"
+							 },
+							 {
+							 "score":"29-17",
+							 "time":"11:57",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Deaundrae Ballard assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:41",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"Deaundrae Ballard misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Reid Travis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:18",
+							 "visitorText":"",
+							 "homeText":"Isaac White misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"Deaundrae Ballard offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"Deaundrae Ballard turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Gorjok Gak, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-19",
+							 "time":"10:41",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes two point dunk"
+							 },
+							 {
+							 "score":"32-19",
+							 "time":"10:22",
+							 "visitorText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-21",
+							 "time":"9:57",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:49",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"33-21",
+							 "time":"9:49",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:49",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, Chris Chiozza, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-21",
+							 "time":"9:49",
+							 "visitorText":"Jalen Hudson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"",
+							 "homeText":"Reid Travis offensive foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:36",
+							 "visitorText":"",
+							 "homeText":"Reid Travis turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:14",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:12",
+							 "visitorText":"",
+							 "homeText":"Kodye Pugh defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:55",
+							 "visitorText":"",
+							 "homeText":"Reid Travis turnover (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"36-21",
+							 "time":"8:50",
+							 "visitorText":"Mike Okauru makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"",
+							 "homeText":"Reid Travis misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:16",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis turnover (Egor Koulechov steals)"
+							 },
+							 {
+							 "score":"39-21",
+							 "time":"8:07",
+							 "visitorText":"Keith Stone makes three point jump shot (Egor Koulechov assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:48",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:46",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma offensive rebound"
+							 },
+							 {
+							 "score":"39-23",
+							 "time":"7:46",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma makes two point jump shot"
+							 },
+							 {
+							 "score":"42-23",
+							 "time":"7:26",
+							 "visitorText":"Mike Okauru makes three point jump shot (Keith Stone assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"Egor Koulechov shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-24",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, KeVaughn Allen, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-25",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:55",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma defensive rebound"
+							 },
+							 {
+							 "score":"42-27",
+							 "time":"6:48",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes two point dunk (Daejon Davis assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:47",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-27",
+							 "time":"6:32",
+							 "visitorText":"Mike Okauru makes three point jump shot (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:04",
+							 "visitorText":"",
+							 "homeText":"Reid Travis misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:02",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:51",
+							 "visitorText":"Gorjok Gak misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:49",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright defensive rebound"
+							 },
+							 {
+							 "score":"45-29",
+							 "time":"5:39",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"Jalen Hudson turnover (bad pass) (Oscar Da Silva steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:07",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:05",
+							 "visitorText":"",
+							 "homeText":"Cardinal offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:05",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Gorjok Gak, Dontay Bassett, Mike Okauru, KeVaughn Allen)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:55",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:41",
+							 "visitorText":"KeVaughn Allen offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-29",
+							 "time":"4:38",
+							 "visitorText":"Chris Chiozza makes three point jump shot (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:18",
+							 "visitorText":"Gorjok Gak personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:17",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Keith Stone, Dontay Bassett, Gorjok Gak, KeVaughn Allen)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Daejon Davis, Isaac White, Kodye Pugh, Josh Sharma, Blake Pagon)"
+							 },
+							 {
+							 "score":"51-29",
+							 "time":"3:56",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva turnover (lost ball) (KeVaughn Allen steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:30",
+							 "visitorText":"KeVaughn Allen misses two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:28",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva defensive rebound"
+							 },
+							 {
+							 "score":"51-31",
+							 "time":"3:19",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey makes two point dunk (Daejon Davis assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:02",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:43",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:41",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-31",
+							 "time":"2:34",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-33",
+							 "time":"2:16",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright makes two point layup"
+							 },
+							 {
+							 "score":"56-33",
+							 "time":"2:10",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:49",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright turnover (bad pass) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"58-33",
+							 "time":"1:45",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:43",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:43",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Dontay Bassett, Andrew Fava, Chase Johnson, KeVaughn Allen)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:27",
+							 "visitorText":"KeVaughn Allen personal foul (Blake Pagon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:27",
+							 "visitorText":"",
+							 "homeText":"Blake Pagon misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:27",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:08",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:06",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey defensive rebound"
+							 },
+							 {
+							 "score":"58-35",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes two point jump shot (Daejon Davis assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:56",
+							 "visitorText":"Dontay Bassett shooting foul (Reid Travis draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-36",
+							 "time":"00:56",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"KeVaughn Allen offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"KeVaughn Allen turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:44",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Dontay Bassett, Egor Koulechov, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-39",
+							 "time":"00:35",
+							 "visitorText":"",
+							 "homeText":"Isaac White makes three point jump shot (Daejon Davis assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"Gators turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Gators",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Blake Pagon, Reid Travis, Isaac White, Daejon Davis, Michael Humphrey)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Jalen Hudson, Keith Stone, Egor Koulechov, KeVaughn Allen)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-39",
+							 "time":"19:45",
+							 "visitorText":"Egor Koulechov makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-41",
+							 "time":"19:28",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:14",
+							 "visitorText":"Michael Humphrey blocks Keith Stone's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:09",
+							 "visitorText":"",
+							 "homeText":"Isaac White defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:00",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey turnover (lost ball) (Jalen Hudson steals)"
+							 },
+							 {
+							 "score":"62-41",
+							 "time":"18:55",
+							 "visitorText":"Egor Koulechov makes two point layup (Jalen Hudson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:36",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen blocks Isaac White's three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:34",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:30",
+							 "visitorText":"",
+							 "homeText":"Blake Pagon personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:18",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis shooting foul (KeVaughn Allen draws the foul)"
+							 },
+							 {
+							 "score":"63-41",
+							 "time":"18:18",
+							 "visitorText":"KeVaughn Allen makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-41",
+							 "time":"18:18",
+							 "visitorText":"KeVaughn Allen makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:05",
+							 "visitorText":"KeVaughn Allen shooting foul (Reid Travis draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-42",
+							 "time":"18:05",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:05",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:05",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Daejon Davis, Oscar Da Silva, Michael Humphrey, Reid Travis, Robert Cartwright)"
+							 },
+							 {
+							 "score":"64-43",
+							 "time":"18:05",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:58",
+							 "visitorText":"Jalen Hudson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:56",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:50",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey turnover (lost ball) (KeVaughn Allen steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:45",
+							 "visitorText":"Egor Koulechov misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:43",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"Gorjok Gak personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-46",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright makes three point jump shot (Daejon Davis assists)"
+							 },
+							 {
+							 "score":"66-46",
+							 "time":"17:18",
+							 "visitorText":"Egor Koulechov makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva turnover (lost ball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:48",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Daejon Davis, Robert Cartwright, Josh Sharma, Oscar Da Silva, Reid Travis)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:33",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma personal foul"
+							 },
+							 {
+							 "score":"68-46",
+							 "time":"16:31",
+							 "visitorText":"Deaundrae Ballard makes two point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:31",
+							 "visitorText":"",
+							 "homeText":"Reid Travis shooting foul (Deaundrae Ballard draws the foul)"
+							 },
+							 {
+							 "score":"69-46",
+							 "time":"16:31",
+							 "visitorText":"Deaundrae Ballard makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:22",
+							 "visitorText":"Egor Koulechov shooting foul (Reid Travis draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-47",
+							 "time":"16:22",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:22",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Daejon Davis, Robert Cartwright, Oscar Da Silva, Michael Humphrey, Reid Travis)"
+							 },
+							 {
+							 "score":"69-48",
+							 "time":"16:22",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:12",
+							 "visitorText":"Chris Chiozza turnover (lost ball) (Reid Travis steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-50",
+							 "time":"16:04",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis makes two point layup"
+							 },
+							 {
+							 "score":"71-50",
+							 "time":"15:43",
+							 "visitorText":"KeVaughn Allen makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis turnover (bad pass) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"73-50",
+							 "time":"15:23",
+							 "visitorText":"Deaundrae Ballard makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:23",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey shooting foul (Deaundrae Ballard draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:23",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:23",
+							 "visitorText":"Gators lineup change (Dontay Bassett, KeVaughn Allen, Chris Chiozza, Keith Stone, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:23",
+							 "visitorText":"Deaundrae Ballard misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:23",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"Dontay Bassett shooting foul (Michael Humphrey draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-51",
+							 "time":"15:08",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Mike Okauru, Dontay Bassett, Deaundrae Ballard, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Isaac White, Robert Cartwright, Michael Humphrey, Oscar Da Silva, Reid Travis)"
+							 },
+							 {
+							 "score":"73-52",
+							 "time":"15:08",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:54",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:54",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Robert Cartwright, Isaac White, Michael Humphrey, Oscar Da Silva, Kodye Pugh)"
+							 },
+							 {
+							 "score":"75-52",
+							 "time":"14:53",
+							 "visitorText":"Deaundrae Ballard makes two point layup (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:23",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:21",
+							 "visitorText":"",
+							 "homeText":"Cardinal offensive rebound"
+							 },
+							 {
+							 "score":"75-54",
+							 "time":"14:09",
+							 "visitorText":"",
+							 "homeText":"Kodye Pugh makes two point dunk (Robert Cartwright assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"Deaundrae Ballard misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:43",
+							 "visitorText":"Dontay Bassett offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-54",
+							 "time":"13:43",
+							 "visitorText":"Dontay Bassett makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:26",
+							 "visitorText":"Deaundrae Ballard personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:26",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Robert Cartwright, Isaac White, Reid Travis, Michael Humphrey, Oscar Da Silva)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:15",
+							 "visitorText":"",
+							 "homeText":"Reid Travis turnover (traveling)"
+							 },
+							 {
+							 "score":"80-54",
+							 "time":"13:01",
+							 "visitorText":"KeVaughn Allen makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:49",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright turnover (lost ball) (KeVaughn Allen steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:44",
+							 "visitorText":"",
+							 "homeText":"Michael Humphrey personal foul (KeVaughn Allen draws the foul)"
+							 },
+							 {
+							 "score":"81-54",
+							 "time":"12:44",
+							 "visitorText":"KeVaughn Allen makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:44",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Josh Sharma, Isaac White, Daejon Davis, Oscar Da Silva, Reid Travis)"
+							 },
+							 {
+							 "score":"82-54",
+							 "time":"12:44",
+							 "visitorText":"KeVaughn Allen makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:32",
+							 "visitorText":"",
+							 "homeText":"Isaac White misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"Keith Stone misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"Mike Okauru shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"82-55",
+							 "time":"11:50",
+							 "visitorText":"",
+							 "homeText":"Isaac White makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"Gators lineup change (Mike Okauru, Chase Johnson, Dontay Bassett, Chris Chiozza, Jalen Hudson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"82-56",
+							 "time":"11:50",
+							 "visitorText":"",
+							 "homeText":"Isaac White makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:35",
+							 "visitorText":"Mike Okauru misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:33",
+							 "visitorText":"Chris Chiozza offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:09",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma personal foul (Chris Chiozza draws the foul)"
+							 },
+							 {
+							 "score":"83-56",
+							 "time":"11:09",
+							 "visitorText":"Chris Chiozza makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"84-56",
+							 "time":"11:09",
+							 "visitorText":"Chris Chiozza makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:54",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis turnover (bad pass) (Chase Johnson steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:54",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma personal foul (Chase Johnson draws the foul)"
+							 },
+							 {
+							 "score":"85-56",
+							 "time":"10:54",
+							 "visitorText":"Chase Johnson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"86-56",
+							 "time":"10:54",
+							 "visitorText":"Chase Johnson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:37",
+							 "visitorText":"Jalen Hudson personal foul (Oscar Da Silva draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"86-57",
+							 "time":"10:37",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"86-58",
+							 "time":"10:37",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"88-58",
+							 "time":"10:26",
+							 "visitorText":"Mike Okauru makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:12",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:10",
+							 "visitorText":"Chase Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"91-58",
+							 "time":"9:43",
+							 "visitorText":"Chris Chiozza makes three point jump shot (Dontay Bassett assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"",
+							 "homeText":"Cardinal 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:31",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Robert Cartwright, Isaac White, Blake Pagon, Michael Humphrey, Reid Travis)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:07",
+							 "visitorText":"",
+							 "homeText":"Isaac White misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:05",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"93-58",
+							 "time":"8:57",
+							 "visitorText":"Mike Okauru makes two point layup (Egor Koulechov assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:44",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"95-58",
+							 "time":"8:27",
+							 "visitorText":"Egor Koulechov makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Blake Pagon shooting foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"Gators lineup change (Mike Okauru, Keith Stone, Jalen Hudson, KeVaughn Allen, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Robert Cartwright, Isaac White, Michael Humphrey, Reid Travis, Oscar Da Silva)"
+							 },
+							 {
+							 "score":"96-58",
+							 "time":"8:27",
+							 "visitorText":"Egor Koulechov makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"96-61",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes three point jump shot (Oscar Da Silva assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"Keith Stone misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:52",
+							 "visitorText":"",
+							 "homeText":"Isaac White defensive rebound"
+							 },
+							 {
+							 "score":"96-63",
+							 "time":"7:46",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright makes two point layup (Isaac White assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"Keith Stone misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:26",
+							 "visitorText":"",
+							 "homeText":"Reid Travis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:20",
+							 "visitorText":"",
+							 "homeText":"Reid Travis offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:20",
+							 "visitorText":"",
+							 "homeText":"Reid Travis turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:20",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:20",
+							 "visitorText":"Gators lineup change (Mike Okauru, Chase Johnson, Gorjok Gak, Deaundrae Ballard, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:52",
+							 "visitorText":"Gorjok Gak offensive foul (Oscar Da Silva draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:52",
+							 "visitorText":"Gorjok Gak turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:39",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:37",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:31",
+							 "visitorText":"Dontay Bassett offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:31",
+							 "visitorText":"Dontay Bassett turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:18",
+							 "visitorText":"Dontay Bassett personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:18",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Robert Cartwright, Daejon Davis, Michael Humphrey, Oscar Da Silva, Reid Travis)"
+							 },
+							 {
+							 "score":"96-64",
+							 "time":"6:18",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"Dontay Bassett defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis personal foul (Mike Okauru draws the foul)"
+							 },
+							 {
+							 "score":"97-64",
+							 "time":"6:12",
+							 "visitorText":"Mike Okauru makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"Mike Okauru misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"",
+							 "homeText":"Reid Travis defensive rebound"
+							 },
+							 {
+							 "score":"97-67",
+							 "time":"6:02",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma makes three point jump shot (Reid Travis assists)"
+							 },
+							 {
+							 "score":"99-67",
+							 "time":"5:33",
+							 "visitorText":"Chase Johnson makes two point layup (Mike Okauru assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:21",
+							 "visitorText":"",
+							 "homeText":"Daejon Davis turnover (lost ball) (Dontay Bassett steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"Deaundrae Ballard misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:06",
+							 "visitorText":"",
+							 "homeText":"Reid Travis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:00",
+							 "visitorText":"Dontay Bassett personal foul (Reid Travis draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"99-68",
+							 "time":"5:00",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:00",
+							 "visitorText":"Gators lineup change (Mike Okauru, Chase Johnson, Gorjok Gak, Mak Krause, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:00",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Isaac White, Robert Cartwright, Michael Humphrey, Oscar Da Silva, Reid Travis)"
+							 },
+							 {
+							 "score":"99-69",
+							 "time":"5:00",
+							 "visitorText":"",
+							 "homeText":"Reid Travis makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"101-69",
+							 "time":"4:46",
+							 "visitorText":"Mike Okauru makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"",
+							 "homeText":"Reid Travis misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:29",
+							 "visitorText":"Mike Okauru defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"103-69",
+							 "time":"4:25",
+							 "visitorText":"Deaundrae Ballard makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:04",
+							 "visitorText":"",
+							 "homeText":"Chase Johnson blocks Isaac White's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:02",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Robert Cartwright, Isaac White, Michael Humphrey, Oscar Da Silva, Kodye Pugh)"
+							 },
+							 {
+							 "score":"105-69",
+							 "time":"3:44",
+							 "visitorText":"Deaundrae Ballard makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"Gorjok Gak personal foul (Kodye Pugh draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"",
+							 "homeText":"Kodye Pugh misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"",
+							 "homeText":"Cardinal rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"Gators lineup change (Mike Okauru, Chase Johnson, Andrew Fava, Mak Krause, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Robert Cartwright, Blake Pagon, Kodye Pugh, Michael Humphrey, Oscar Da Silva)"
+							 },
+							 {
+							 "score":"105-70",
+							 "time":"3:35",
+							 "visitorText":"",
+							 "homeText":"Kodye Pugh makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:20",
+							 "visitorText":"Oscar Da Silva blocks Chase Johnson's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:18",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma defensive rebound"
+							 },
+							 {
+							 "score":"105-73",
+							 "time":"3:13",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma makes three point jump shot (Robert Cartwright assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:54",
+							 "visitorText":"Deaundrae Ballard misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"Deaundrae Ballard personal foul (Josh Sharma draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"Cardinal rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"Josh Sharma misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva offensive rebound"
+							 },
+							 {
+							 "score":"105-75",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva makes two point dunk (Blake Pagon assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"Mike Okauru turnover (bad pass) (Robert Cartwright steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:26",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Robert Cartwright, Kodye Pugh, Trevor Stanback, Oscar Da Silva, Blake Pagon)"
+							 },
+							 {
+							 "score":"105-78",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva makes three point jump shot (Robert Cartwright assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"",
+							 "homeText":"Oscar Da Silva personal foul (Mak Krause draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"Mak Krause misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"",
+							 "homeText":"Cardinal lineup change (Robert Cartwright, Kodye Pugh, Rodney Herenton, Blake Pagon, Trevor Stanback)"
+							 },
+							 {
+							 "score":"106-78",
+							 "time":"2:11",
+							 "visitorText":"Mak Krause makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"106-80",
+							 "time":"2:02",
+							 "visitorText":"",
+							 "homeText":"Trevor Stanback makes two point dunk (Robert Cartwright assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:51",
+							 "visitorText":"Deaundrae Ballard turnover (lost ball) (Robert Cartwright steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"106-82",
+							 "time":"1:44",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:44",
+							 "visitorText":"Deaundrae Ballard shooting foul (Robert Cartwright draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"106-83",
+							 "time":"1:44",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:22",
+							 "visitorText":"Chase Johnson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:20",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"108-83",
+							 "time":"1:16",
+							 "visitorText":"Mak Krause makes two point layup (Mike Okauru assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru blocks Robert Cartwright's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:01",
+							 "visitorText":"Mike Okauru defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:52",
+							 "visitorText":"Andrew Fava turnover (lost ball) (Trevor Stanback steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"Mike Okauru shooting foul (Robert Cartwright draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"108-84",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"108-85",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Robert Cartwright makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:18",
+							 "visitorText":"Mak Krause misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"Chase Johnson offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"Chase Johnson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:14",
+							 "visitorText":"",
+							 "homeText":"Blake Pagon defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"Andrew Fava personal foul (Rodney Herenton draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"108-86",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Rodney Herenton makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"108-87",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Rodney Herenton makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

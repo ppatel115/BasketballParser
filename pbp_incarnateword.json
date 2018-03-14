@@ -1,0 +1,2101 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Florida vs Incarnate Word",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "670",
+				"seoName": "incarnate-word",
+				"sixCharAbbr": "INCWRD",
+				"shortName": "Incarnate Word",	
+				"nickName": "Cardinals",		
+				"color": "#d72c23"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Shawn Johnson vs. Kevarrius Hayes (Gators gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:39",
+							 "visitorText":"Keaton Hervey defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:28",
+							 "visitorText":"Simi Socks misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (bad pass) (Keaton Hervey steals)"
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"18:48",
+							 "visitorText":"Charles Brown III makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:23",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:21",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"2-2",
+							 "time":"18:12",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:59",
+							 "visitorText":"Keaton Hervey misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:57",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:49",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:47",
+							 "visitorText":"Shawn Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:40",
+							 "visitorText":"Shawn Johnson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:30",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"Shawn Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:54",
+							 "visitorText":"Cardinals turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Keith Stone, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Konstantin Kulikov, Charles Brown III, Keaton Hervey, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-4",
+							 "time":"16:40",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:26",
+							 "visitorText":"Keaton Hervey turnover (lost ball) (Keith Stone steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:13",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:11",
+							 "visitorText":"Shawn Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:04",
+							 "visitorText":"Charles Brown III misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:02",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:51",
+							 "visitorText":"Charles Brown III defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:29",
+							 "visitorText":"Keaton Hervey misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"Cardinals offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:24",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Simi Socks, Keaton Hervey, Konstantin Kulikov, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-4",
+							 "time":"15:21",
+							 "visitorText":"Shawn Johnson makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson shooting foul (Shawn Johnson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Keith Stone)"
+							 },
+							 {
+							 "score":"5-4",
+							 "time":"15:21",
+							 "visitorText":"Shawn Johnson makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-6",
+							 "time":"15:03",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point layup"
+							 },
+							 {
+							 "score":"8-6",
+							 "time":"14:49",
+							 "visitorText":"Jalin Hart makes three point jump shot (Shawn Johnson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:34",
+							 "visitorText":"Shawn Johnson shooting foul (Keith Stone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-7",
+							 "time":"14:34",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:34",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Simi Socks, Keaton Hervey, Christian Peevy, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:34",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Mike Okauru, Gorjok Gak, Keith Stone)"
+							 },
+							 {
+							 "score":"8-8",
+							 "time":"14:34",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:13",
+							 "visitorText":"Jalin Hart turnover (lost ball) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:04",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:02",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"8-10",
+							 "time":"13:56",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:27",
+							 "visitorText":"Jalin Hart turnover (bad pass) (Mike Okauru steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:27",
+							 "visitorText":"Jalin Hart personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:27",
+							 "visitorText":"Cardinals lineup change (Cody Graham, Simi Socks, Christian Peevy, Keaton Hervey, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-13",
+							 "time":"13:14",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot"
+							 },
+							 {
+							 "score":"10-13",
+							 "time":"12:56",
+							 "visitorText":"Simi Socks makes two point jump shot (Cody Graham assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-15",
+							 "time":"12:40",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak makes two point dunk (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"12-15",
+							 "time":"12:19",
+							 "visitorText":"Simi Socks makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-18",
+							 "time":"11:59",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"14-18",
+							 "time":"11:39",
+							 "visitorText":"Shawn Johnson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Deaundrae Ballard, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:25",
+							 "visitorText":"Cardinals lineup change (Sam Burmeister, Simi Socks, Christian Peevy, Jalin Hart, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"Cardinals lineup change (Sam Burmeister, Simi Socks, Charles Brown III, Jalin Hart, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"14-20",
+							 "time":"11:15",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point layup (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"Christian Peevy shooting foul (Kevarrius Hayes draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:15",
+							 "visitorText":"Simi Socks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:48",
+							 "visitorText":"Charles Brown III misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:46",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:34",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:32",
+							 "visitorText":"Simi Socks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-20",
+							 "time":"10:25",
+							 "visitorText":"Sam Burmeister makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"Shawn Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:40",
+							 "visitorText":"Charles Brown III misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:38",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:20",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:18",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:12",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"Jalin Hart personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"Cardinals lineup change (Sam Burmeister, Konstantin Kulikov, Charles Brown III, Jalin Hart, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:11",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:08",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:06",
+							 "visitorText":"Sam Burmeister defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:56",
+							 "visitorText":"Konstantin Kulikov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:54",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:31",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"Charles Brown III defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-20",
+							 "time":"8:14",
+							 "visitorText":"Charles Brown III makes three point jump shot (Konstantin Kulikov assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:54",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"19-23",
+							 "time":"7:44",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:31",
+							 "visitorText":"Sam Burmeister turnover (bad pass) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"Jalin Hart shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"Cardinals lineup change (Augustine Ene, Cody Graham, Sam Burmeister, Konstantin Kulikov, Simi Socks)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:28",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-24",
+							 "time":"7:28",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"19-25",
+							 "time":"7:28",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"Konstantin Kulikov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:02",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:48",
+							 "visitorText":"Cody Graham defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:38",
+							 "visitorText":"Konstantin Kulikov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:36",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:36",
+							 "visitorText":"",
+							 "homeText":"Augustine Ene blocks KeVaughn Allen's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:30",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:29",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:28",
+							 "visitorText":"Sam Burmeister defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-25",
+							 "time":"6:18",
+							 "visitorText":"Simi Socks makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:01",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:54",
+							 "visitorText":"Cardinals defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:50",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:50",
+							 "visitorText":"Sam Burmeister turnover (lost ball) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:37",
+							 "visitorText":"Konstantin Kulikov shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-26",
+							 "time":"5:37",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:37",
+							 "visitorText":"Cardinals lineup change (Simi Socks, Cody Graham, Augustine Ene, Keaton Hervey, Konstantin Kulikov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-27",
+							 "time":"5:37",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:25",
+							 "visitorText":"Cody Graham misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:23",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:16",
+							 "visitorText":"Konstantin Kulikov shooting foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-28",
+							 "time":"5:16",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:16",
+							 "visitorText":"Cardinals lineup change (Simi Socks, Cody Graham, Augustine Ene, Keaton Hervey, Charles Brown III)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-29",
+							 "time":"5:16",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:00",
+							 "visitorText":"Cardinals 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"Keaton Hervey misses two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"Simi Socks offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:43",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"Keaton Hervey misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:33",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"Cardinals lineup change (Simi Socks, Cody Graham, Shawn Johnson, Charles Brown III, Keaton Hervey)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:21",
+							 "visitorText":"Cardinals defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"Kevarrius Hayes blocks Simi Socks's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"Simi Socks offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"Keaton Hervey turnover (lost ball) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"21-31",
+							 "time":"3:49",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"23-31",
+							 "time":"3:40",
+							 "visitorText":"Simi Socks makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-33",
+							 "time":"3:21",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point jump shot"
+							 },
+							 {
+							 "score":"26-33",
+							 "time":"3:02",
+							 "visitorText":"Charles Brown III makes three point jump shot (Simi Socks assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:47",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"26-35",
+							 "time":"2:39",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul (Simi Socks draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Gorjok Gak, Egor Koulechov, Mike Okauru, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Cardinals lineup change (Christian Peevy, Cody Graham, Charles Brown III, Keaton Hervey, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Simi Socks misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Cardinals rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-35",
+							 "time":"2:21",
+							 "visitorText":"Simi Socks makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:13",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:11",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:02",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak turnover (lost ball) (Shawn Johnson steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul (Keaton Hervey draws the foul)"
+							 },
+							 {
+							 "score":"28-35",
+							 "time":"1:48",
+							 "visitorText":"Keaton Hervey makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-35",
+							 "time":"1:48",
+							 "visitorText":"Keaton Hervey makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:32",
+							 "visitorText":"Keaton Hervey defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-35",
+							 "time":"1:12",
+							 "visitorText":"Christian Peevy makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"Cody Graham personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-36",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"31-37",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"Christian Peevy turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"Cardinals lineup change (Simi Socks, Cody Graham, Charles Brown III, Keaton Hervey, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:34",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Shawn Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:11",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:11",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Mike Okauru, Kevarrius Hayes, Keith Stone)"
+							 },
+							 {
+							 "score":"34-37",
+							 "time":"00:01",
+							 "visitorText":"Shawn Johnson makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Charles Brown III, Keaton Hervey, Simi Socks, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Chris Chiozza, KeVaughn Allen, Kevarrius Hayes, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Cardinals",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-37",
+							 "time":"19:43",
+							 "visitorText":"Charles Brown III makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:43",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul"
+							 },
+							 {
+							 "score":"37-37",
+							 "time":"19:43",
+							 "visitorText":"Charles Brown III makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:36",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:34",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"37-39",
+							 "time":"19:32",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:25",
+							 "visitorText":"Gorjok Gak blocks Charles Brown III's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:23",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:18",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:16",
+							 "visitorText":"Jalin Hart defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"Charles Brown III turnover (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-42",
+							 "time":"18:37",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:13",
+							 "visitorText":"Jalin Hart misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:11",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"37-45",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point jump shot (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:00",
+							 "visitorText":"Cardinals 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:45",
+							 "visitorText":"Simi Socks turnover (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:41",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:36",
+							 "visitorText":"Cardinals defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:16",
+							 "visitorText":"Simi Socks turnover (Egor Koulechov steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:10",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (Charles Brown III steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza shooting foul (Simi Socks draws the foul)"
+							 },
+							 {
+							 "score":"38-45",
+							 "time":"17:05",
+							 "visitorText":"Simi Socks makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-45",
+							 "time":"17:05",
+							 "visitorText":"Simi Socks makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Konstantin Kulikov, Charles Brown III, Keaton Hervey, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Mike Okauru, Gorjok Gak)"
+							 },
+							 {
+							 "score":"39-48",
+							 "time":"16:52",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:27",
+							 "visitorText":"Konstantin Kulikov turnover (Mike Okauru steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:23",
+							 "visitorText":"Cardinals defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Charles Brown III, Sam Burmeister, Konstantin Kulikov, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:20",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:03",
+							 "visitorText":"Konstantin Kulikov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:01",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"39-51",
+							 "time":"15:52",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes three point jump shot (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:38",
+							 "visitorText":"Konstantin Kulikov turnover (Jalen Hudson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:31",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:29",
+							 "visitorText":"Charles Brown III defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-51",
+							 "time":"15:25",
+							 "visitorText":"Sam Burmeister makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:17",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:15",
+							 "visitorText":"Shawn Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:06",
+							 "visitorText":"Charles Brown III misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:04",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:58",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:56",
+							 "visitorText":"Sam Burmeister defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Charles Brown III turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Keith Stone, Kevarrius Hayes, KeVaughn Allen, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:51",
+							 "visitorText":"Cardinals lineup change (Christian Peevy, Charles Brown III, Sam Burmeister, Cody Graham, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:44",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:42",
+							 "visitorText":"Shawn Johnson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-51",
+							 "time":"14:14",
+							 "visitorText":"Sam Burmeister makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:51",
+							 "visitorText":"Cardinals defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:43",
+							 "visitorText":"Christian Peevy defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:43",
+							 "visitorText":"Cardinals lineup change (Christian Peevy, Cody Graham, Simi Socks, Sam Burmeister, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:37",
+							 "visitorText":"Shawn Johnson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:37",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:12",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak turnover (Cody Graham steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:09",
+							 "visitorText":"Cody Graham turnover (bad pass) (Keith Stone steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:03",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (bad pass) (Simi Socks steals)"
+							 },
+							 {
+							 "score":"46-51",
+							 "time":"12:54",
+							 "visitorText":"Cody Graham makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"Sam Burmeister personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Gorjok Gak, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (Simi Socks steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"Cardinals turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"Cardinals lineup change (Simi Socks, Charles Brown III, Cody Graham, Sam Burmeister, Keaton Hervey)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Chris Chiozza, Egor Koulechov, Keith Stone)"
+							 },
+							 {
+							 "score":"46-53",
+							 "time":"11:45",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"Christian Peevy shooting foul (Keith Stone draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-54",
+							 "time":"11:45",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:28",
+							 "visitorText":"Simi Socks offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:28",
+							 "visitorText":"Simi Socks turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:20",
+							 "visitorText":"Charles Brown III personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-56",
+							 "time":"10:58",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"Keaton Hervey turnover (Mike Okauru steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-58",
+							 "time":"10:37",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"",
+							 "homeText":"Keith Stone shooting foul (Keaton Hervey draws the foul)"
+							 },
+							 {
+							 "score":"47-58",
+							 "time":"10:06",
+							 "visitorText":"Keaton Hervey makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-58",
+							 "time":"10:06",
+							 "visitorText":"Keaton Hervey makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-61",
+							 "time":"9:49",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:30",
+							 "visitorText":"Cody Graham turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-64",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes three point jump shot (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:08",
+							 "visitorText":"Cody Graham turnover (Jalen Hudson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-66",
+							 "time":"9:08",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:08",
+							 "visitorText":"Keaton Hervey shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:08",
+							 "visitorText":"Cardinals lineup change (Simi Socks, Christian Peevy, Jalin Hart, Keaton Hervey, Sam Burmeister)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-67",
+							 "time":"9:08",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:46",
+							 "visitorText":"Cardinals turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:33",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:26",
+							 "visitorText":"Simi Socks shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:26",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:26",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:26",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Augustine Ene, Christian Peevy, Konstantin Kulikov, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-68",
+							 "time":"8:26",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:08",
+							 "visitorText":"Augustine Ene misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:06",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:58",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:56",
+							 "visitorText":"Augustine Ene defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-68",
+							 "time":"7:46",
+							 "visitorText":"Konstantin Kulikov makes two point layup (Charles Brown III assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:27",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:27",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:27",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, KeVaughn Allen, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:06",
+							 "visitorText":"Charles Brown III turnover (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:55",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"50-70",
+							 "time":"6:53",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"Augustine Ene shooting foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"50-71",
+							 "time":"6:53",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"52-71",
+							 "time":"6:36",
+							 "visitorText":"Konstantin Kulikov makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:23",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:21",
+							 "visitorText":"Charles Brown III defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:00",
+							 "visitorText":"Konstantin Kulikov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:58",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"52-73",
+							 "time":"5:51",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Christian Peevy, Augustine Ene, Simi Socks, Shawn Johnson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:34",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul (Jalin Hart draws the foul)"
+							 },
+							 {
+							 "score":"53-73",
+							 "time":"5:34",
+							 "visitorText":"Jalin Hart makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-73",
+							 "time":"5:34",
+							 "visitorText":"Jalin Hart makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:12",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes turnover (Jalin Hart steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:12",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Chris Chiozza, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:04",
+							 "visitorText":"Shawn Johnson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:02",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"Cardinals defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:44",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:44",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Simi Socks, Christian Peevy, Keaton Hervey, Sam Burmeister)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Keith Stone, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:29",
+							 "visitorText":"Simi Socks misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:29",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:23",
+							 "visitorText":"Keaton Hervey shooting foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"54-74",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"54-75",
+							 "time":"4:23",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"56-75",
+							 "time":"3:55",
+							 "visitorText":"Jalin Hart makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:33",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"Simi Socks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:18",
+							 "visitorText":"Simi Socks turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:18",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:18",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, KeVaughn Allen, Jalen Hudson, Gorjok Gak, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:57",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak turnover (Sam Burmeister steals)"
+							 },
+							 {
+							 "score":"58-75",
+							 "time":"2:45",
+							 "visitorText":"Charles Brown III makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:45",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:45",
+							 "visitorText":"Charles Brown III misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:45",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:17",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:15",
+							 "visitorText":"Keaton Hervey defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:00",
+							 "visitorText":"Keaton Hervey misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:58",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Gorjok Gak, Dontay Bassett)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:53",
+							 "visitorText":"Cardinals lineup change (Jalin Hart, Simi Socks, Christian Peevy, Keaton Hervey, Jorden Kite)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:32",
+							 "visitorText":"Jorden Kite misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:30",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:13",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru turnover (traveling)"
+							 },
+							 {
+							 "score":"60-75",
+							 "time":"00:58",
+							 "visitorText":"Devin Wyatt makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Andrew Fava turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"Devin Wyatt misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"",
+							 "homeText":"Andrew Fava defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

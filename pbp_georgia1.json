@@ -1,0 +1,2089 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Georgia vs Florida",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "53",
+				"seoName": "georgia",
+				"sixCharAbbr": "UGA",
+				"shortName": "Georgia",	
+				"nickName": "Bulldogs",		
+				"color": "#CC0000"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes vs. Derek Ogbeide (Juwan Parker gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:44",
+							 "visitorText":"",
+							 "homeText":"E'Torrion Wilridge turnover (bad pass) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"19:39",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:17",
+							 "visitorText":"",
+							 "homeText":"Bulldogs 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:10",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:08",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:46",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:44",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:35",
+							 "visitorText":"",
+							 "homeText":"Yante Maten misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:33",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-0",
+							 "time":"18:27",
+							 "visitorText":"Chris Chiozza makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-3",
+							 "time":"17:56",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:42",
+							 "visitorText":"Chris Chiozza turnover (back court violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:32",
+							 "visitorText":"",
+							 "homeText":"William Jackson II misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:30",
+							 "visitorText":"",
+							 "homeText":"Yante Maten offensive rebound"
+							 },
+							 {
+							 "score":"5-5",
+							 "time":"17:27",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:11",
+							 "visitorText":"KeVaughn Allen misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"",
+							 "homeText":"Derek Ogbeide defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:49",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"Gators defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Yante Maten, Juwan Parker, E'Torrion Wilridge, Nicolas Claxton)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:19",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:17",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker personal foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"8-5",
+							 "time":"16:16",
+							 "visitorText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"",
+							 "homeText":"Yante Maten misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:52",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton offensive rebound"
+							 },
+							 {
+							 "score":"8-7",
+							 "time":"15:44",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes two point jump shot"
+							 },
+							 {
+							 "score":"11-7",
+							 "time":"15:31",
+							 "visitorText":"Chris Chiozza makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:12",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen blocks Juwan Parker's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:10",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:58",
+							 "visitorText":"",
+							 "homeText":"E'Torrion Wilridge defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:38",
+							 "visitorText":"",
+							 "homeText":"Yante Maten misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:36",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton offensive rebound"
+							 },
+							 {
+							 "score":"11-10",
+							 "time":"14:31",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker makes three point jump shot (Yante Maten assists)"
+							 },
+							 {
+							 "score":"13-10",
+							 "time":"14:06",
+							 "visitorText":"Kevarrius Hayes makes two point dunk (Keith Stone assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"",
+							 "homeText":"Yante Maten offensive foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"",
+							 "homeText":"Yante Maten turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:45",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Yante Maten, Juwan Parker, Rayshaun Hammonds, Nicolas Claxton)"
+							 },
+							 {
+							 "score":"15-10",
+							 "time":"13:34",
+							 "visitorText":"Egor Koulechov makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-12",
+							 "time":"13:15",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes two point layup (Rayshaun Hammonds assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:58",
+							 "visitorText":"Kevarrius Hayes misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:56",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:56",
+							 "visitorText":"Kevarrius Hayes personal foul (Rayshaun Hammonds draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:56",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Dontay Bassett)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:41",
+							 "visitorText":"",
+							 "homeText":"Yante Maten turnover (traveling)"
+							 },
+							 {
+							 "score":"17-12",
+							 "time":"12:32",
+							 "visitorText":"Egor Koulechov makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:12",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:10",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:08",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:06",
+							 "visitorText":"",
+							 "homeText":"Bulldogs offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:54",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds offensive rebound"
+							 },
+							 {
+							 "score":"17-14",
+							 "time":"11:36",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker makes two point jump shot"
+							 },
+							 {
+							 "score":"20-14",
+							 "time":"11:21",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:57",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:55",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:36",
+							 "visitorText":"Jalen Hudson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:34",
+							 "visitorText":"Dontay Bassett offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:34",
+							 "visitorText":"Dontay Bassett misses two point putback dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:32",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:17",
+							 "visitorText":"",
+							 "homeText":"William Jackson II misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"Jalen Hudson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"",
+							 "homeText":"Bulldogs defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Dontay Bassett, Deaundrae Ballard, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:05",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Jordan Harris, Rayshaun Hammonds, Mike Edwards, Derek Ogbeide)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:42",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett blocks Rayshaun Hammonds's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:40",
+							 "visitorText":"",
+							 "homeText":"William Jackson II offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:37",
+							 "visitorText":"",
+							 "homeText":"William Jackson II misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:35",
+							 "visitorText":"Deaundrae Ballard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:25",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:23",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds defensive rebound"
+							 },
+							 {
+							 "score":"20-16",
+							 "time":"9:01",
+							 "visitorText":"",
+							 "homeText":"Derek Ogbeide makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:59",
+							 "visitorText":"Dontay Bassett shooting foul (Derek Ogbeide draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:59",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:59",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (Yante Maten, Jordan Harris, Tyree Crump, Rayshaun Hammonds, Derek Ogbeide)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:59",
+							 "visitorText":"",
+							 "homeText":"Derek Ogbeide misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:59",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:53",
+							 "visitorText":"Jalen Hudson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:51",
+							 "visitorText":"Gorjok Gak offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"22-16",
+							 "time":"8:51",
+							 "visitorText":"Gorjok Gak makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"",
+							 "homeText":"Yante Maten misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"",
+							 "homeText":"Bulldogs offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:24",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:22",
+							 "visitorText":"",
+							 "homeText":"Yante Maten offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"Gorjok Gak personal foul (Yante Maten draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:09",
+							 "visitorText":"",
+							 "homeText":"Yante Maten misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:07",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds offensive rebound"
+							 },
+							 {
+							 "score":"22-18",
+							 "time":"8:07",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds makes two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"Jalen Hudson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:41",
+							 "visitorText":"",
+							 "homeText":"Yante Maten defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Bulldogs turnover (shot clock violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:08",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds shooting foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"23-18",
+							 "time":"6:46",
+							 "visitorText":"Egor Koulechov makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (Yante Maten, Jordan Harris, Juwan Parker, Tyree Crump, Derek Ogbeide)"
+							 },
+							 {
+							 "score":"24-18",
+							 "time":"6:46",
+							 "visitorText":"Egor Koulechov makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:29",
+							 "visitorText":"Keith Stone personal foul (Yante Maten draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-21",
+							 "time":"6:25",
+							 "visitorText":"",
+							 "homeText":"Tyree Crump makes three point jump shot (Juwan Parker assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"Deaundrae Ballard shooting foul (Jordan Harris draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-22",
+							 "time":"6:03",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (Jordan Harris, Juwan Parker, Tyree Crump, Mike Edwards, Derek Ogbeide)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:03",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-22",
+							 "time":"5:43",
+							 "visitorText":"Gorjok Gak makes two point layup (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-25",
+							 "time":"5:28",
+							 "visitorText":"",
+							 "homeText":"Tyree Crump makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:10",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:08",
+							 "visitorText":"",
+							 "homeText":"Tyree Crump defensive rebound"
+							 },
+							 {
+							 "score":"26-28",
+							 "time":"5:01",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker makes three point jump shot (Derek Ogbeide assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:59",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:59",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Gorjok Gak, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:45",
+							 "visitorText":"",
+							 "homeText":"Bulldogs defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:24",
+							 "visitorText":"",
+							 "homeText":"Tyree Crump misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:22",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris personal foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Yante Maten, Jordan Harris, Juwan Parker, Mike Edwards)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"Kevarrius Hayes turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-31",
+							 "time":"3:28",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes three point jump shot (Yante Maten assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:58",
+							 "visitorText":"Egor Koulechov offensive foul (Juwan Parker draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:58",
+							 "visitorText":"Egor Koulechov turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-33",
+							 "time":"2:42",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes two point dunk (Juwan Parker assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:41",
+							 "visitorText":"Official timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:41",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:27",
+							 "visitorText":"Jalen Hudson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"Kevarrius Hayes offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris personal foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Yante Maten, Juwan Parker, Rayshaun Hammonds, Mike Edwards)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"Egor Koulechov turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds offensive foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:09",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Yante Maten, Juwan Parker, E'Torrion Wilridge, Mike Edwards)"
+							 },
+							 {
+							 "score":"28-33",
+							 "time":"1:47",
+							 "visitorText":"Kevarrius Hayes makes two point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:47",
+							 "visitorText":"",
+							 "homeText":"William Jackson II shooting foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"29-33",
+							 "time":"1:47",
+							 "visitorText":"Kevarrius Hayes makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:47",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:47",
+							 "visitorText":"Mike Okauru personal foul (William Jackson II draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-34",
+							 "time":"1:47",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"29-35",
+							 "time":"1:47",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"Kevarrius Hayes turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:07",
+							 "visitorText":"Keith Stone personal foul (Yante Maten draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-36",
+							 "time":"1:07",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:07",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-37",
+							 "time":"1:07",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"32-37",
+							 "time":"00:58",
+							 "visitorText":"Chris Chiozza makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:28",
+							 "visitorText":"",
+							 "homeText":"Yante Maten misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Mike Edwards personal foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Yante Maten, Juwan Parker, Tyree Crump, E'Torrion Wilridge)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"Egor Koulechov misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"",
+							 "homeText":"Yante Maten defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Yante Maten, Juwan Parker, E'Torrion Wilridge, Derek Ogbeide)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Gators",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-37",
+							 "time":"19:37",
+							 "visitorText":"Jalen Hudson makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:10",
+							 "visitorText":"",
+							 "homeText":"Derek Ogbeide misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:08",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-37",
+							 "time":"19:03",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:36",
+							 "visitorText":"Kevarrius Hayes kicked ball violation",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-39",
+							 "time":"18:27",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes two point layup"
+							 },
+							 {
+							 "score":"39-39",
+							 "time":"18:13",
+							 "visitorText":"KeVaughn Allen makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:55",
+							 "visitorText":"",
+							 "homeText":"Yante Maten turnover (traveling)"
+							 },
+							 {
+							 "score":"42-39",
+							 "time":"17:50",
+							 "visitorText":"Jalen Hudson makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:23",
+							 "visitorText":"",
+							 "homeText":"Derek Ogbeide misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:21",
+							 "visitorText":"",
+							 "homeText":"Yante Maten offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:17",
+							 "visitorText":"",
+							 "homeText":"William Jackson II misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:15",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-39",
+							 "time":"17:06",
+							 "visitorText":"KeVaughn Allen makes two point dunk (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:52",
+							 "visitorText":"",
+							 "homeText":"Bulldogs 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:52",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Juwan Parker, Rayshaun Hammonds, Mike Edwards, Nicolas Claxton)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:36",
+							 "visitorText":"",
+							 "homeText":"Mike Edwards misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:34",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:29",
+							 "visitorText":"KeVaughn Allen personal foul (Juwan Parker draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-41",
+							 "time":"16:07",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"Kevarrius Hayes misses two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds defensive rebound"
+							 },
+							 {
+							 "score":"44-43",
+							 "time":"15:33",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker makes two point jump shot"
+							 },
+							 {
+							 "score":"46-43",
+							 "time":"15:05",
+							 "visitorText":"KeVaughn Allen makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:44",
+							 "visitorText":"",
+							 "homeText":"Rayshaun Hammonds misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:40",
+							 "visitorText":"",
+							 "homeText":"Bulldogs offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:40",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:40",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Keith Stone, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:40",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (William Jackson II, Jordan Harris, Juwan Parker, Mike Edwards, Nicolas Claxton)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:13",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:11",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:58",
+							 "visitorText":"Jalen Hudson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:56",
+							 "visitorText":"Gorjok Gak offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-43",
+							 "time":"13:52",
+							 "visitorText":"Keith Stone makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:28",
+							 "visitorText":"",
+							 "homeText":"William Jackson II misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:26",
+							 "visitorText":"",
+							 "homeText":"William Jackson II offensive rebound"
+							 },
+							 {
+							 "score":"48-46",
+							 "time":"13:06",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton makes three point jump shot (Juwan Parker assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:43",
+							 "visitorText":"Jalen Hudson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:41",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:33",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:31",
+							 "visitorText":"",
+							 "homeText":"Mike Edwards offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"",
+							 "homeText":"Mike Edwards misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:28",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:21",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:19",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris defensive rebound"
+							 },
+							 {
+							 "score":"48-48",
+							 "time":"12:06",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"Nicolas Claxton blocks Gorjok Gak's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:35",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"Keith Stone personal foul (Nicolas Claxton draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Gorjok Gak, Deaundrae Ballard)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (Yante Maten, Jordan Harris, Tyree Crump, E'Torrion Wilridge, Nicolas Claxton)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"",
+							 "homeText":"Bulldogs rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:16",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris personal foul (Gorjok Gak draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:12",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (Yante Maten, Jordan Harris, Tyree Crump, E'Torrion Wilridge, Derek Ogbeide)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:58",
+							 "visitorText":"Yante Maten blocks Egor Koulechov's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:57",
+							 "visitorText":"Gators offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-48",
+							 "time":"10:50",
+							 "visitorText":"Jalen Hudson makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-50",
+							 "time":"10:30",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes two point layup (Jordan Harris assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:22",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:20",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris defensive rebound"
+							 },
+							 {
+							 "score":"51-52",
+							 "time":"10:01",
+							 "visitorText":"",
+							 "homeText":"Derek Ogbeide makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:34",
+							 "visitorText":"Deaundrae Ballard misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:32",
+							 "visitorText":"",
+							 "homeText":"Tyree Crump defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:17",
+							 "visitorText":"",
+							 "homeText":"Tyree Crump misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:15",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:56",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:54",
+							 "visitorText":"",
+							 "homeText":"Derek Ogbeide defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:38",
+							 "visitorText":"",
+							 "homeText":"E'Torrion Wilridge misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:36",
+							 "visitorText":"Deaundrae Ballard defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:12",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:10",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:49",
+							 "visitorText":"",
+							 "homeText":"Tyree Crump misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:47",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:16",
+							 "visitorText":"",
+							 "homeText":"E'Torrion Wilridge defensive rebound"
+							 },
+							 {
+							 "score":"51-54",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes two point jump shot (Tyree Crump assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Egor Koulechov shooting foul (Yante Maten draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (Yante Maten, Jordan Harris, Juwan Parker, Tyree Crump, Nicolas Claxton)"
+							 },
+							 {
+							 "score":"51-55",
+							 "time":"7:00",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:33",
+							 "visitorText":"KeVaughn Allen misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:31",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton defensive rebound"
+							 },
+							 {
+							 "score":"51-57",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton makes two point layup (Tyree Crump assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:09",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:53",
+							 "visitorText":"Nicolas Claxton blocks Chris Chiozza's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:51",
+							 "visitorText":"Chris Chiozza offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:51",
+							 "visitorText":"Chris Chiozza misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:49",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:32",
+							 "visitorText":"",
+							 "homeText":"Keith Stone blocks Yante Maten's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:30",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton shooting foul (Egor Koulechov draws the foul)"
+							 },
+							 {
+							 "score":"52-57",
+							 "time":"5:18",
+							 "visitorText":"Egor Koulechov makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-57",
+							 "time":"5:18",
+							 "visitorText":"Egor Koulechov makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:18",
+							 "visitorText":"",
+							 "homeText":"Bulldogs lineup change (Yante Maten, Jordan Harris, Juwan Parker, William Jackson II, Nicolas Claxton)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:07",
+							 "visitorText":"KeVaughn Allen kicked ball violation",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-60",
+							 "time":"4:53",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes three point jump shot (William Jackson II assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:33",
+							 "visitorText":"Jalen Hudson misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:31",
+							 "visitorText":"Egor Koulechov misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:29",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"",
+							 "homeText":"William Jackson II misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:58",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:47",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:46",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:44",
+							 "visitorText":"",
+							 "homeText":"Yante Maten defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:15",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:13",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:07",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris personal foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:07",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:07",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:54",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"Yante Maten defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:39",
+							 "visitorText":"Egor Koulechov personal foul (Yante Maten draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:39",
+							 "visitorText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:27",
+							 "visitorText":"Kevarrius Hayes personal foul (Yante Maten draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:08",
+							 "visitorText":"",
+							 "homeText":"Yante Maten offensive foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:08",
+							 "visitorText":"",
+							 "homeText":"Yante Maten turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:49",
+							 "visitorText":"Jalen Hudson offensive foul (Juwan Parker draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:49",
+							 "visitorText":"Jalen Hudson turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:41",
+							 "visitorText":"",
+							 "homeText":"Bulldogs 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:35",
+							 "visitorText":"Chris Chiozza personal foul (William Jackson II draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-61",
+							 "time":"1:35",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:35",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-62",
+							 "time":"1:35",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:31",
+							 "visitorText":"Nicolas Claxton blocks Chris Chiozza's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:29",
+							 "visitorText":"",
+							 "homeText":"William Jackson II defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"Chris Chiozza personal foul (William Jackson II draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-63",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"53-64",
+							 "time":"1:23",
+							 "visitorText":"",
+							 "homeText":"William Jackson II makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:16",
+							 "visitorText":"KeVaughn Allen misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"Egor Koulechov personal foul (Jordan Harris draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-65",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"53-66",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"56-66",
+							 "time":"1:07",
+							 "visitorText":"Keith Stone makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Bulldogs turnover (5-second violation)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:02",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:56",
+							 "visitorText":"Jalen Hudson personal foul (Jordan Harris draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"56-67",
+							 "time":"00:56",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"56-68",
+							 "time":"00:56",
+							 "visitorText":"",
+							 "homeText":"Jordan Harris makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:53",
+							 "visitorText":"",
+							 "homeText":"William Jackson II personal foul (Chris Chiozza draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:52",
+							 "visitorText":"",
+							 "homeText":"Nicolas Claxton personal foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"Keith Stone misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-68",
+							 "time":"00:46",
+							 "visitorText":"Egor Koulechov makes two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:46",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"Jalen Hudson personal foul (Juwan Parker draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-69",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-70",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"Juwan Parker makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"60-70",
+							 "time":"00:38",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:38",
+							 "visitorText":"Chris Chiozza personal foul (Yante Maten draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-71",
+							 "time":"00:38",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"60-72",
+							 "time":"00:38",
+							 "visitorText":"",
+							 "homeText":"Yante Maten makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"",
+							 "homeText":"Jump ball.  (Bulldogs gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"Keith Stone turnover (lost ball) (William Jackson II steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Dontay Bassett, Deaundrae Ballard, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

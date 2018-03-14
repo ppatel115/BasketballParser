@@ -1,0 +1,2293 @@
+callbackWrapper({
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Florida vs Clemson",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "722",
+				"seoName": "clemson",
+				"sixCharAbbr": "CLEM",
+				"shortName": "Clemson",	
+				"nickName": "Tigers",		
+				"color": "#F66733"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Elijah Thomas vs. Keith Stone (Shelton Mitchell gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:49",
+							 "visitorText":"Donte Grantham misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:47",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:27",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (lost ball) (Gabe DeVoe steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:20",
+							 "visitorText":"KeVaughn Allen blocks Marcquise Reed's three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:18",
+							 "visitorText":"Tigers offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:11",
+							 "visitorText":"Shelton Mitchell misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:09",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:03",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:01",
+							 "visitorText":"Elijah Thomas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:38",
+							 "visitorText":"Marcquise Reed turnover (bad pass) (KeVaughn Allen steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:34",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:32",
+							 "visitorText":"Marcquise Reed defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:32",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:32",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:19",
+							 "visitorText":"Elijah Thomas misses two point hook shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:17",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:00",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:44",
+							 "visitorText":"Gabe DeVoe misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:42",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:28",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:26",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:15",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point fadeaway jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:13",
+							 "visitorText":"Elijah Thomas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-0",
+							 "time":"17:03",
+							 "visitorText":"Donte Grantham makes two point dunk (Elijah Thomas assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"2-3",
+							 "time":"16:54",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:21",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak)"
+							 },
+							 {
+							 "score":"4-3",
+							 "time":"16:17",
+							 "visitorText":"Marcquise Reed makes two point reverse layup (Donte Grantham assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-5",
+							 "time":"15:59",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:32",
+							 "visitorText":"Elijah Thomas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:30",
+							 "visitorText":"Elijah Thomas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:30",
+							 "visitorText":"Elijah Thomas misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Shelton Mitchell, Mark Donnal, David Skara, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Deaundrae Ballard, Keith Stone, Chris Chiozza, Gorjok Gak)"
+							 },
+							 {
+							 "score":"4-7",
+							 "time":"15:19",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point driving dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:50",
+							 "visitorText":"David Skara turnover (lost ball) (Jalen Hudson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"4-10",
+							 "time":"14:35",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"",
+							 "homeText":"Keith Stone shooting foul (Shelton Mitchell draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"Shelton Mitchell misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"Tigers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Shelton Mitchell, Mark Donnal, David Skara, Aamir Simms)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"Shelton Mitchell misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:02",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (bad pass) (Shelton Mitchell steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:46",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:46",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Gabe DeVoe, Mark Donnal, David Skara, Aamir Simms)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-10",
+							 "time":"13:35",
+							 "visitorText":"Mark Donnal makes three point jump shot (Marcquise Reed assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:18",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:18",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, KeVaughn Allen, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"9-10",
+							 "time":"13:09",
+							 "visitorText":"Marcquise Reed makes two point layup (Aamir Simms assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:48",
+							 "visitorText":"Aamir Simms defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:39",
+							 "visitorText":"Gabe DeVoe misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:37",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:28",
+							 "visitorText":"Aamir Simms defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"Marcquise Reed turnover (bad pass) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:10",
+							 "visitorText":"Mark Donnal personal foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"Aamir Simms shooting foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"Tigers lineup change (Donte Grantham, Elijah Thomas, Gabe DeVoe, David Skara, Shelton Mitchell)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:04",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Deaundrae Ballard, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"9-11",
+							 "time":"12:04",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:45",
+							 "visitorText":"Elijah Thomas misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:43",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:35",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:29",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:27",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"David Skara shooting foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Gabe DeVoe, Elijah Thomas, David Skara, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"9-12",
+							 "time":"11:21",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"Elijah Thomas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"11-12",
+							 "time":"11:05",
+							 "visitorText":"Marcquise Reed makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:44",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:42",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"11-15",
+							 "time":"10:38",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:08",
+							 "visitorText":"Elijah Thomas misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:06",
+							 "visitorText":"Donte Grantham offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:00",
+							 "visitorText":"Donte Grantham misses two point putback layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:58",
+							 "visitorText":"Elijah Thomas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-15",
+							 "time":"9:52",
+							 "visitorText":"Donte Grantham makes two point dunk (Marcquise Reed assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"13-17",
+							 "time":"9:39",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"Elijah Thomas offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"Elijah Thomas turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Gabe DeVoe, Elijah Thomas, Shelton Mitchell, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Gorjok Gak, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:15",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:13",
+							 "visitorText":"Donte Grantham defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:54",
+							 "visitorText":"Elijah Thomas turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:54",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak, Mike Okauru)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Donte Grantham personal foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:24",
+							 "visitorText":"Shelton Mitchell personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:15",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (Elijah Thomas steals)"
+							 },
+							 {
+							 "score":"16-17",
+							 "time":"8:01",
+							 "visitorText":"Gabe DeVoe makes three point jump shot (Shelton Mitchell assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-20",
+							 "time":"7:51",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:35",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:35",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:35",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Chris Chiozza, Gorjok Gak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:26",
+							 "visitorText":"Donte Grantham misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:24",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:16",
+							 "visitorText":"",
+							 "homeText":"Elijah Thomas blocks Jalen Hudson's two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:14",
+							 "visitorText":"Gabe DeVoe defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:59",
+							 "visitorText":"Gabe DeVoe misses three point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:57",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:46",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru turnover (lost ball) (Marcquise Reed steals)"
+							 },
+							 {
+							 "score":"18-20",
+							 "time":"6:46",
+							 "visitorText":"Donte Grantham makes two point layup (Marcquise Reed assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:22",
+							 "visitorText":"Elijah Thomas personal foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-21",
+							 "time":"6:22",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:22",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Kevarrius Hayes, Jalen Hudson, KeVaughn Allen, Chris Chiozza, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:22",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Shelton Mitchell, Gabe DeVoe, Clyde Trapp, Mark Donnal)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-22",
+							 "time":"6:22",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"20-22",
+							 "time":"6:08",
+							 "visitorText":"Shelton Mitchell makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:53",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:51",
+							 "visitorText":"Clyde Trapp defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"Jalen Hudson blocks Shelton Mitchell's two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:42",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"20-24",
+							 "time":"5:34",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point layup (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"23-24",
+							 "time":"5:05",
+							 "visitorText":"Marcquise Reed makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"Marcquise Reed shooting foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-25",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"Tigers lineup change (Clyde Trapp, Donte Grantham, Shelton Mitchell, Mark Donnal, Gabe DeVoe)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"23-26",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"25-26",
+							 "time":"4:32",
+							 "visitorText":"Shelton Mitchell makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-28",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:35",
+							 "visitorText":"Gabe DeVoe turnover (bad pass) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"",
+							 "homeText":"Gabe DeVoe blocks Chris Chiozza's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Jalen Hudson, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Shelton Mitchell, Mark Donnal, Gabe DeVoe, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:25",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:23",
+							 "visitorText":"Gabe DeVoe defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard shooting foul (Shelton Mitchell draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"Shelton Mitchell misses regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:01",
+							 "visitorText":"Tigers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"26-28",
+							 "time":"3:01",
+							 "visitorText":"Shelton Mitchell makes regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-28",
+							 "time":"3:01",
+							 "visitorText":"Shelton Mitchell makes regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:47",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:45",
+							 "visitorText":"Gabe DeVoe defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:39",
+							 "visitorText":"Gabe DeVoe turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:39",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes, Chris Chiozza)"
+							 },
+							 {
+							 "score":"27-31",
+							 "time":"2:29",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:01",
+							 "visitorText":"Mark Donnal misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:59",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson offensive foul (Marcquise Reed draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:50",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover"
+							 },
+							 {
+							 "score":"30-31",
+							 "time":"1:38",
+							 "visitorText":"Gabe DeVoe makes three point jump shot (Marcquise Reed assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"30-34",
+							 "time":"1:21",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"32-34",
+							 "time":"00:51",
+							 "visitorText":"Gabe DeVoe makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul (Gabe DeVoe draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"Tigers lineup change (David Skara, Shelton Mitchell, Mark Donnal, Gabe DeVoe, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:50",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak)"
+							 },
+							 {
+							 "score":"33-34",
+							 "time":"00:50",
+							 "visitorText":"Gabe DeVoe makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Gabe DeVoe shooting foul (Gorjok Gak draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-35",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Tigers lineup change (Shelton Mitchell, Marcquise Reed, Gabe DeVoe, Elijah Thomas, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:31",
+							 "visitorText":"",
+							 "homeText":"Elijah Thomas blocks Chris Chiozza's two point putback layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:29",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak offensive rebound"
+							 },
+							 {
+							 "score":"33-37",
+							 "time":"00:28",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak makes two point putback dunk"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"Tigers 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Shelton Mitchell offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Shelton Mitchell turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:15",
+							 "visitorText":"Tigers lineup change (David Skara, Shelton Mitchell, Gabe DeVoe, Aamir Simms, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-40",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point fadeaway jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Tigers lineup change (Gabe DeVoe, Marcquise Reed, Donte Grantham, Elijah Thomas, Shelton Mitchell)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Keith Stone, KeVaughn Allen, Chris Chiozza, Egor Koulechov, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Tigers",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:44",
+							 "visitorText":"Gabe DeVoe misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:42",
+							 "visitorText":"Gabe DeVoe offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"Elijah Thomas offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"Elijah Thomas turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:41",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Shelton Mitchell, Gabe DeVoe, Aamir Simms, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:18",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:16",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive rebound"
+							 },
+							 {
+							 "score":"33-42",
+							 "time":"19:04",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:48",
+							 "visitorText":"Gabe DeVoe misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:46",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:27",
+							 "visitorText":"",
+							 "homeText":"Keith Stone offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:27",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:27",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:27",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Shelton Mitchell, Gabe DeVoe, Mark Donnal, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:10",
+							 "visitorText":"Donte Grantham turnover (bad pass) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"33-44",
+							 "time":"18:04",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"35-44",
+							 "time":"17:46",
+							 "visitorText":"Gabe DeVoe makes two point turnaround jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"35-47",
+							 "time":"17:26",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Egor Koulechov assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:58",
+							 "visitorText":"Donte Grantham misses two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:56",
+							 "visitorText":"Donte Grantham offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul (Donte Grantham draws the foul)"
+							 },
+							 {
+							 "score":"36-47",
+							 "time":"16:55",
+							 "visitorText":"Donte Grantham makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:55",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Deaundrae Ballard, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"37-47",
+							 "time":"16:55",
+							 "visitorText":"Donte Grantham makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:34",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (bad pass) (Gabe DeVoe steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard shooting foul (Shelton Mitchell draws the foul)"
+							 },
+							 {
+							 "score":"38-47",
+							 "time":"16:25",
+							 "visitorText":"Shelton Mitchell makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:25",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Mike Okauru)"
+							 },
+							 {
+							 "score":"39-47",
+							 "time":"16:25",
+							 "visitorText":"Shelton Mitchell makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-49",
+							 "time":"16:03",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point fadeaway jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen shooting foul (Gabe DeVoe draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Egor Koulechov, Gorjok Gak, Chris Chiozza, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"Gabe DeVoe misses regular free throw 1 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"Tigers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"40-49",
+							 "time":"15:46",
+							 "visitorText":"Gabe DeVoe makes regular free throw 2 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"Gabe DeVoe misses regular free throw 3 of 3",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:30",
+							 "visitorText":"",
+							 "homeText":"Mark Donnal blocks Jalen Hudson's two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:28",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:25",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:23",
+							 "visitorText":"Shelton Mitchell defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-49",
+							 "time":"15:17",
+							 "visitorText":"Marcquise Reed makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:17",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak shooting foul (Marcquise Reed draws the foul)"
+							 },
+							 {
+							 "score":"43-49",
+							 "time":"15:17",
+							 "visitorText":"Marcquise Reed makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:57",
+							 "visitorText":"Tigers defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:57",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Chris Chiozza, Gorjok Gak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:46",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru shooting foul (Marcquise Reed draws the foul)"
+							 },
+							 {
+							 "score":"44-49",
+							 "time":"14:44",
+							 "visitorText":"Marcquise Reed makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"45-49",
+							 "time":"14:44",
+							 "visitorText":"Marcquise Reed makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:24",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:22",
+							 "visitorText":"Marcquise Reed defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul (Gabe DeVoe draws the foul)"
+							 },
+							 {
+							 "score":"46-49",
+							 "time":"14:18",
+							 "visitorText":"Gabe DeVoe makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"47-49",
+							 "time":"14:18",
+							 "visitorText":"Gabe DeVoe makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:18",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Jalen Hudson, KeVaughn Allen, Chris Chiozza, Gorjok Gak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (bad pass) (Mark Donnal steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"Shelton Mitchell misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:28",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:28",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"47-51",
+							 "time":"13:05",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point floating jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:40",
+							 "visitorText":"Gabe DeVoe turnover (back court violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:40",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Clyde Trapp, Mark Donnal, Gabe DeVoe, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:27",
+							 "visitorText":"Clyde Trapp defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-51",
+							 "time":"12:03",
+							 "visitorText":"Clyde Trapp makes two point pullup jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"Mark Donnal shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Keith Stone, KeVaughn Allen, Chris Chiozza, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"49-52",
+							 "time":"11:52",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:52",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard offensive rebound"
+							 },
+							 {
+							 "score":"49-54",
+							 "time":"11:33",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"Gabe DeVoe turnover (kicked ball violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:49",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (bad pass) (Gabe DeVoe steals)"
+							 },
+							 {
+							 "score":"51-54",
+							 "time":"10:31",
+							 "visitorText":"Gabe DeVoe makes two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-57",
+							 "time":"10:10",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:49",
+							 "visitorText":"Gabe DeVoe misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:47",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"51-59",
+							 "time":"9:34",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard makes two point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:24",
+							 "visitorText":"Tigers 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:24",
+							 "visitorText":"Tigers lineup change (Elijah Thomas, Shelton Mitchell, Gabe DeVoe, Donte Grantham, Marcquise Reed)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-59",
+							 "time":"9:11",
+							 "visitorText":"Donte Grantham makes two point alley-oop dunk (Shelton Mitchell assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:39",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:37",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:31",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:29",
+							 "visitorText":"Gabe DeVoe defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:21",
+							 "visitorText":"Marcquise Reed turnover (bad pass) (Deaundrae Ballard steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:14",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:12",
+							 "visitorText":"Marcquise Reed defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:07",
+							 "visitorText":"Marcquise Reed turnover (back court violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:07",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Chris Chiozza, KeVaughn Allen, Gorjok Gak, Deaundrae Ballard, Keith Stone)"
+							 },
+							 {
+							 "score":"53-61",
+							 "time":"7:56",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point jump shot (Keith Stone assists)"
+							 },
+							 {
+							 "score":"55-61",
+							 "time":"7:34",
+							 "visitorText":"Elijah Thomas makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-64",
+							 "time":"7:08",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes three point jump shot (KeVaughn Allen assists)"
+							 },
+							 {
+							 "score":"57-64",
+							 "time":"6:51",
+							 "visitorText":"Shelton Mitchell makes two point floating jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Elijah Thomas blocks Gorjok Gak's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"Gabe DeVoe shooting foul (Gorjok Gak draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Egor Koulechov, Chris Chiozza, Gorjok Gak, Deaundrae Ballard, Jalen Hudson)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:19",
+							 "visitorText":"Elijah Thomas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza shooting foul (Marcquise Reed draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"Marcquise Reed misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"Tigers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Deaundrae Ballard)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"Marcquise Reed misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:07",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:45",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, KeVaughn Allen)"
+							 },
+							 {
+							 "score":"57-66",
+							 "time":"5:40",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:27",
+							 "visitorText":"Shelton Mitchell misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:25",
+							 "visitorText":"Elijah Thomas offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:24",
+							 "visitorText":"Elijah Thomas misses two point tip shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:23",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:13",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:11",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:02",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (lost ball) (Shelton Mitchell steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul (Marcquise Reed draws the foul)"
+							 },
+							 {
+							 "score":"58-66",
+							 "time":"4:49",
+							 "visitorText":"Marcquise Reed makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:49",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, David Skara, Gabe DeVoe, Elijah Thomas, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-66",
+							 "time":"4:49",
+							 "visitorText":"Marcquise Reed makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:28",
+							 "visitorText":"David Skara defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza shooting foul (Donte Grantham draws the foul)"
+							 },
+							 {
+							 "score":"60-66",
+							 "time":"4:01",
+							 "visitorText":"Donte Grantham makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"Donte Grantham misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:53",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point driving layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:32",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:30",
+							 "visitorText":"Marcquise Reed defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-66",
+							 "time":"3:25",
+							 "visitorText":"Marcquise Reed makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:03",
+							 "visitorText":"Gabe DeVoe personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:43",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:41",
+							 "visitorText":"Gabe DeVoe defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:21",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov personal foul (Marcquise Reed draws the foul)"
+							 },
+							 {
+							 "score":"63-66",
+							 "time":"2:21",
+							 "visitorText":"Marcquise Reed makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-66",
+							 "time":"2:21",
+							 "visitorText":"Marcquise Reed makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:05",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point floating jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:03",
+							 "visitorText":"Elijah Thomas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-66",
+							 "time":"1:44",
+							 "visitorText":"Gabe DeVoe makes three point jump shot (Marcquise Reed assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:35",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:33",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:28",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:27",
+							 "visitorText":"Elijah Thomas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:27",
+							 "visitorText":"Elijah Thomas turnover (lost ball) (Chris Chiozza steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-68",
+							 "time":"1:27",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Gabe DeVoe, Elijah Thomas, Shelton Mitchell, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:26",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Keith Stone, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:14",
+							 "visitorText":"Marcquise Reed misses two point driving layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:12",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:43",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point pullup jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:41",
+							 "visitorText":"Marcquise Reed defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-68",
+							 "time":"00:33",
+							 "visitorText":"Elijah Thomas makes two point dunk (Marcquise Reed assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Gators 60 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, David Skara, Gabe DeVoe, Elijah Thomas, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Egor Koulechov)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:26",
+							 "visitorText":"David Skara personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:21",
+							 "visitorText":"Donte Grantham personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Elijah Thomas defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov personal foul (Elijah Thomas draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"Tigers 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Gabe DeVoe, Shelton Mitchell, David Skara, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-68",
+							 "time":"00:04",
+							 "visitorText":"Marcquise Reed makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-68",
+							 "time":"00:04",
+							 "visitorText":"Marcquise Reed makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"David Skara personal foul (Jalen Hudson draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"Tigers lineup change (Marcquise Reed, Elijah Thomas, Gabe DeVoe, David Skara, Donte Grantham)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Gators lineup change (Jalen Hudson, Kevarrius Hayes, KeVaughn Allen, Chris Chiozza, Keith Stone)"
+							 },
+							 {
+							 "score":"71-69",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"David Skara defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul (David Skara draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"David Skara misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"Tigers rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"David Skara misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:01",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		});

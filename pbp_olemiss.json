@@ -1,0 +1,2323 @@
+{
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Ole Miss vs Florida",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "2517",
+				"seoName": "ole-miss",
+				"sixCharAbbr": "MISS",
+				"shortName": "Ole Miss",	
+				"nickName": "Rebels",		
+				"color": "#002663"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Kevarrius Hayes vs. Dominik Olejniczak (Keith Stone gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-0",
+							 "time":"19:38",
+							 "visitorText":"Keith Stone makes three point jump shot (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:20",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:18",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:09",
+							 "visitorText":"Keith Stone turnover (bad pass) (Bruce Stevens steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-3",
+							 "time":"18:51",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes three point jump shot (Deandre Burnett assists)"
+							 },
+							 {
+							 "score":"5-3",
+							 "time":"18:32",
+							 "visitorText":"Kevarrius Hayes makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"5-5",
+							 "time":"18:09",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford makes two point jump shot (Bruce Stevens assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:52",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"6-5",
+							 "time":"17:52",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-5",
+							 "time":"17:52",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:38",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes blocks Breein Tyree's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:36",
+							 "visitorText":"Kevarrius Hayes defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:24",
+							 "visitorText":"Keith Stone misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:22",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:11",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Breein Tyree vs. Chris Chiozza (Rebels gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:11",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes, Jalen Hudson)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"7-8",
+							 "time":"17:05",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes three point jump shot (Breein Tyree assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:34",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"Kevarrius Hayes personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Breein Tyree, Markel Crawford, Bruce Stevens, Terence Davis)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:32",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:22",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:20",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:08",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:06",
+							 "visitorText":"Gorjok Gak offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:56",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:54",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:48",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:46",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:39",
+							 "visitorText":"Jalen Hudson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:37",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:23",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:21",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"9-8",
+							 "time":"15:12",
+							 "visitorText":"Jalen Hudson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"Jalen Hudson shooting foul (Deandre Burnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Mike Okauru, KeVaughn Allen, Keith Stone, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:43",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Terence Davis, Devontae Shuler, Markel Crawford, Dominik Olejniczak)"
+							 },
+							 {
+							 "score":"9-9",
+							 "time":"14:43",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"9-10",
+							 "time":"14:43",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"11-10",
+							 "time":"14:20",
+							 "visitorText":"Jalen Hudson makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:58",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford turnover (lost ball) (KeVaughn Allen steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:55",
+							 "visitorText":"Mike Okauru misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"",
+							 "homeText":"Terence Davis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:30",
+							 "visitorText":"",
+							 "homeText":"Dominik Olejniczak turnover (traveling)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"12-10",
+							 "time":"13:16",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Devontae Shuler, Deandre Burnett, Terence Davis, Bruce Stevens, Justas Furmanavicius)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"Keith Stone misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:16",
+							 "visitorText":"",
+							 "homeText":"Devontae Shuler defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:04",
+							 "visitorText":"",
+							 "homeText":"Terence Davis misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:02",
+							 "visitorText":"KeVaughn Allen defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"14-10",
+							 "time":"12:43",
+							 "visitorText":"Jalen Hudson makes two point dunk (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:30",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson blocks Deandre Burnett's three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:28",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"16-10",
+							 "time":"12:22",
+							 "visitorText":"Mike Okauru makes two point layup (Jalen Hudson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"",
+							 "homeText":"Rebels 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Devontae Shuler, Breein Tyree, Terence Davis, Bruce Stevens, Justas Furmanavicius)"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:22",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, KeVaughn Allen, Gorjok Gak, Egor Koulechov)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:10",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak blocks Terence Davis's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:08",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:05",
+							 "visitorText":"",
+							 "homeText":"Justas Furmanavicius shooting foul (Mike Okauru draws the foul)"
+							 },
+							 {
+							 "score":"17-10",
+							 "time":"12:05",
+							 "visitorText":"Mike Okauru makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:05",
+							 "visitorText":"Mike Okauru misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:05",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:53",
+							 "visitorText":"KeVaughn Allen shooting foul (Terence Davis draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-11",
+							 "time":"11:53",
+							 "visitorText":"",
+							 "homeText":"Terence Davis makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:53",
+							 "visitorText":"Gators lineup change (Mike Okauru, Jalen Hudson, Egor Koulechov, Chris Chiozza, Gorjok Gak)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-12",
+							 "time":"11:53",
+							 "visitorText":"",
+							 "homeText":"Terence Davis makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:40",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:38",
+							 "visitorText":"",
+							 "homeText":"Devontae Shuler defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:31",
+							 "visitorText":"",
+							 "homeText":"Terence Davis misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:30",
+							 "visitorText":"",
+							 "homeText":"Rebels offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:30",
+							 "visitorText":"Jalen Hudson personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:30",
+							 "visitorText":"Gators lineup change (Mike Okauru, Keith Stone, Egor Koulechov, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:30",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Devontae Shuler, Markel Crawford, Breein Tyree, Bruce Stevens, Justas Furmanavicius)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:08",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:06",
+							 "visitorText":"",
+							 "homeText":"Devontae Shuler offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:00",
+							 "visitorText":"",
+							 "homeText":"Devontae Shuler turnover (bad pass) (Egor Koulechov steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:57",
+							 "visitorText":"Breein Tyree blocks Egor Koulechov's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:55",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"Kevarrius Hayes shooting foul (Bruce Stevens draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-13",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Egor Koulechov, Chris Chiozza, Gorjok Gak, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Breein Tyree, Markel Crawford, Bruce Stevens, Justas Furmanavicius)"
+							 },
+							 {
+							 "score":"17-14",
+							 "time":"10:31",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"19-14",
+							 "time":"10:14",
+							 "visitorText":"Gorjok Gak makes two point layup (Keith Stone assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:56",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:54",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:45",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:43",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford defensive rebound"
+							 },
+							 {
+							 "score":"19-16",
+							 "time":"9:37",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:15",
+							 "visitorText":"KeVaughn Allen turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:15",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Marcanvis Hymon, Markel Crawford, Terence Davis, Dominik Olejniczak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"Terence Davis misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:47",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:41",
+							 "visitorText":"Chris Chiozza turnover (bad pass)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"19-18",
+							 "time":"8:17",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon makes two point hook shot (Terence Davis assists)"
+							 },
+							 {
+							 "score":"22-18",
+							 "time":"8:09",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:50",
+							 "visitorText":"",
+							 "homeText":"Dominik Olejniczak misses two point turnaround hook shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:48",
+							 "visitorText":"Gorjok Gak defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:42",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:40",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon defensive rebound"
+							 },
+							 {
+							 "score":"22-20",
+							 "time":"7:26",
+							 "visitorText":"",
+							 "homeText":"Dominik Olejniczak makes two point layup (Deandre Burnett assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"Chris Chiozza turnover (back court violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:53",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Marcanvis Hymon, Terence Davis, Devontae Shuler, Dominik Olejniczak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:47",
+							 "visitorText":"",
+							 "homeText":"Terence Davis misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:45",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:25",
+							 "visitorText":"KeVaughn Allen turnover (bad pass) (Marcanvis Hymon steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:14",
+							 "visitorText":"",
+							 "homeText":"Devontae Shuler misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:12",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:59",
+							 "visitorText":"Keith Stone misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:57",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"Gorjok Gak personal foul (Dominik Olejniczak draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:56",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Devontae Shuler, Deandre Burnett, Marcanvis Hymon, Terence Davis, Bruce Stevens)"
+							 },
+							 {
+							 "score":"22-22",
+							 "time":"5:46",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes two point layup (Terence Davis assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"",
+							 "homeText":"Devontae Shuler personal foul (Chris Chiozza draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:29",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Devontae Shuler, Deandre Burnett, Marcanvis Hymon, Markel Crawford, Bruce Stevens)"
+							 },
+							 {
+							 "score":"25-22",
+							 "time":"5:16",
+							 "visitorText":"Chris Chiozza makes three point jump shot (Egor Koulechov assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:52",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak blocks Deandre Burnett's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:50",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:37",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:35",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:28",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:27",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"Gorjok Gak personal foul (Bruce Stevens draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"Official timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Dontay Bassett, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Devontae Shuler, Breein Tyree, Marcanvis Hymon, Markel Crawford, Bruce Stevens)"
+							 },
+							 {
+							 "score":"25-23",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:02",
+							 "visitorText":"KeVaughn Allen misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:00",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Dontay Bassett, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-25",
+							 "time":"3:48",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes two point jump shot (Devontae Shuler assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"Keith Stone misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:29",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:11",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:09",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:04",
+							 "visitorText":"Dontay Bassett misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:03",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:03",
+							 "visitorText":"Dontay Bassett personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:03",
+							 "visitorText":"Gators lineup change (Jalen Hudson, Egor Koulechov, Chris Chiozza, Mike Okauru, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"25-26",
+							 "time":"3:03",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"25-27",
+							 "time":"3:03",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"Chris Chiozza misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:46",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:34",
+							 "visitorText":"",
+							 "homeText":"Devontae Shuler misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:32",
+							 "visitorText":"Mike Okauru defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-27",
+							 "time":"2:25",
+							 "visitorText":"Egor Koulechov makes three point jump shot (Mike Okauru assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"28-29",
+							 "time":"2:06",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:46",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:44",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:22",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:20",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:15",
+							 "visitorText":"Mike Okauru misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:12",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:12",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Marcanvis Hymon, Terence Davis, Markel Crawford, Bruce Stevens)"
+							 },
+							 {
+							 "score":"28-31",
+							 "time":"00:51",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:24",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:22",
+							 "visitorText":"Chris Chiozza defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Jalen Hudson, Egor Koulechov, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:17",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Marcanvis Hymon, Terence Davis, Markel Crawford, Justas Furmanavicius)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:04",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:02",
+							 "visitorText":"KeVaughn Allen offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"31-31",
+							 "time":"00:01",
+							 "visitorText":"KeVaughn Allen makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Open inbound Gators",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Gators lineup change (Chris Chiozza, Keith Stone, Egor Koulechov, KeVaughn Allen, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Bruce Stevens, Terence Davis, Deandre Burnett, Marcanvis Hymon, Markel Crawford)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:44",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"32-31",
+							 "time":"19:44",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:44",
+							 "visitorText":"Keith Stone misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:44",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:32",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:32",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:32",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Marcanvis Hymon, Terence Davis, Markel Crawford, Dominik Olejniczak)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:10",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"34-31",
+							 "time":"19:08",
+							 "visitorText":"Keith Stone makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:48",
+							 "visitorText":"",
+							 "homeText":"Terence Davis misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:46",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"KeVaughn Allen shooting foul (Terence Davis draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Terence Davis misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Rebels rebound (deadball)"
+							 },
+							 {
+							 "score":"34-32",
+							 "time":"18:41",
+							 "visitorText":"",
+							 "homeText":"Terence Davis makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"36-32",
+							 "time":"18:21",
+							 "visitorText":"Kevarrius Hayes makes two point layup (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Dominik Olejniczak offensive foul (Kevarrius Hayes draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:07",
+							 "visitorText":"",
+							 "homeText":"Dominik Olejniczak turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:50",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:48",
+							 "visitorText":"",
+							 "homeText":"Dominik Olejniczak defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:48",
+							 "visitorText":"",
+							 "homeText":"Jump ball. Dominik Olejniczak vs. Egor Koulechov (Rebels gains possession)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:48",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Marcanvis Hymon, Terence Davis, Markel Crawford, Justas Furmanavicius)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:29",
+							 "visitorText":"",
+							 "homeText":"Terence Davis misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:27",
+							 "visitorText":"",
+							 "homeText":"Rebels offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:27",
+							 "visitorText":"Kevarrius Hayes personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:27",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Jalen Hudson, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:27",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Marcanvis Hymon, Devontae Shuler, Markel Crawford, Justas Furmanavicius)"
+							 },
+							 {
+							 "score":"36-34",
+							 "time":"17:18",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:09",
+							 "visitorText":"KeVaughn Allen turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-36",
+							 "time":"16:54",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:31",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:29",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"Jalen Hudson personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:15",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"36-38",
+							 "time":"16:13",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes two point layup (Markel Crawford assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:04",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:04",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-38",
+							 "time":"15:54",
+							 "visitorText":"KeVaughn Allen makes two point floating jump shot (Egor Koulechov assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"38-40",
+							 "time":"15:34",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford makes two point turnaround hook shot"
+							 },
+							 {
+							 "score":"41-40",
+							 "time":"15:18",
+							 "visitorText":"Mike Okauru makes three point jump shot (Keith Stone assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:59",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:57",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"44-40",
+							 "time":"14:50",
+							 "visitorText":"Egor Koulechov makes three point jump shot (KeVaughn Allen assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"Keith Stone shooting foul (Markel Crawford draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Devontae Shuler, Deandre Burnett, Breein Tyree, Markel Crawford, Bruce Stevens)"
+							 },
+							 {
+							 "score":"44-41",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"44-42",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"46-42",
+							 "time":"13:55",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"46-44",
+							 "time":"13:32",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes two point layup (Deandre Burnett assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:22",
+							 "visitorText":"KeVaughn Allen misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:20",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"49-44",
+							 "time":"13:11",
+							 "visitorText":"Keith Stone makes three point jump shot (Egor Koulechov assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:59",
+							 "visitorText":"",
+							 "homeText":"Devontae Shuler misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:57",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-44",
+							 "time":"12:49",
+							 "visitorText":"Mike Okauru makes three point jump shot (Chris Chiozza assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"",
+							 "homeText":"Rebels 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:42",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Terence Davis, Deandre Burnett, Breein Tyree, Markel Crawford, Marcanvis Hymon)"
+							 },
+							 {
+							 "score":"52-47",
+							 "time":"12:31",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford makes three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:18",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree personal foul (Chris Chiozza draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:58",
+							 "visitorText":"Chris Chiozza misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:56",
+							 "visitorText":"",
+							 "homeText":"Terence Davis defensive rebound"
+							 },
+							 {
+							 "score":"52-50",
+							 "time":"11:49",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes three point jump shot (Breein Tyree assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:22",
+							 "visitorText":"Keith Stone misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:20",
+							 "visitorText":"",
+							 "homeText":"Terence Davis defensive rebound"
+							 },
+							 {
+							 "score":"52-52",
+							 "time":"11:06",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon makes two point layup (Deandre Burnett assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"",
+							 "homeText":"Terence Davis shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, Jalen Hudson, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-52",
+							 "time":"10:43",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"Keith Stone misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:43",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:26",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:24",
+							 "visitorText":"Jalen Hudson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:04",
+							 "visitorText":"Chris Chiozza misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:02",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:57",
+							 "visitorText":"Keith Stone turnover (lost ball) (Breein Tyree steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:50",
+							 "visitorText":"",
+							 "homeText":"Terence Davis misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:48",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:41",
+							 "visitorText":"",
+							 "homeText":"Terence Davis shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"54-52",
+							 "time":"9:41",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-52",
+							 "time":"9:41",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"55-55",
+							 "time":"9:25",
+							 "visitorText":"",
+							 "homeText":"Terence Davis makes three point jump shot (Breein Tyree assists)"
+							 },
+							 {
+							 "score":"58-55",
+							 "time":"9:05",
+							 "visitorText":"Jalen Hudson makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:47",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:45",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:45",
+							 "visitorText":"Keith Stone personal foul (Marcanvis Hymon draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:45",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Jalen Hudson, Egor Koulechov, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:45",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Bruce Stevens, Terence Davis, Breein Tyree, Markel Crawford)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:35",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:33",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens offensive rebound"
+							 },
+							 {
+							 "score":"58-57",
+							 "time":"8:33",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes two point tip shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:18",
+							 "visitorText":"Jalen Hudson turnover (out of bounds)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"58-60",
+							 "time":"8:03",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes three point jump shot (Breein Tyree assists)"
+							 },
+							 {
+							 "score":"60-60",
+							 "time":"7:46",
+							 "visitorText":"Egor Koulechov makes two point driving jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:23",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree turnover (bad pass) (Egor Koulechov steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:18",
+							 "visitorText":"Terence Davis blocks Egor Koulechov's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:16",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"Jalen Hudson shooting foul (Deandre Burnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:12",
+							 "visitorText":"Gators lineup change (Keith Stone, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"60-61",
+							 "time":"7:12",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"60-62",
+							 "time":"7:12",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree personal foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:50",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"61-62",
+							 "time":"6:50",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-62",
+							 "time":"6:50",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-64",
+							 "time":"6:34",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes two point jump shot (Terence Davis assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:17",
+							 "visitorText":"",
+							 "homeText":"Terence Davis shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"63-64",
+							 "time":"6:17",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-64",
+							 "time":"6:17",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"64-66",
+							 "time":"5:57",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes two point jump shot (Deandre Burnett assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:32",
+							 "visitorText":"Egor Koulechov misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:30",
+							 "visitorText":"",
+							 "homeText":"Terence Davis defensive rebound"
+							 },
+							 {
+							 "score":"64-68",
+							 "time":"5:16",
+							 "visitorText":"",
+							 "homeText":"Terence Davis makes two point layup (Deandre Burnett assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:56",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:54",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:51",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree shooting foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:51",
+							 "visitorText":"Keith Stone misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:51",
+							 "visitorText":"Gators rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:51",
+							 "visitorText":"Gators lineup change (Egor Koulechov, Jalen Hudson, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"65-68",
+							 "time":"4:51",
+							 "visitorText":"Keith Stone makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:29",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford turnover (bad pass) (Keith Stone steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:26",
+							 "visitorText":"Keith Stone turnover (lost ball) (Bruce Stevens steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"Keith Stone personal foul (Bruce Stevens draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Terence Davis, Marcanvis Hymon, Markel Crawford, Bruce Stevens)"
+							 },
+							 {
+							 "score":"65-69",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"65-70",
+							 "time":"4:25",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"Jalen Hudson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:06",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:45",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett turnover (bad pass) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:42",
+							 "visitorText":"Terence Davis blocks Keith Stone's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:40",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:27",
+							 "visitorText":"",
+							 "homeText":"Terence Davis misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:25",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-70",
+							 "time":"3:19",
+							 "visitorText":"Chris Chiozza makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:56",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett turnover (lost ball) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:49",
+							 "visitorText":"Egor Koulechov misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:47",
+							 "visitorText":"",
+							 "homeText":"Terence Davis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:30",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:28",
+							 "visitorText":"Keith Stone defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:27",
+							 "visitorText":"",
+							 "homeText":"Marcanvis Hymon personal foul (Keith Stone draws the foul)"
+							 },
+							 {
+							 "score":"68-70",
+							 "time":"2:27",
+							 "visitorText":"Keith Stone makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:27",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Breein Tyree, Terence Davis, Markel Crawford, Bruce Stevens)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:27",
+							 "visitorText":"Keith Stone misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:27",
+							 "visitorText":"",
+							 "homeText":"Terence Davis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:01",
+							 "visitorText":"Egor Koulechov shooting foul (Deandre Burnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"68-71",
+							 "time":"2:01",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"68-72",
+							 "time":"2:01",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:01",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Marcanvis Hymon, Terence Davis, Breein Tyree, Markel Crawford, Bruce Stevens)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:46",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree shooting foul (Jalen Hudson draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:46",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Terence Davis, Breein Tyree, Markel Crawford, Bruce Stevens)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:46",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-72",
+							 "time":"1:46",
+							 "visitorText":"Jalen Hudson makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-72",
+							 "time":"1:46",
+							 "visitorText":"Jalen Hudson makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-74",
+							 "time":"1:26",
+							 "visitorText":"",
+							 "homeText":"Bruce Stevens makes two point layup (Terence Davis assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:04",
+							 "visitorText":"Chris Chiozza misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"",
+							 "homeText":"Rebels defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"Gators 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:03",
+							 "visitorText":"Gators lineup change (KeVaughn Allen, Egor Koulechov, Chris Chiozza, Kevarrius Hayes, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:58",
+							 "visitorText":"",
+							 "homeText":"Markel Crawford turnover (bad pass) (Chris Chiozza steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"Keith Stone offensive foul (Markel Crawford draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"Keith Stone turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"Chris Chiozza personal foul (Breein Tyree draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"70-75",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"Gators lineup change (Egor Koulechov, KeVaughn Allen, Chris Chiozza, Jalen Hudson, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Marcanvis Hymon, Terence Davis, Breein Tyree, Markel Crawford, Bruce Stevens)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:48",
+							 "visitorText":"",
+							 "homeText":"Terence Davis offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"Jalen Hudson personal foul (Breein Tyree draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Keith Stone)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Marcanvis Hymon, Terence Davis, Breein Tyree, Markel Crawford, Deandre Burnett)"
+							 },
+							 {
+							 "score":"70-76",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"70-77",
+							 "time":"00:40",
+							 "visitorText":"",
+							 "homeText":"Breein Tyree makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:32",
+							 "visitorText":"Jump ball. Chris Chiozza vs. Breein Tyree (Gators gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"KeVaughn Allen misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:23",
+							 "visitorText":"",
+							 "homeText":"Terence Davis defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:16",
+							 "visitorText":"",
+							 "homeText":"Terence Davis turnover (Egor Koulechov steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:12",
+							 "visitorText":"Egor Koulechov misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"KeVaughn Allen offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"Mike Okauru misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Egor Koulechov offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Egor Koulechov misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Keith Stone offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"72-77",
+							 "time":"00:06",
+							 "visitorText":"Keith Stone makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"Gators 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:06",
+							 "visitorText":"",
+							 "homeText":"Rebels lineup change (Deandre Burnett, Bruce Stevens, Terence Davis, Breein Tyree, Markel Crawford)"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"Keith Stone personal foul (Deandre Burnett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"Gators lineup change (Mike Okauru, Egor Koulechov, KeVaughn Allen, Chris Chiozza, Kevarrius Hayes)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"72-78",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"",
+							 "homeText":"Deandre Burnett misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:03",
+							 "visitorText":"Egor Koulechov defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		}

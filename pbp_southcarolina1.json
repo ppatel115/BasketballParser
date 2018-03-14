@@ -1,0 +1,1903 @@
+{
+	      "meta" : {
+		            "title": " Play-By-Play",
+		            "description": "Play-By-Play for Florida vs South Carolina",
+		            "division": "d1",
+		            "status" : "Final",
+		            "period": "2",
+		            "minutes": "00",
+		            "seconds" : "00",
+		            "teams":[
+					     {      
+					     								
+				"homeTeam": "true",
+				"id": "1795",
+				"seoName": "florida",
+				"sixCharAbbr": "FLA",
+				"shortName": "Florida",	
+				"nickName": "Gators",		
+				"color": "#003488"						
+	
+						},
+						{
+														
+				"homeTeam": "false",
+				"id": "953",
+				"seoName": "south-carolina",
+				"sixCharAbbr": "S CAR",
+				"shortName": "South Carolina",	
+				"nickName": "Gamecocks",		
+				"color": "#73000A"						
+	
+						}
+		            ]
+		        },
+	    
+    	"periods":[
+    			   
+	    		
+    	 {    
+		 "periodNumber":"1",
+		 "periodDisplay":"1st Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"Maik Kotsar vs. Kevarrius Hayes (Wesley Myers gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-0",
+							 "time":"19:31",
+							 "visitorText":"Maik Kotsar makes three point jump shot (Wesley Myers assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"3-2",
+							 "time":"19:13",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point jump shot"
+							 },
+							 {
+							 "score":"6-2",
+							 "time":"18:58",
+							 "visitorText":"Evan Hinson makes three point jump shot (Justin Minaya assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:28",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:26",
+							 "visitorText":"Chris Silva defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:12",
+							 "visitorText":"Justin Minaya misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:10",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"6-4",
+							 "time":"18:02",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:52",
+							 "visitorText":"Justin Minaya turnover (lost ball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-7",
+							 "time":"17:43",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:10",
+							 "visitorText":"Wesley Myers misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:08",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:59",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:57",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:41",
+							 "visitorText":"Evan Hinson shooting foul (Egor Koulechov draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"6-8",
+							 "time":"16:41",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 1 of 3"
+							 },
+							 {
+							 "score":"6-9",
+							 "time":"16:41",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 2 of 3"
+							 },
+							 {
+							 "score":"6-10",
+							 "time":"16:41",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes regular free throw 3 of 3"
+							 },
+							 {
+							 "score":"8-10",
+							 "time":"16:21",
+							 "visitorText":"Chris Silva makes two point jump shot (Maik Kotsar assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:53",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:51",
+							 "visitorText":"Chris Silva defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:26",
+							 "visitorText":"Chris Silva turnover (Kevarrius Hayes steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:20",
+							 "visitorText":"",
+							 "homeText":"Maik Kotsar blocks Kevarrius Hayes's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:19",
+							 "visitorText":"Chris Silva defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:18",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:08",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (lost ball) (Wesley Myers steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:00",
+							 "visitorText":"Maik Kotsar misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:58",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"8-12",
+							 "time":"14:50",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:41",
+							 "visitorText":"Wesley Myers offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:41",
+							 "visitorText":"Wesley Myers turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:27",
+							 "visitorText":"Frank Booker shooting foul (Dontay Bassett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"8-13",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"8-14",
+							 "time":"14:27",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"14:19",
+							 "visitorText":"Chris Silva misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:17",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"8-16",
+							 "time":"14:11",
+							 "visitorText":"",
+							 "homeText":"Keith Stone makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"David Beatty misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:40",
+							 "visitorText":"Chris Silva offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-16",
+							 "time":"13:33",
+							 "visitorText":"Felipe Haase makes two point layup (Maik Kotsar assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:13",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:11",
+							 "visitorText":"Maik Kotsar defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:04",
+							 "visitorText":"Keith Stone blocks Frank Booker's two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:02",
+							 "visitorText":"Maik Kotsar offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:02",
+							 "visitorText":"Hassani Gravett misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:00",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:46",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:44",
+							 "visitorText":"Jason Cudd defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"David Beatty offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:29",
+							 "visitorText":"David Beatty turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:16",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:14",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:01",
+							 "visitorText":"Wesley Myers misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:59",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:55",
+							 "visitorText":"Justin Minaya shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:55",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"10-17",
+							 "time":"11:55",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"10-18",
+							 "time":"11:55",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:39",
+							 "visitorText":"Wesley Myers misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:37",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard defensive rebound"
+							 },
+							 {
+							 "score":"10-21",
+							 "time":"11:29",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:13",
+							 "visitorText":"Evan Hinson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:11",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:03",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:01",
+							 "visitorText":"Evan Hinson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:46",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza shooting foul"
+							 },
+							 {
+							 "score":"11-21",
+							 "time":"10:46",
+							 "visitorText":"Felipe Haase makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"12-21",
+							 "time":"10:46",
+							 "visitorText":"Felipe Haase makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:33",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:31",
+							 "visitorText":"Maik Kotsar defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:15",
+							 "visitorText":"Chris Silva misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:13",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:13",
+							 "visitorText":"Maik Kotsar personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:00",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (traveling)"
+							 },
+							 {
+							 "score":"15-21",
+							 "time":"9:47",
+							 "visitorText":"Wesley Myers makes three point jump shot (Maik Kotsar assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"15-23",
+							 "time":"9:27",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:17",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov shooting foul (Maik Kotsar draws the foul)"
+							 },
+							 {
+							 "score":"16-23",
+							 "time":"9:17",
+							 "visitorText":"Maik Kotsar makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"17-23",
+							 "time":"9:17",
+							 "visitorText":"Maik Kotsar makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:07",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:05",
+							 "visitorText":"Evan Hinson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:48",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:44",
+							 "visitorText":"Maik Kotsar misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:42",
+							 "visitorText":"Justin Minaya offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Justin Minaya turnover (lost ball) (Keith Stone steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (lost ball) (Wesley Myers steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson shooting foul (Chris Silva draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Chris Silva misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:34",
+							 "visitorText":"Gamecocks rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-23",
+							 "time":"8:34",
+							 "visitorText":"Chris Silva makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:03",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:01",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:58",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:58",
+							 "visitorText":"Chris Silva defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:58",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:43",
+							 "visitorText":"Evan Hinson turnover (Jalen Hudson steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"18-25",
+							 "time":"7:36",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point layup"
+							 },
+							 {
+							 "score":"21-25",
+							 "time":"7:25",
+							 "visitorText":"Wesley Myers makes three point jump shot (Evan Hinson assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:06",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:04",
+							 "visitorText":"Chris Silva defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"24-25",
+							 "time":"6:47",
+							 "visitorText":"Wesley Myers makes three point jump shot (Justin Minaya assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"Chris Silva shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Keith Stone misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:20",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"24-28",
+							 "time":"6:16",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:06",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru shooting foul (Wesley Myers draws the foul)"
+							 },
+							 {
+							 "score":"25-28",
+							 "time":"6:06",
+							 "visitorText":"Wesley Myers makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:06",
+							 "visitorText":"Wesley Myers misses regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:06",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:59",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover (bad pass) (Chris Silva steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:38",
+							 "visitorText":"Felipe Haase misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:36",
+							 "visitorText":"Chris Silva offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:36",
+							 "visitorText":"",
+							 "homeText":"Keith Stone personal foul"
+							 },
+							 {
+							 "score":"26-28",
+							 "time":"5:36",
+							 "visitorText":"Chris Silva makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"27-28",
+							 "time":"5:36",
+							 "visitorText":"Chris Silva makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:22",
+							 "visitorText":"",
+							 "homeText":"Keith Stone turnover (bad pass) (Wesley Myers steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:13",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul (Chris Silva draws the foul)"
+							 },
+							 {
+							 "score":"28-28",
+							 "time":"5:13",
+							 "visitorText":"Chris Silva makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-28",
+							 "time":"5:13",
+							 "visitorText":"Chris Silva makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-30",
+							 "time":"4:47",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:40",
+							 "visitorText":"",
+							 "homeText":"Gators kicked ball violation"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:32",
+							 "visitorText":"David Beatty misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:30",
+							 "visitorText":"Chris Silva personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"29-31",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"29-32",
+							 "time":"4:30",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:18",
+							 "visitorText":"Maik Kotsar offensive foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:18",
+							 "visitorText":"Maik Kotsar turnover",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:10",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"4:08",
+							 "visitorText":"Evan Hinson defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:01",
+							 "visitorText":"Dontay Bassett blocks Hassani Gravett's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:59",
+							 "visitorText":"Gamecocks offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"Justin Minaya misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:49",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:33",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:31",
+							 "visitorText":"Felipe Haase defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"32-32",
+							 "time":"3:11",
+							 "visitorText":"Justin Minaya makes three point jump shot (Khadim Gueye assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:55",
+							 "visitorText":"",
+							 "homeText":"Khadim Gueye blocks Jalen Hudson's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:53",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:52",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (Evan Hinson steals)"
+							 },
+							 {
+							 "score":"34-32",
+							 "time":"2:40",
+							 "visitorText":"Evan Hinson makes two point dunk",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:25",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:23",
+							 "visitorText":"Gamecocks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:58",
+							 "visitorText":"Wesley Myers misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:56",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (Felipe Haase steals)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:48",
+							 "visitorText":"Gamecocks 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:34",
+							 "visitorText":"Felipe Haase misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:32",
+							 "visitorText":"",
+							 "homeText":"Keith Stone defensive rebound"
+							 },
+							 {
+							 "score":"34-34",
+							 "time":"1:17",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes two point jump shot (Keith Stone assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:17",
+							 "visitorText":"Khadim Gueye shooting foul (Dontay Bassett draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:17",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett misses regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:17",
+							 "visitorText":"Felipe Haase defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-34",
+							 "time":"00:55",
+							 "visitorText":"Evan Hinson makes three point jump shot (Wesley Myers assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"Khadim Gueye personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"37-35",
+							 "time":"00:39",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"Khadim Gueye defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-35",
+							 "time":"00:16",
+							 "visitorText":"Wesley Myers makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:12",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"39-37",
+							 "time":"00:07",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 1st Half.",
+							 "homeText":""
+							 }
+				]
+			},
+    	 {    
+		 "periodNumber":"2",
+		 "periodDisplay":"2nd Half",	  
+			 "playStats":[
+							
+							 {
+							 "score":"",
+							 "time":"20:00",
+							 "visitorText":"",
+							 "homeText":"Open inbound Gators"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:45",
+							 "visitorText":"",
+							 "homeText":"Evan Hinson blocks KeVaughn Allen's two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:43",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"39-40",
+							 "time":"19:43",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:43",
+							 "visitorText":"Evan Hinson shooting foul (KeVaughn Allen draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-41",
+							 "time":"19:43",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes regular free throw 1 of 1"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:14",
+							 "visitorText":"Maik Kotsar misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"19:12",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"19:05",
+							 "visitorText":"Chris Silva shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"39-42",
+							 "time":"19:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"39-43",
+							 "time":"19:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:50",
+							 "visitorText":"David Beatty misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:48",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"39-45",
+							 "time":"18:35",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:27",
+							 "visitorText":"Wesley Myers misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"18:25",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"39-48",
+							 "time":"18:15",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes three point jump shot (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"18:13",
+							 "visitorText":"Gamecocks 30 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:51",
+							 "visitorText":"Evan Hinson misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:49",
+							 "visitorText":"",
+							 "homeText":"Gators defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:29",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:27",
+							 "visitorText":"Gamecocks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"17:27",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"17:00",
+							 "visitorText":"Gamecocks turnover (shot clock violation)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"16:45",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"16:43",
+							 "visitorText":"Wesley Myers defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-48",
+							 "time":"16:15",
+							 "visitorText":"Wesley Myers makes three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"42-50",
+							 "time":"15:58",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:43",
+							 "visitorText":"Evan Hinson misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:41",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:26",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza turnover (bad pass)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:26",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:05",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen shooting foul (Felipe Haase draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"15:05",
+							 "visitorText":"Felipe Haase misses regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"15:05",
+							 "visitorText":"Gamecocks rebound (deadball)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"43-50",
+							 "time":"15:05",
+							 "visitorText":"Felipe Haase makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:49",
+							 "visitorText":"Hassani Gravett personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"14:33",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (traveling)"
+							 },
+							 {
+							 "score":"46-50",
+							 "time":"14:11",
+							 "visitorText":"Wesley Myers makes three point jump shot (Maik Kotsar assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:53",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"13:51",
+							 "visitorText":"Felipe Haase defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:44",
+							 "visitorText":"Wesley Myers misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:42",
+							 "visitorText":"Maik Kotsar offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:19",
+							 "visitorText":"Felipe Haase misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"13:17",
+							 "visitorText":"Hassani Gravett offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"48-50",
+							 "time":"13:09",
+							 "visitorText":"Hassani Gravett makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:50",
+							 "visitorText":"Felipe Haase shooting foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"12:49",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett misses regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"12:49",
+							 "visitorText":"",
+							 "homeText":"Gators rebound (deadball)"
+							 },
+							 {
+							 "score":"48-51",
+							 "time":"12:49",
+							 "visitorText":"",
+							 "homeText":"Dontay Bassett makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"51-51",
+							 "time":"12:32",
+							 "visitorText":"Justin Minaya makes three point jump shot (Hassani Gravett assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"51-53",
+							 "time":"12:06",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"",
+							 "homeText":"Gorjok Gak shooting foul (Chris Silva draws the foul)"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:50",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"52-53",
+							 "time":"11:50",
+							 "visitorText":"Chris Silva makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"53-53",
+							 "time":"11:50",
+							 "visitorText":"Chris Silva makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:38",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:36",
+							 "visitorText":"Chris Silva defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:23",
+							 "visitorText":"Gorjok Gak blocks Justin Minaya's two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"11:21",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:07",
+							 "visitorText":"",
+							 "homeText":"Chris Silva blocks Egor Koulechov's two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"11:05",
+							 "visitorText":"",
+							 "homeText":"Deaundrae Ballard offensive rebound"
+							 },
+							 {
+							 "score":"53-56",
+							 "time":"11:05",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes three point jump shot (Jalen Hudson assists)"
+							 },
+							 {
+							 "score":"55-56",
+							 "time":"10:36",
+							 "visitorText":"Wesley Myers makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"10:13",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"10:11",
+							 "visitorText":"Chris Silva defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-56",
+							 "time":"9:52",
+							 "visitorText":"Maik Kotsar makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:29",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:27",
+							 "visitorText":"Maik Kotsar personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:22",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:20",
+							 "visitorText":"Gamecocks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:03",
+							 "visitorText":"Hassani Gravett misses two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"9:01",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"9:01",
+							 "visitorText":"Maik Kotsar personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"57-58",
+							 "time":"8:49",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"8:27",
+							 "visitorText":"Chris Silva misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"8:25",
+							 "visitorText":"Chris Silva offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-58",
+							 "time":"8:20",
+							 "visitorText":"Wesley Myers makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"59-60",
+							 "time":"7:48",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point jump shot"
+							 },
+							 {
+							 "score":"61-60",
+							 "time":"7:36",
+							 "visitorText":"Chris Silva makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:36",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes shooting foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"7:36",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"62-60",
+							 "time":"7:36",
+							 "visitorText":"Chris Silva makes regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"7:16",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen turnover (out of bounds)"
+							 },
+							 {
+							 "score":"65-60",
+							 "time":"6:53",
+							 "visitorText":"Frank Booker makes three point jump shot (Felipe Haase assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:34",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"6:32",
+							 "visitorText":"Frank Booker defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"6:02",
+							 "visitorText":"Wesley Myers turnover (traveling)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"",
+							 "homeText":"Gators offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:44",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:38",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"5:36",
+							 "visitorText":"Chris Silva defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:09",
+							 "visitorText":"Chris Silva misses two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"5:07",
+							 "visitorText":"Chris Silva offensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:57",
+							 "visitorText":"Wesley Myers misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"4:55",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov defensive rebound"
+							 },
+							 {
+							 "score":"65-62",
+							 "time":"4:46",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson makes two point jump shot"
+							 },
+							 {
+							 "score":"67-62",
+							 "time":"4:27",
+							 "visitorText":"Chris Silva makes two point layup",
+							 "homeText":""
+							 },
+							 {
+							 "score":"67-64",
+							 "time":"4:03",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov makes two point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen kicked ball violation"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:36",
+							 "visitorText":"TV timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-64",
+							 "time":"3:25",
+							 "visitorText":"Chris Silva makes two point dunk (Wesley Myers assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"3:19",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson offensive foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:19",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson turnover"
+							 },
+							 {
+							 "score":"",
+							 "time":"3:00",
+							 "visitorText":"Frank Booker misses three point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"2:58",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:48",
+							 "visitorText":"Wesley Myers personal foul",
+							 "homeText":""
+							 },
+							 {
+							 "score":"69-65",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"69-66",
+							 "time":"2:48",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"71-66",
+							 "time":"2:31",
+							 "visitorText":"Maik Kotsar makes two point jump shot (Wesley Myers assists)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"71-68",
+							 "time":"2:23",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point layup (Chris Chiozza assists)"
+							 },
+							 {
+							 "score":"",
+							 "time":"2:02",
+							 "visitorText":"Hassani Gravett turnover (bad pass) (Egor Koulechov steals)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:54",
+							 "visitorText":"",
+							 "homeText":"Egor Koulechov turnover (bad pass) (Wesley Myers steals)"
+							 },
+							 {
+							 "score":"73-68",
+							 "time":"1:40",
+							 "visitorText":"Chris Silva makes two point jump shot",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:25",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"Gamecocks defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:23",
+							 "visitorText":"Play review",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:11",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza personal foul"
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"Hassani Gravett misses regular free throw 1 of 1",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"1:05",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes defensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:57",
+							 "visitorText":"",
+							 "homeText":"KeVaughn Allen misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:55",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes offensive rebound"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:47",
+							 "visitorText":"Chris Silva shooting foul (Chris Chiozza draws the foul)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"73-69",
+							 "time":"00:47",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 1 of 2"
+							 },
+							 {
+							 "score":"73-70",
+							 "time":"00:47",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza makes regular free throw 2 of 2"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:39",
+							 "visitorText":"",
+							 "homeText":"Mike Okauru personal foul (Frank Booker draws the foul)"
+							 },
+							 {
+							 "score":"74-70",
+							 "time":"00:39",
+							 "visitorText":"Frank Booker makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-70",
+							 "time":"00:39",
+							 "visitorText":"Frank Booker makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"75-72",
+							 "time":"00:32",
+							 "visitorText":"",
+							 "homeText":"Kevarrius Hayes makes two point layup"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:30",
+							 "visitorText":"",
+							 "homeText":"Gators 30 second timeout"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:25",
+							 "visitorText":"Jump ball. Chris Silva vs. Egor Koulechov (Gamecocks gains possession)",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"",
+							 "homeText":"Jalen Hudson personal foul (Frank Booker draws the foul)"
+							 },
+							 {
+							 "score":"76-72",
+							 "time":"00:20",
+							 "visitorText":"Frank Booker makes regular free throw 1 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:20",
+							 "visitorText":"Gamecocks 60 second timeout",
+							 "homeText":""
+							 },
+							 {
+							 "score":"77-72",
+							 "time":"00:20",
+							 "visitorText":"Frank Booker makes regular free throw 2 of 2",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:10",
+							 "visitorText":"",
+							 "homeText":"Chris Chiozza misses three point jump shot"
+							 },
+							 {
+							 "score":"",
+							 "time":"00:08",
+							 "visitorText":"Maik Kotsar defensive rebound",
+							 "homeText":""
+							 },
+							 {
+							 "score":"",
+							 "time":"00:00",
+							 "visitorText":"End of 2nd Half.",
+							 "homeText":""
+							 }
+				]
+			}
+			
+			]
+		}
