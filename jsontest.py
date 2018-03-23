@@ -3,13 +3,13 @@ import json
 import csv
 from Matchup import Matchup
 
-HOME = False
-data = json.load(open('pbp_southcarolina2.json'))
+HOME = True
+data = json.load(open('pbp_arkansas1.json'))
 
 florida_bigs = ["Kevarrius Hayes", "Gorjok Gak", "Dontay Bassett"]
-opp_bigs = ["Chris Silva", "Maik Kotsar", "Jason Cudd", "Khadim Gueye", "Felipe Haase"]
-florida_starters = set(["Keith Stone", "Chris Chiozza", "Jalen Hudson", "Kevarrius Hayes", "Egor Koulechev"])
-opp_starters = set(["Hassani Gravett", "Chris Silva", "Maik Kotsar", "Evan Hinson", "Justin Minaya"])
+opp_bigs = ["Daniel Gafford", "Trey Thompson"]
+florida_starters = sorted(set(["Keith Stone", "Chris Chiozza", "Kevarrius Hayes", "KeVaughn Allen", "Egor Koulechev"]))
+opp_starters = sorted(set(["Dustin Thomas", "Daniel Gafford", "Anton Beard", "Jaylen Barford", "Daryl Macon"]))
 floridaLineups = []
 opponentLineups = []
 matchupsList = []
@@ -102,6 +102,8 @@ def CreateMatchup(floridaLineupNumber, opponentLineupNumber, time,
     matchupsList[-1].floridaEndScore = floridaScore
     matchupsList[-1].opponentEndScore = opponentScore
     matchupsList[-1].finishTime = time
+    if(matchupsList[-1].finishTime > matchupsList[-1].startTime):
+        matchupsList[-1].finishTime = 0
     matchupsList.append(matchup)
     return 0
 
@@ -224,7 +226,7 @@ def IdentifyPlayFlorida(play, time, score):
         lineupstring = lineupstring.join(pieces)
         lineupstring = lineupstring[1:-1]
         lineupstring = lineupstring.split(", ")
-        lineupstring = set(lineupstring)
+        lineupstring = sorted(set(lineupstring))
         lineuptime = ConvertTimeToSeconds(time)
         splitScores = score.split("-")
         if (splitScores[0] == ''):
@@ -239,6 +241,17 @@ def IdentifyPlayFlorida(play, time, score):
         CreateFloridaLineup(lineupstring, lineuptime, floridaScore,
                             opponentScore)
         return 0
+    elif ("End" in play):
+        print("End of half")
+        splitScores = score.split("-")
+       	if (HOME):
+            floridaScore = int(splitScores[1])
+            opponentScore = int(splitScores[0])
+        else:
+            opponentScore = int(splitScores[1])
+            floridaScore = int(splitScores[0])
+        matchupsList[-1].floridaEndScore = floridaScore
+        matchupsList[-1].opponentEndScore = opponentScore
     else:
         print(play)
         return 0
@@ -324,11 +337,14 @@ def IdentifyPlayOpponent(play, time, score):
         lineupstring = lineupstring.join(pieces)
         lineupstring = lineupstring[1:-1]
         lineupstring = lineupstring.split(", ")
-        lineupstring = set(lineupstring)
+        lineupstring = sorted(set(lineupstring))
         lineuptime = ConvertTimeToSeconds(time)
 
         splitScores = score.split("-")
-        if (HOME):
+        if (splitScores[0] == ''):
+            floridaScore = 0
+            opponentScore = 0
+        elif (HOME):
             floridaScore = int(splitScores[1])
             opponentScore = int(splitScores[0])
         else:
@@ -341,10 +357,7 @@ def IdentifyPlayOpponent(play, time, score):
     elif ("End" in play):
         print("End of half")
         splitScores = score.split("-")
-        if (splitScores[0] == ''):
-            floridaScore = 0
-            opponentScore = 0
-        elif (HOME):
+       	if (HOME):
             floridaScore = int(splitScores[1])
             opponentScore = int(splitScores[0])
         else:
@@ -475,7 +488,7 @@ else:
 #     print("Personal fouls:", x.opponentPF)
 #     print("Blocks:", x.opponentBLK)
 
-with open('southcarolina2.csv', 'w') as csvfile:
+with open('arkansas1_test.csv', 'w', newline = '') as csvfile:
     fieldnames = ['Florida Player 1', 'Florida Player 2', 'Florida Player 3',
                   'Florida Player 4', 'Florida Player 5', 'Opponent Player 1',
                   'Opponent Player 2', 'Opponent Player 3',
