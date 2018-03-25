@@ -3,7 +3,7 @@ import json
 import csv
 from Matchup import Matchup
 
-HOME = input("Is Florida home? (True or False):")
+HOME = False
 jsonname = input("Enter pbp json name:")
 csv_name = input("Enter output csv name:")
 
