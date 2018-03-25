@@ -3,13 +3,31 @@ import json
 import csv
 from Matchup import Matchup
 
-HOME = True
-data = json.load(open('pbp_arkansas1.json'))
+HOME = input("Is Florida home? (True or False):")
+jsonname = input("Enter pbp json name:")
+csv_name = input("Enter output csv name:")
+
+# HOME = True
+data = json.load(open(jsonname))
+# csv_name = 'arkansas1_test.csv'
 
 florida_bigs = ["Kevarrius Hayes", "Gorjok Gak", "Dontay Bassett"]
-opp_bigs = ["Daniel Gafford", "Trey Thompson"]
-florida_starters = sorted(set(["Keith Stone", "Chris Chiozza", "Kevarrius Hayes", "KeVaughn Allen", "Egor Koulechev"]))
-opp_starters = sorted(set(["Dustin Thomas", "Daniel Gafford", "Anton Beard", "Jaylen Barford", "Daryl Macon"]))
+# opp_bigs = ["Daniel Gafford", "Trey Thompson"]
+# florida_starters = sorted(set(["Keith Stone", "Chris Chiozza", "Kevarrius Hayes", "KeVaughn Allen", "Egor Koulechev"]))
+# opp_starters = sorted(set(["Dustin Thomas", "Daniel Gafford", "Anton Beard", "Jaylen Barford", "Daryl Macon"]))
+opp_bigs = input("Enter opponent bigs:")
+florida_starters = input("Enter Florida starters:")
+opp_starters = input("Enter Opponent starters:")
+
+opp_bigs = opp_bigs.replace('"', "")
+florida_starters = florida_starters.replace('"', "")
+opp_starters = florida_starters.replace('"', "")
+
+opp_bigs = opp_bigs.split(',')
+florida_starters = sorted(set(florida_starters.split(',')))
+opp_starters = sorted(set(opp_starters.split(',')))
+
+
 floridaLineups = []
 opponentLineups = []
 matchupsList = []
@@ -488,7 +506,7 @@ else:
 #     print("Personal fouls:", x.opponentPF)
 #     print("Blocks:", x.opponentBLK)
 
-with open('arkansas1_test.csv', 'w', newline = '') as csvfile:
+with open(csv_name, 'w', newline = '') as csvfile:
     fieldnames = ['Florida Player 1', 'Florida Player 2', 'Florida Player 3',
                   'Florida Player 4', 'Florida Player 5', 'Opponent Player 1',
                   'Opponent Player 2', 'Opponent Player 3',
