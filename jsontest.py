@@ -21,7 +21,7 @@ opp_starters = input("Enter Opponent starters:")
 
 opp_bigs = opp_bigs.replace('"', "")
 florida_starters = florida_starters.replace('"', "")
-opp_starters = florida_starters.replace('"', "")
+opp_starters = opp_starters.replace('"', "")
 
 opp_bigs = opp_bigs.split(',')
 florida_starters = sorted(set(florida_starters.split(',')))
