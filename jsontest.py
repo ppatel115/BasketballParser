@@ -3,7 +3,7 @@ import json
 import csv
 from Matchup import Matchup
 
-HOME = False
+HOME = True
 jsonname = input("Enter pbp json name:")
 csv_name = input("Enter output csv name:")
 
